@@ -1,0 +1,25 @@
+== README
+
+Hi Frank,
+
+Look at the migrate file in the DB folder. This is what our tables will look like when created in SQLITE3.
+
+Check out the models inside the APP folder. I created a relationship between a museum and a exhibition.
+
+Peep the RAKEFILE! I wrote the code along with PRY. Here's what I want you to do:
+  1. Visit The Studio Museum in Harlem: http://www.studiomuseum.org/visit
+    - inspect element and grab really specific css selectors
+    - use those selectors to scrape that page for our museum table.   - this means grabbing the museum name and location. Forget the contact #
+  2. Visit their current exhibitions: 
+    a. http://www.studiomuseum.org/exhibition/when-the-stars-begin-fall-imagination-and-the-american-south
+    b. http://www.studiomuseum.org/exhibition/carrie-mae-weems-the-museum-series
+    c. http://www.studiomuseum.org/exhibition/glenn-kaino-1983
+    d. http://www.studiomuseum.org/exhibition/draped-down
+
+    - you have to scrape each exhibition for
+      i. name
+      ii. date
+      iii. image
+      iv. description
+
+  3. You got this! Tell me all  
