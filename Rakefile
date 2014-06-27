@@ -5,52 +5,45 @@ require File.expand_path('../config/application', __FILE__)
 
 Rails.application.load_tasks
 require 'nokogiri'
-require 'pry'
 
-namespace :museumScraper do
+namespace :db do
 
   desc "Srapes museum for name"
-  task :scrapeMoMa do
-    # stored physical HTML in a text file
-    html = File.open("moma_museum/visit_moma.text","r"){|file| file.read}
-    # parsing that file
+  task :seed do
+    html = File.open("moma_museum/visit_moma.txt","r"){|file| file.read}
     data = Nokogiri::HTML(html)
-    # I got a messy string so I squeezed all extra space
-    # and removed newline char
-    info_array = data.css('div.visit-section').text.squeeze.split("\n ")
-    # info_array.each do |i|
-      moma_museum ={}
+    moma_museum ={}
 
-      moma_museum[:name] = info_array[1]
-      moma_museum[:location] = info_array[3..4].join(', ')
-      moma_museum[:number] = info_array[5].split(' | ')[0]
-    # end
-    # binding.pry
-    # Museum.create(moma_museum)
+    moma_museum[:name] = data.css('div.visit-section').css('strong').text
+    moma_museum[:location] = data.css('div.visit-section').css('span.details').text.split(/\n\s+/)[1,2].join(", ")
+    
+    new_museum = Museum.create(moma_museum)
+    
 
-  end
+  # desc "Scrapes each exhibitions: name,date,img,desc,museum_id"
+  # task :exhibitionSeed do 
+    all_exhibitions = []
 
-  desc "Scrapes each exhibitions: name,date,img,desc,museum_id"
-  task :scrapeExhibition do 
-    # Below is all possible sudo code
     Dir.glob('moma_museum/*.text') do | file |
-      html = File.read(file)
-      data = Nokogiri::HTML(html)
-      list_of_exhibitions = []
+        html2 = File.read(file)
+        data2 = Nokogiri::HTML(html2)
 
-    # data.css('span.no-image').each do |exhibition|
         new_exhibition = {}
-        new_exhibition[:name] = data.css('h2.ex-title').text
-        new_exhibition[:date] =  data.css('div.br-margins p.gray-type').text
-        new_exhibition[:image] = data.css('div.center').css('img')[0].attributes["src"].value
-        new_exhibition[:image_desc] = data.css('div.center').css('img')[0].attributes["alt"].value
-        new_exhibition[:description] = data.css('div.description p.top').text
-      
-
-      # new_exhibition[:museum_id] =
-
-      list_of_exhibitions << new_exhibition
-      binding.pry
+        new_exhibition[:name] = data2.css('h2.ex-title').text
+        new_exhibition[:date] =  data2.css('div.br-margins p.gray-type').text
+        new_exhibition[:image_url] = "www.moma.org"+data2.css('div.center').css('img')[0].attributes["src"].value
+        new_exhibition[:image_desc] = data2.css('div#caption p#desc.gray-type').text
+        new_exhibition[:description] = data2.css('div.description p.top').text
+        new_exhibition[:museum_id] = Museum.find(new_museum)
+        
+        all_exhibitions << new_exhibition
+        
     end
+
+    all_exhibitions.each do |ex_hash|
+        Exhibition.create(ex_hash)
+    end
+
   end
+
 end

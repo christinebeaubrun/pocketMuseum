@@ -1,4 +1,7 @@
 class Museum < ActiveRecord::Base
-  validates :name, presence: true
   has_many  :exhibitions
+  
+  validates :name, presence: true
+  validates :location, presence: true
+  
 end

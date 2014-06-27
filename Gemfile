@@ -36,6 +36,8 @@ gem 'spring',        group: :development
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
 gem 'better_errors', '~> 1.1.0'
 gem 'nokogiri', '~> 1.6.2.1'
 gem 'pry'
+

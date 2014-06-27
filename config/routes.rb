@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'museum/new'
+
+  get 'museum/create'
+
   resources :museums do
     resources :exhibitions, only: :show
   end

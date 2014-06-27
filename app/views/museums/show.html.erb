@@ -1,0 +1,15 @@
+<h1><%= @museum.name %></h1>
+<h2><%= @museum.location %></h2>
+
+<% unless @museum.exhibitions.empty? %>
+  <h3>Current Exhibitions</h3>
+    <ol>
+      <% @museum.exhibitions.each do |exhibition| %>
+        <li><img src="<%= exhibition.image_url %>"></li>
+        <li><%= exhibition.image_desc %></li>
+        <li><h4><%= exhibition.name %></h4></li>
+        <li><%= exhibition.date %></li>
+        <li><%= exhibition.description %></li>
+      <% end %>
+    </ol><br>
+<% end %>
