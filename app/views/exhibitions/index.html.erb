@@ -1,0 +1,22 @@
+<%= render partial: "layouts/header" %>
+
+<div id="device" style="height: 971px;">    
+    <section class="grid-wrap">
+        <ul class="grid swipe-down" id="grid">
+            <li class="title-box">
+                <h1>About the<a href="#">Team</a></h1>
+            </li>
+                <% @exhibitions.each do |exhibition| %>
+
+                    <%= content_tag :li, class: 'exhibition' ,data:{ id: exhibition.id } do %>
+                        <%= link_to exhibition_path(exhibition) do %>
+                            <%= image_tag exhibition.image_url, class: 'ri' %>
+                            <%= content_tag :h3, exhibition.name %>
+                        <% end %>
+                    <% end %>
+
+                  <!--   <li><a href="/exhibitions/<%#= exhibition.id %>"><img class="ri" src="<%#= exhibition.image_url %>" alt="<%#= exhibition.name %>"><h3><#%= exhibition.name %></h3></a></li> -->
+                <% end %>
+        </ul>
+    </section>
+</div><!-- /container -->

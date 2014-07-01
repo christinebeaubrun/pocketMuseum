@@ -13,4 +13,13 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
-//= require_tree .
+//= require header_fade.js
+//= require modernizr.custom
+//= require imagesloaded.pkgd.min
+//= require gridScrollFx
+
+//= require colorfinder-1.1
+//= require masonry.pkgd.min
+//= require respond
+
+//= require hover

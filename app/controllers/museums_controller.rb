@@ -1,13 +1,11 @@
 class MuseumsController < ApplicationController
-  before_action :set_museum, only: [:show, :edit, :update, :destroy]
+  before_action :set_museum, only: [:show]
 
   def index
     @museums = Museum.all 
   end
 
-  def show
-    # @museums = Museum.all
-    # @exhibitions = Exhibition.all 
+  def show 
   end
 
   private

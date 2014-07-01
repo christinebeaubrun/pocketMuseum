@@ -1,0 +1,8 @@
+<div id="wrapper">
+  <p><h3 align="center"><%= link_to "Home", exhibitions_path %></h3></p>
+  <h1 align="center"><%= @exhibition.name %></h1>
+  <h2 align="center"><%= @exhibition.date %></h2>
+  <p align="center"><img src="<%= @exhibition.image_url %>"></p>
+  <h5 align="center"><%= @exhibition.image_desc %></h5>
+  <h3 align="center"><%= @exhibition.description %></h3>
+</div>  

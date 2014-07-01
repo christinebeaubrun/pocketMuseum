@@ -1,15 +1,14 @@
-<h1><%= @museum.name %></h1>
-<h2><%= @museum.location %></h2>
-
-<% unless @museum.exhibitions.empty? %>
-  <h3>Current Exhibitions</h3>
-    <ol>
-      <% @museum.exhibitions.each do |exhibition| %>
-        <li><img src="<%= exhibition.image_url %>"></li>
-        <li><%= exhibition.image_desc %></li>
-        <li><h4><%= exhibition.name %></h4></li>
-        <li><%= exhibition.date %></li>
-        <li><%= exhibition.description %></li>
-      <% end %>
-    </ol><br>
-<% end %>
+<div id="device" style="height: 971px;">    
+    <section class="grid-wrap">
+        <ul class="grid swipe-down" id="grid">
+            <li class="title-box">
+                <h1>About the<a href="#">Team</a></h1>
+            </li>
+                <% unless @museum.exhibitions.empty? %>
+                      <% @museum.exhibitions.each do |exhibition| %>
+                        <li><a href="/exhitions/<%= exhibition.id %>"><img class="ri" src="<%= exhibition.image_url %>" alt="<%= exhibition.name %>"><h3><%= exhibition.name %></h3></a></li>
+                      <% end %>
+                <% end %>
+        </ul>
+    </section>
+</div><!-- /container -->
