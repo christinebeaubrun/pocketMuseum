@@ -12,6 +12,10 @@
                         <%= link_to exhibition_path(exhibition) do %>
                             <%= image_tag exhibition.image_url, class: 'ri' %>
                             <%= content_tag :h3, exhibition.name %>
+                            <%= content_tag :h4, class: 'text' do %>
+                                <%= exhibition.museum.name %><br><br>
+                                <%= exhibition.date %>
+                            <% end %>
                         <% end %>
                     <% end %>
 

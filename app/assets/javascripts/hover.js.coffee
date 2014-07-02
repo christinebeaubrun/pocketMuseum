@@ -26,3 +26,4 @@ mouseOut = ( e )->
 
 $( document ).ready ()->
   $('li.exhibition').hover(mouseIn)
+

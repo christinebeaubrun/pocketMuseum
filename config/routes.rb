@@ -5,7 +5,7 @@ Rails.application.routes.draw do
     resources :museums, only: :show
   end
 
-  get 'exhibitions/:id/mask' => 'exhibitions#hover_mask'
+  # get 'exhibitions/:id/mask' => 'exhibitions#hover_mask'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

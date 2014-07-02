@@ -1,7 +1,35 @@
 
-img.ri{
-	display: block;
-  margin: auto;
+.text{
+	background: rgba(0,0,0,0.5);
+  color: white;
+  cursor: pointer;
+  display: table;
+  height: 150px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 150px;
+
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+
+  opacity: 0;
+  -webkit-transition: opacity 500ms;
+  -moz-transition: opacity 500ms;
+  -o-transition: opacity 500ms;
+  transition: opacity 500ms;
+  
+}
+
+.exhibition{
+	transition: background-color 0.5s ease;
+}
+
+.exhibition:hover .text{
+	opacity: 1; 
+	visibility: visible;
+	background: rgba(0,0,0,0.5);
 }
 
 body {
@@ -112,6 +140,7 @@ header {
 
 /* Anchor and image */
 .grid li > a,
+.grid li > .text,
 .grid li img {
 	display: block;
 	outline: none;

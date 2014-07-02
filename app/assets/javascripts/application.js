@@ -22,4 +22,4 @@
 //= require masonry.pkgd.min
 //= require respond
 
-//= require hover
+//= require onClick.js 
