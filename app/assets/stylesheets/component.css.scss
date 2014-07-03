@@ -1,18 +1,20 @@
 
+/* ------------------------------------------------------------------------- */
+/* ABOVE IS CSS MODAL OVERLAY */
+/* ------------------------------------------------------------------------- */
+
 .text{
 	background: rgba(0,0,0,0.5);
   color: white;
   cursor: pointer;
   display: table;
-  height: 150px;
+  height: 100%;
   left: 0;
   position: absolute;
   top: 0;
-  width: 150px;
+  width: 100%;
 
-  display: table-cell;
-  text-align: center;
-  vertical-align: middle;
+  display: table;
 
   opacity: 0;
   -webkit-transition: opacity 500ms;
@@ -22,7 +24,18 @@
   
 }
 
+.text-middle {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  padding-top: 6%;
+  padding-bottom: 10%;
+}
+
 .exhibition{
+  img {
+    width: 100%;
+  }
 	transition: background-color 0.5s ease;
 }
 
@@ -42,18 +55,18 @@ body {
 }
 
 header {
-    text-align: center;
-    position: fixed;
+    background: url(image-path("pocketMuseum.jpg")) no-repeat 50% 100px; position: fixed;
     top: 25%;
     z-index: 999999;
-    width: 400px;
+    width: 8000px;
+    height: 8000px;
     left: 50%;
-    display: none;
+    /*display: none;*/
   /*  margin-left: -200px; */
 	  
   }
  
-    header h1 {
+    /*header h1 {
       font-size: 60px;
       line-height: 1;
       letter-spacing: -1px;
@@ -74,9 +87,9 @@ header {
     header h3 {
       margin-left: 10px;
       color: #FFFFFF;
-      /*margin: 10px 0 40px;*/
+      /*margin: 10px 0 40px;
 
-    }
+    }*/
 
 .grid-wrap {
 	clear: both;
@@ -93,7 +106,7 @@ header {
 }
 
 .js .grid {
-	background: url(loading.gif) no-repeat 50% 100px;
+	/*background: url(custom_loader.GIF) no-repeat 50% 100px;*/
 }
 
 .js .grid.loaded {
@@ -349,4 +362,5 @@ header {
 .grid li.shown img,
 .grid li.shown h3 {
 	visibility: visible;
+  text-align: center;
 }

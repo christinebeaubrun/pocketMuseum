@@ -26,7 +26,6 @@ ActiveRecord::Schema.define(version: 20140627013925) do
 
   create_table "museums", force: true do |t|
     t.string "name"
-    t.string "image_url"
     t.string "location"
   end
 

@@ -21,5 +21,4 @@
 //= require colorfinder-1.1
 //= require masonry.pkgd.min
 //= require respond
-
-//= require onClick.js 
+//= require js/bootstrap

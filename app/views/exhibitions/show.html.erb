@@ -1,8 +1,15 @@
-<div id="wrapper">
-  <p><h3 align="center"><%= link_to "Home", exhibitions_path %></h3></p>
-  <h1 align="center"><%= @exhibition.name %></h1>
-  <h2 align="center"><%= @exhibition.date %></h2>
-  <p align="center"><img src="<%= @exhibition.image_url %>"></p>
-  <h5 align="center"><%= @exhibition.image_desc %></h5>
-  <h3 align="center"><%= @exhibition.description %></h3>
-</div>  
+<div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" > 
+    <div class="md-header">
+        <h1 align="center"><%= @exhibition.museum.name %></h1>
+        <h1 align="center"><%= @exhibition.date %></h1>
+        <h2 align="center"><%= @exhibition.name %></h2>
+    </div>
+    <div class="modal-body">
+        <p align="center"><img src="<%= @exhibition.image_url %>"></p>
+        <h5 align="center"><%= @exhibition.image_desc %></h5>
+        <h3 align="center"><%= @exhibition.description %></h3>
+    </div>
+    <div class="modal-footer">
+      <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+    </div>  
+</div>

@@ -9,17 +9,35 @@
                 <% @exhibitions.each do |exhibition| %>
 
                     <%= content_tag :li, class: 'exhibition' ,data:{ id: exhibition.id } do %>
-                        <%= link_to exhibition_path(exhibition) do %>
+                        <a href=<%= "#myModal#{exhibition.id}"%> data-toggle = "modal">
                             <%= image_tag exhibition.image_url, class: 'ri' %>
                             <%= content_tag :h3, exhibition.name %>
                             <%= content_tag :h4, class: 'text' do %>
-                                <%= exhibition.museum.name %><br><br>
-                                <%= exhibition.date %>
+                                <div class="text-middle">
+                                    <%= exhibition.museum.name %><br><br>
+                                    <%= exhibition.date %>
+                                </div>
                             <% end %>
-                        <% end %>
-                    <% end %>
-
-                  <!--   <li><a href="/exhibitions/<%#= exhibition.id %>"><img class="ri" src="<%#= exhibition.image_url %>" alt="<%#= exhibition.name %>"><h3><#%= exhibition.name %></h3></a></li> -->
+                        </a>
+                    
+                    <div id=<%= "myModal#{exhibition.id}" %> class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" > 
+                        <div class="model-dialog">
+                            <div class="md-header">
+                                <h5 align="center"><%= exhibition.museum.name %></h5>
+                                <h5 align="center"><%= exhibition.date %></h5>
+                                <h5 align="center"><%= exhibition.name %></h5>
+                            </div>
+                            <div class="modal-body">
+                                <p align="center"><img src="<%= exhibition.image_url %>"></p>
+                                <h5 align="center"><%= exhibition.image_desc %></h5>
+                                <h5 align="center"><%= exhibition.description %></h5>
+                            </div>
+                            <div class="modal-footer">
+                              <button class="btn" data-dismiss="modal" aria-hidden="true" align="center">Close</button>
+                          </div>  
+                        </div>
+                  </div>
+                  <% end %>
                 <% end %>
         </ul>
     </section>
