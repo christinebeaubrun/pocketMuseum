@@ -1,3 +1,3 @@
 $(document).ready(function(){
-  $('header').fadeOut(6000);
+  $('header').fadeOut(9000);
 });

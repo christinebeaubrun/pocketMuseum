@@ -87,13 +87,15 @@
 
 	GridItem.prototype.addCurtain = function() {
 		if( !this.image ) return;
+		debugger;
 		this.curtain = document.createElement( 'div' );
 		this.curtain.className = 'curtain';
-		var rgb = new ColorFinder( function favorHue(r,g,b) {
+		var rgb = new ColorFinder(function favorHue(r,g,b) {
 			// exclude white
 			//if (r>245 && g>245 && b>245) return 0;
+			debugger;
 			return (Math.abs(r-g)*Math.abs(r-g) + Math.abs(r-b)*Math.abs(r-b) + Math.abs(g-b)*Math.abs(g-b))/65535*50+1;
-		} ).getMostProminentColor( this.image );
+		}).getMostProminentColor( this.image );
 		if( rgb.r && rgb.g && rgb.b ) {
 			this.curtain.style.background = 'rgb('+rgb.r+','+rgb.g+','+rgb.b+')';
 		}

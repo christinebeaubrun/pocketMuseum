@@ -12,30 +12,33 @@
                         <a href=<%= "#myModal#{exhibition.id}"%> data-toggle = "modal">
                             <%= image_tag exhibition.image_url, class: 'ri' %>
                             <%= content_tag :h3, exhibition.name %>
-                            <%= content_tag :h4, class: 'text' do %>
-                                <div class="text-middle">
-                                    <%= exhibition.museum.name %><br><br>
-                                    <%= exhibition.date %>
-                                </div>
-                            <% end %>
+                            
                         </a>
                     
                     <div id=<%= "myModal#{exhibition.id}" %> class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" > 
                         <div class="model-dialog">
                             <div class="md-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">X</button>
                                 <h5 align="center"><%= exhibition.museum.name %></h5>
+                                <h5 align="center"><%= exhibition.museum.location %></h5>
                                 <h5 align="center"><%= exhibition.date %></h5>
                                 <h5 align="center"><%= exhibition.name %></h5>
                             </div>
                             <div class="modal-body">
                                 <p align="center"><img src="<%= exhibition.image_url %>"></p>
-                                <h5 align="center"><%= exhibition.image_desc %></h5>
-                                <h5 align="center"><%= exhibition.description %></h5>
+                                <div class="row">
+                                    <div class="col-xs-6 col-xs-offset-3">
+                                        <p align="center"><%= exhibition.image_desc %></p>
+                                        <h5 align="center"><%= exhibition.description %></h5>
+                                        <div class="modal-footer">
+                                            <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="modal-footer">
-                              <button class="btn" data-dismiss="modal" aria-hidden="true" align="center">Close</button>
-                          </div>  
+                              
                         </div>
+                        <div class="overlay"></div>
                   </div>
                   <% end %>
                 <% end %>

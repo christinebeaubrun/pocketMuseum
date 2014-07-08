@@ -1,0 +1,772 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html prefix="og: http://ogp.me/ns#" class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html prefix="og: http://ogp.me/ns#" class="no-js lt-ie10 lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html prefix="og: http://ogp.me/ns#" class="no-js lt-ie10 lt-ie9"> <![endif]-->
+<!--[if IE 9]>         <html prefix="og: http://ogp.me/ns#" class="no-js lt-ie10"> <![endif]-->
+<!--[if gt IE 9]><!--> <html prefix="og: http://ogp.me/ns#" class="no-js"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="verify-v1" content="CHa7vMS5jRJn8vtJv3nK7nj/ocuCBnDYr2GNkSmzKLI=" />
+
+        <link href="/templates/guggenheim/css/jquery-ui-1.8.18.custom.css"
+        rel="stylesheet" type="text/css" />
+
+
+
+    <!--[if !IE]><!-->
+    <link rel="stylesheet" type="text/css" href="/templates/guggenheim/css/style.css" />
+    <!--<![endif]-->
+    <!--[if gt IE 9]>
+    <link rel="stylesheet" href="/templates/guggenheim/css/style.css" type="text/css" />
+    <![endif]-->
+    <!--[if lte IE 9]>
+        <link rel="stylesheet" href="/templates/guggenheim/css/style-ie.css" type="text/css" />
+    <![endif]-->
+
+        <link rel="stylesheet" href="/templates/guggenheim/css/ezvideo.css" type="text/css" />
+
+        <link rel="stylesheet" href="/templates/guggenheim/css/publications.css" type="text/css" />
+        <link rel="stylesheet" href="/templates/guggenheim/css/flip.css" type="text/css" />
+        <link rel="stylesheet" href="/templates/guggenheim/css/guggscale.css" type="text/css" />
+
+        <script src="/templates/guggenheim/js/modernizr.custom.61410.js" 
+        type="text/javascript"></script>
+        <script
+        src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" 
+        type="text/javascript"></script>
+        <script
+        src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.21/jquery-ui.min.js" 
+        type="text/javascript"></script>
+        <script
+        src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js" 
+        type="text/javascript"></script>
+        <script 
+        src="/templates/guggenheim/js/jquery.preload.js" 
+        type="text/javascript"></script>            
+            <script 
+            src="http://media.guggenheim.org/cdn_items/lib/js/jquery.gugg-hoverable.min.js" 
+            type="text/javascript"></script>
+
+                    <script
+        src="/templates/guggenheim/js/thickbox.js"
+        type="text/javascript"></script>
+
+
+                <script
+        src="/templates/guggenheim/js/jquery.color.js"
+        type="text/javascript"></script>
+        <script
+        src="/templates/guggenheim/js/jquery.gugg-slider.js"
+        type="text/javascript"></script>
+        <script
+        src="/templates/guggenheim/js/jquery.gugg-rotator.js"
+        type="text/javascript" ></script>
+
+
+
+                <script
+        src="/templates/guggenheim/js/jquery.flip.min.js"
+        type="text/javascript"></script>
+        <script
+        src="/templates/guggenheim/js/flipscripts.js"
+        type="text/javascript"></script>
+
+                <script
+        src="/templates/guggenheim/js/jquery.cycle.all.js"
+        type="text/javascript"></script>
+        
+        <script
+    src="/templates/guggenheim/js/jcarousellite_1.0.1.pack.js"
+    type="text/javascript"></script>
+
+
+        
+    <script
+    src='/includes/js/frontpage-vignette/init.js'
+    type='text/javascript'></script>
+    <script
+    src="/templates/guggenheim/js/eaasing.js"
+    type="text/javascript"></script>
+    <script
+    src="/templates/guggenheim/js/scrollto.js"
+    type="text/javascript"></script>
+    <script
+    src="/templates/guggenheim/js/jPrintArea.js"
+    type="text/javascript"></script>
+    <script
+    src="/templates/guggenheim/js/guggenheim.min.js"
+    type="text/javascript"></script>
+
+    <link rel="apple-touch-icon" href="/ipadicon.png"/>
+    <link href="/images/favicon.ico" rel="shortcut icon"/>
+
+      <base href="http://www.guggenheim.org/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="apple-itunes-app" content="app-id=600046331, app-argument=http://www.guggenheim.org/new-york/visit/app" />
+  <meta name="keywords" content="Guggenheim, museum" />
+  <meta name="description" content="Visit the Frank Lloyd Wright-designed Guggenheim Museum in NYC. See the renowned permanent collection, special exhibitions. To avoid lines become a member today." />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>The Guggenheim Museums and Foundation</title>
+  <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link rel="stylesheet" href="/components/com_k2/css/k2.css" type="text/css" />
+  <link rel="stylesheet" href="http://cloud.typography.com/710324/624620/css/fonts.css" type="text/css" />
+  <link rel="stylesheet" href="http://media.guggenheim.org/cdn_items/lib/css/jquery.gugg-stripdeck.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/modalizer/modals/shadowbox/shadowbox.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_stayconnected/tmpl/css/connect.css" type="text/css" />
+  <style type="text/css">
+    <!--
+#sb-body-inner{background-color:#fff;}
+    -->
+  </style>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/components/com_k2/js/k2.js?v2.6.6&amp;sitepath=/"></script>
+  <script type="text/javascript" src="http://cdn.optimizely.com/js/549583371.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="http://media.guggenheim.org/cdn_items/lib/js/jquery.gugg-stripdeck.min.js"></script>
+  <script type="text/javascript" src="/plugins/system/modalizer/modals/shadowbox/shadowbox.js"></script>
+  <script type="text/javascript">
+
+                 jQuery(document).ready(function(){
+                 jQuery(".gugg-stripdeck").StripDeck({autoPlay: false, transitionSpeed: 500});
+                 });
+                 
+
+                                            jQuery(document).ready(function(){
+                                                jQuery(".gugg-rotator").StripDeck({
+                                                        autoPlay: true, 
+                                                        autoResume: true, 
+                                                        speed: 6000
+                                                });
+                                                jQuery(".gugg-rotator").css("visibility", "visible");
+                                            });
+                
+
+                 jQuery(document).ready(function(){
+                 jQuery(".gugg-stripdeck").StripDeck({autoPlay: false, transitionSpeed: 500});
+                 });
+                 
+
+                                            jQuery(document).ready(function(){
+                                                jQuery(".gugg-rotator").StripDeck({
+                                                        autoPlay: true, 
+                                                        autoResume: true, 
+                                                        speed: 6000
+                                                });
+                                                jQuery(".gugg-rotator").css("visibility", "visible");
+                                            });
+                
+            Shadowbox.init({});
+        
+  </script>
+  <link rel="stylesheet" type="text/css" href="http://www.guggenheim.org/components/com_jomcomment/style.css"/>
+<link rel="stylesheet" type="text/css" href="http://www.guggenheim.org/components/com_jomcomment/templates/srgmforum/comment_style.css"/>
+
+<script type='text/javascript'>
+/*<![CDATA[*/
+var jc_option           = "";
+var jc_autoUpdate       = "0";
+var jc_update_period    = 0*1000;
+var jc_orderBy          = "0";
+var jc_livesite_busyImg = "http://www.guggenheim.org/components/com_jomcomment/busy.gif";
+var jc_username         = "";
+var jc_email            = "";
+var jc_commentForm;
+/*]]>*/
+</script>
+  <script type='text/javascript'>
+/*<![CDATA[*/
+    var jax_live_site = 'http://www.guggenheim.org/index.php';
+    var jax_site_type = '1.5';
+/*]]>*/
+</script><script type="text/javascript" src="http://www.guggenheim.org/plugins/system/pc_includes/ajax_1.2.js"></script>
+  <script src="http://www.guggenheim.org/plugins/content/1pixelout/audio-player.js" type="text/javascript"></script>
+
+
+
+        <script type="text/javascript">var menu_active_id='1';</script>
+        
+        
+    <script
+        src="/templates/guggenheim/js/jquery.gugg-navheader.min.js"
+        type="text/javascript"></script>
+
+
+    <script type="text/javascript">
+        jQuery(window).load(function () {
+            jQuery('#navshell').navheader();
+        });
+    </script>
+
+    </head>
+    
+    <body  id="new-york" class="guggenheim_home_3 com_content view-section  section-home" >
+
+        <div id="gugg-hcard" class="locInfo vcard" style="display: none;">
+            <h4>
+                <a class="fn" href="/">Solomon R. Guggenheim Museum</a>
+            </h4>
+            <a class="email" href="mailto:boxoffice@guggenheim.org">boxoffice@guggenheim.org</a>
+            <img style="float:left; margin-right:4px" src="http://media.guggenheim.org/content/New_York/visit_us/vu_guggenheim-museum690.jpg" alt="photo of " class="photo"/>
+
+            <p class="adr">
+                <span class="street-address">1071 Fifth Avenue (at 89th Street) </span> <br />
+                <span class="locality">New York</span>, <span class="region">NY</span>
+                <span class="postal-code">10128</span> <br />
+                <span class="tel">+1 212 423 3500</span>
+            </p>
+        </div>
+
+        <div id="wrapper">
+
+            <div id="header">
+                <div id="navstrip" >
+                    <div id="navshell" style="opacity: 0">
+                        <h1 class="header">
+                            <a href="/">Guggenheim</a>
+                        </h1>
+                        <ul class="nav section"><li id="nav-menu-1" class="new-york windowshade active current">
+    <div class="windowshade">
+        <div class="bg"></div>
+        <div class="swatch"></div>
+        <a href="/new-york" class="this-window-track track-Navigation action-Top-Level label-New-York">
+            <span class="label">New York</span>
+        </a>
+    </div>
+    <ul class="nav main">                        <li id="nav-menu-2" class="first-item">
+                            <a href="/new-york/visit" class="this-window-track track-Navigation action-Main-Menu label-Visit">Visit</a>
+                            <ul class="nav sub"><li id="nav-menu-1429">
+    <a href="http://museumtix.com/venue/venueinfo.aspx?&vid=873&tab=E&pvt=srgf" class="this-window-track track-Navigation action-Sub-Menu label-Buy-Tickets">Buy Tickets</a>
+</li><li id="nav-menu-142">
+    <a href="/new-york/visit/plan-your-visit" class="this-window-track track-Navigation action-Sub-Menu label-Plan-Your-Visit">Plan Your Visit</a>
+</li><li id="nav-menu-2008">
+    <a href="/new-york/visit/app" class="this-window-track track-Navigation action-Sub-Menu label-App">App</a>
+</li><li id="nav-menu-388">
+    <a href="/new-york/visit/groups" class="this-window-track track-Navigation action-Sub-Menu label-Groups">Groups</a>
+</li><li id="nav-menu-688">
+    <a href="/new-york/visit/tours" class="this-window-track track-Navigation action-Sub-Menu label-Tours">Tours</a>
+</li><li id="nav-menu-244">
+    <a href="/new-york/visit/accessibility" class="this-window-track track-Navigation action-Sub-Menu label-Accessibility">Accessibility</a>
+</li><li id="nav-menu-243">
+    <a href="/new-york/visit/restaurants" class="this-window-track track-Navigation action-Sub-Menu label-Restaurants">Restaurants</a>
+</li><li id="nav-menu-262">
+    <a href="/new-york/visit/faqs-policies-and-procedures" class="this-window-track track-Navigation action-Sub-Menu label-FAQs">FAQs</a>
+</li></ul>
+                        </li>                        <li id="nav-menu-1463">
+                            <a href="/new-york/support" class="this-window-track track-Navigation action-Main-Menu label-Support">Support</a>
+                            <ul class="nav sub"><li id="nav-menu-3">
+    <a href="/new-york/support/join" class="this-window-track track-Navigation action-Sub-Menu label-Join">Join</a>
+</li><li id="nav-menu-14">
+    <a href="https://ny.guggenheim.org/sslpage.aspx?pid=378" class="this-window-track track-Navigation action-Sub-Menu label-Donate">Donate</a>
+</li><li id="nav-menu-1433">
+    <a href="/new-york/support/corporate" class="this-window-track track-Navigation action-Sub-Menu label-Corporate">Corporate</a>
+</li><li id="nav-menu-1443">
+    <a href="/new-york/support/foundation-and-government" class="this-window-track track-Navigation action-Sub-Menu label-Foundation-&-Government">Foundation & Government</a>
+</li><li id="nav-menu-1880">
+    <a href="/new-york/support/more-ways-to-give" class="this-window-track track-Navigation action-Sub-Menu label-More-Ways-to-Give">More Ways to Give</a>
+</li></ul>
+                        </li>                        <li id="nav-menu-2023">
+                            <a href="/new-york/calendar-and-events" class="this-window-track track-Navigation action-Main-Menu label-Calendar-&-Events">Calendar & Events</a>
+                            
+                        </li>                        <li id="nav-menu-4">
+                            <a href="/new-york/about" class="this-window-track track-Navigation action-Main-Menu label-About">About</a>
+                            <ul class="nav sub"><li id="nav-menu-735">
+    <a href="/new-york/about/staff-profiles" class="this-window-track track-Navigation action-Sub-Menu label-Staff-Profiles">Staff Profiles</a>
+</li><li id="nav-menu-1167">
+    <a href="/new-york/about/frank-lloyd-wright-building" class="this-window-track track-Navigation action-Sub-Menu label-Frank-Lloyd-Wright-Building">Frank Lloyd Wright Building</a>
+</li><li id="nav-menu-1403">
+    <a href="/new-york/about/host-an-event" class="this-window-track track-Navigation action-Sub-Menu label-Host-an-Event">Host an Event</a>
+</li><li id="nav-menu-2075">
+    <a href="/new-york/about/location-shoots" class="this-window-track track-Navigation action-Sub-Menu label-Location-Shoots">Location Shoots</a>
+</li><li id="nav-menu-442">
+    <a href="/new-york/about/image-licensing" class="this-window-track track-Navigation action-Sub-Menu label-Image-Licensing">Image Licensing</a>
+</li><li id="nav-menu-125">
+    <a href="/new-york/about/jobs" class="this-window-track track-Navigation action-Sub-Menu label-Jobs">Jobs</a>
+</li><li id="nav-menu-353">
+    <a href="/new-york/about/Contact-Us" class="this-window-track track-Navigation action-Sub-Menu label-Contact-Us">Contact Us</a>
+</li></ul>
+                        </li>                        <li id="nav-menu-11">
+                            <a href="/new-york/exhibitions" class="this-window-track track-Navigation action-Main-Menu label-Exhibitions">Exhibitions</a>
+                            <ul class="nav sub"><li id="nav-menu-672">
+    <a href="/new-york/exhibitions/on-view" class="this-window-track track-Navigation action-Sub-Menu label-On-View">On View</a>
+</li><li id="nav-menu-923">
+    <a href="/new-york/exhibitions/collection-on-view" class="this-window-track track-Navigation action-Sub-Menu label-Collection-on-View">Collection on View</a>
+</li><li id="nav-menu-116">
+    <a href="/new-york/exhibitions/upcoming" class="this-window-track track-Navigation action-Sub-Menu label-Upcoming">Upcoming</a>
+</li><li id="nav-menu-117">
+    <a href="/new-york/exhibitions/past" class="this-window-track track-Navigation action-Sub-Menu label-Past">Past</a>
+</li><li id="nav-menu-118">
+    <a href="/new-york/exhibitions/international-exhibitions" class="this-window-track track-Navigation action-Sub-Menu label-International-Exhibitions">International Exhibitions</a>
+</li><li id="nav-menu-774">
+    <a href="/new-york/exhibitions/publications" class="this-window-track track-Navigation action-Sub-Menu label-Publications">Publications</a>
+</li></ul>
+                        </li>                        <li id="nav-menu-762">
+                            <a href="/new-york/collections" class="this-window-track track-Navigation action-Main-Menu label-Collections">Collections</a>
+                            <ul class="nav sub"><li id="nav-menu-698">
+    <a href="/new-york/collections/about-the-collection" class="this-window-track track-Navigation action-Sub-Menu label-About-the-Collection">About the Collection</a>
+</li><li id="nav-menu-703">
+    <a href="/new-york/collections/collection-online" class="this-window-track track-Navigation action-Sub-Menu label-Collection-Online">Collection Online</a>
+</li><li id="nav-menu-367">
+    <a href="/new-york/collections/conservation" class="this-window-track track-Navigation action-Sub-Menu label-Conservation">Conservation</a>
+</li><li id="nav-menu-114">
+    <a href="/new-york/collections/library-and-archives" class="this-window-track track-Navigation action-Sub-Menu label-Library-&-Archives">Library & Archives</a>
+</li></ul>
+                        </li>                        <li id="nav-menu-13">
+                            <a href="/new-york/education" class="this-window-track track-Navigation action-Main-Menu label-Education">Education</a>
+                            <ul class="nav sub"><li id="nav-menu-71">
+    <a href="/new-york/education/sackler-center" class="this-window-track track-Navigation action-Sub-Menu label-Sackler-Center">Sackler Center</a>
+</li><li id="nav-menu-689">
+    <a href="/new-york/education/school-educator-programs" class="this-window-track track-Navigation action-Sub-Menu label-Schools-&-Educators">Schools & Educators</a>
+</li><li id="nav-menu-128">
+    <a href="/new-york/education/families-kids-teens" class="this-window-track track-Navigation action-Sub-Menu label-Families/Kids/Teens">Families/Kids/Teens</a>
+</li><li id="nav-menu-161">
+    <a href="/new-york/education/works-and-process" class="this-window-track track-Navigation action-Sub-Menu label-Works-&-Process">Works & Process</a>
+</li><li id="nav-menu-653">
+    <a href="/new-york/education/internships" class="this-window-track track-Navigation action-Sub-Menu label-Internships">Internships</a>
+</li></ul>
+                        </li>                        <li id="nav-menu-1435">
+                            <a href="/new-york/online" class="this-window-track track-Navigation action-Main-Menu label-Online">Online</a>
+                            <ul class="nav sub"><li id="nav-menu-1161">
+    <a href="/new-york/online/guggenheim-online-communities" class="this-window-track track-Navigation action-Sub-Menu label-Communities">Communities</a>
+</li><li id="nav-menu-1470">
+    <a href="/new-york/online/audio" class="this-window-track track-Navigation action-Sub-Menu label-Audio">Audio</a>
+</li><li id="nav-menu-1558">
+    <a href="/video" class="this-window-track track-Navigation action-Sub-Menu label-Video">Video</a>
+</li><li id="nav-menu-1200">
+    <a href="/new-york/online/forum" class="this-window-track track-Navigation action-Sub-Menu label-Forum">Forum</a>
+</li><li id="nav-menu-1976">
+    <a href="http://blogs.guggenheim.org" class="this-window-track track-Navigation action-Sub-Menu label-Blogs">Blogs</a>
+</li><li id="nav-menu-1471">
+    <a href="/new-york/online/participate" class="this-window-track track-Navigation action-Sub-Menu label-Participate">Participate</a>
+</li><li id="nav-menu-1518">
+    <a href="http://guggenheim.corporateecards.com/" class="this-window-track track-Navigation action-Sub-Menu label-E-Cards">E-Cards</a>
+</li><li id="nav-menu-1472">
+    <a href="http://pages.emails.guggenheim.org/enews " class="this-window-track track-Navigation action-Sub-Menu label-E-News">E-News</a>
+</li></ul>
+                        </li>                        <li id="nav-menu-15">
+                            <a href="/new-york/press-room" class="this-window-track track-Navigation action-Main-Menu label-Press-Room">Press Room</a>
+                            <ul class="nav sub"><li id="nav-menu-413">
+    <a href="/new-york/press-room/releases" class="this-window-track track-Navigation action-Sub-Menu label-Releases">Releases</a>
+</li><li id="nav-menu-650">
+    <a href="/new-york/press-room/images" class="this-window-track track-Navigation action-Sub-Menu label-Images">Images</a>
+</li><li id="nav-menu-99">
+    <a href="/new-york/press-room/news" class="this-window-track track-Navigation action-Sub-Menu label-News">News</a>
+</li><li id="nav-menu-881">
+    <a href="/new-york/press-room/press-contacts" class="this-window-track track-Navigation action-Sub-Menu label-Contact-Us">Contact Us</a>
+</li><li id="nav-menu-1516">
+    <a href="/new-york/press-room/faqs" class="this-window-track track-Navigation action-Sub-Menu label-FAQs">FAQs</a>
+</li></ul>
+                        </li>                        <li id="nav-menu-16" class="last-item">
+                            <a href="http://www.guggenheimstore.org/" class="this-window-track track-Navigation action-Main-Menu label-Shop">Shop</a>
+                            
+                        </li></ul>
+</li><li id="nav-menu-5" class="venice windowshade">
+    <div class="windowshade">
+        <div class="bg"></div>
+        <div class="swatch"></div>
+        <a href="/venice" class="this-window-track track-Navigation action-Top-Level label-Venice">
+            <span class="label">Venice</span>
+        </a>
+    </div>
+    
+</li><li id="nav-menu-6" class="bilbao windowshade">
+    <div class="windowshade">
+        <div class="bg"></div>
+        <div class="swatch"></div>
+        <a href="/bilbao" class="this-window-track track-Navigation action-Top-Level label-Bilbao">
+            <span class="label">Bilbao</span>
+        </a>
+    </div>
+    
+</li><li id="nav-menu-8" class="abu-dhabi windowshade">
+    <div class="windowshade">
+        <div class="bg"></div>
+        <div class="swatch"></div>
+        <a href="/abu-dhabi" class="this-window-track track-Navigation action-Top-Level label-Abu-Dhabi">
+            <span class="label">Abu Dhabi</span>
+        </a>
+    </div>
+    
+</li><li id="nav-menu-757" class="international-exhibitions windowshade">
+    <div class="windowshade">
+        <div class="bg"></div>
+        <div class="swatch"></div>
+        <a href="/new-york/exhibitions/international-exhibitions" class="this-window-track track-Navigation action-Top-Level label-International-Exhibitions">
+            <span class="label">International Exhibitions</span>
+        </a>
+    </div>
+    
+</li><li id="nav-menu-10" class="guggenheim-foundation windowshade">
+    <div class="windowshade">
+        <div class="bg"></div>
+        <div class="swatch"></div>
+        <a href="/guggenheim-foundation" class="this-window-track track-Navigation action-Top-Level label-Guggenheim-Foundation">
+            <span class="label">Guggenheim Foundation</span>
+        </a>
+    </div>
+    
+</li></ul>                    </div>
+                </div>
+            </div>
+            <div id="content" class="printArea">
+                <!-- notice -->
+                
+                <div id="title-bar">
+                    <form class="gsc-search-box search search-and-go" action="/search"><input type="hidden" name="cx" value="001816328621941992898:upy5cqylet8" /> <input type="hidden" name="ie" value="UTF-8" /> <input type="text" name="q" size="19" placeholder="search" class="inputbox" /> <a href="#" class="go-btn search-go">Go</a></form>
+                    <h1>New York</h1>
+                </div>
+
+
+
+
+
+
+
+    <!-- guggenheim_home_3 template -->
+
+<div class="tablewrap">
+
+        <div id="main-two-column">
+               
+            <div id="main-two-left">
+                <div id="feature">
+
+<div id="section-1">
+
+                        <!-- description -->
+        <link href="/templates/guggenheim/css/homepage-rotator.css" rel="stylesheet" type="text/css" />
+<script src="/templates/guggenheim/js/homepage-rotator.js" type="text/javascript"></script>
+<div id="homepage-rotator">
+<h4 class="rotator-title">On View Now</h4>
+<ul class="maincolumn">
+<li><img title="" alt="" src="http://media.guggenheim.org/content/exhibitions/2014/ex_depero_Skyscrapers-and-Tunnels_470.jpg" height="235" width="470" />
+<p><a class="this-window-track track-Interaction action-HomepageRotator label-Futurism" href="/futurism">Italian Futurism, 1909–1944: Reconstructing the Universe</a></p>
+</li>
+<li><img title="" alt="" src="http://media.guggenheim.org/content/exhibitions/2014/ex_map_underthesamesun_prieto_470.jpg" height="235" width="470" />
+<p><a class="this-window-track track-Interaction action-HomepageRotator label-UnderSameSun" href="/new-york/exhibitions/on-view/under-the-same-sun-art-from-latin-america-today">Under the Same Sun: Art from Latin America Today</a></p>
+</li>
+<li><img title="" alt="" src="http://media.guggenheim.org/content/exhibitions/2014/ex_Kandinsky_Landscape-near-Murnau-with-Locomotive_470.jpg" height="235" width="470" />
+<p><a class="this-window-track track-Interaction action-HomepageRotator label-Kandinskygallery" href="/kandinskygallery">Kandinsky Before Abstraction, 1901–1911</a></p>
+</li>
+<li><img title="" alt="" src="http://media.guggenheim.org/content/exhibitions/2012/ex_sackler_flw_usonian_470.jpg" height="235" width="470" />
+<p><a class="this-window-track track-Interaction action-HomepageRotator label-Tribute" href="/usonian">A Long-Awaited Tribute</a></p>
+</li>
+</ul>
+<div class="arrow">&nbsp;</div>
+</div>                <!-- end description -->
+    
+
+</div>
+
+<!--bang gugenheim_home_3 tepmate check--></div>    
+
+                <div class="tablewrap">
+                <div id="sub-three-column">
+                    <div id="sub-three-left">
+                        <div class="tableshim">
+                            
+ 
+ <h2>On View Now </h2>
+ 
+ 
+<div id="article-2079">
+
+
+
+
+<p><strong>Special Exhibitions</strong></p>
+<p><a class="this-window-track track-Interaction action-HomepageList label-Futurism" title="Futurism" href="/futurism">Italian Futurism, 1909–1944: Reconstructing the Universe</a><br /> February 21–September 1, 2014</p>
+<p><a class="this-window-track track-Interaction action-HomepageList label-UnderTheSameSun" title="Under The Same Sun" href="/new-york/exhibitions/on-view/under-the-same-sun-art-from-latin-america-today">Under the Same Sun: Art from Latin America Today</a><br /> June 13–October 1, 2014</p>
+<p><a class="this-window-track track-Interaction action-HomepageList label-KandinskyBeforeAbstraction" title="Kandinsky Before Abstraction, 1901–1911" href="/kandinskygallery">Kandinsky Before Abstraction, 1901–1911</a><br /> June 27, 2014–Spring 2015</p>
+<p><a class="this-window-track track-Interaction action-HomepageList label-Tribute" title="A Long-Awaited Tribute" href="/usonian">A Long-Awaited Tribute: Frank Lloyd Wright’s Usonian House and Pavilion</a><br /> July 27, 2012–Ongoing</p>
+<p>&nbsp;</p>
+<p><strong>Collection on View</strong></p>
+<p><a class="this-window-track track-Interaction action-HomepageList label-Thannhauser" title="Thannhauser Collection" href="/new-york/exhibitions/collection-on-view">Thannhauser Collection</a><br /> Ongoing</p>
+<p>&nbsp;</p>
+<!--<p><strong>Opening Soon</strong></p>
+<p><a class="this-window-track track-Interaction action-HomepageList label-KandinskyBeforeAbstraction" title="Kandinsky Before Abstraction, 1901–1911" href="/kandinskygallery">Kandinsky Before Abstraction, 1901–1911</a><br /> June 27, 2014–Spring 2015</p>-->
+
+
+
+</div>
+
+
+                            <div class="sub-column-footer">
+                                <h2>Global Partners</h2>
+<div class="line-breaks">
+<p><strong class="allcaps"><a href="/guggenheim-foundation/collaborations/bmw-guggenheim">BMW AG</a></strong><br /> <strong class="allcaps">Lavazza</strong><br /> <strong class="allcaps"><a href="/guggenheim-foundation/collaborations/map/overview">UBS</a></strong></p>
+</div>
+                            </div>
+                    </div>
+                        </div>
+                    <div id="sub-three-center">
+                            
+<h2>News</h2>
+
+<ul class="line-breaks">
+    <li class="first">
+                                    <a href="/new-york/press-room/news/5970-guggenheim-offers-spanish-and-portuguese-tours-of-under-the-same-sun">
+                <img src="http://media.guggenheim.org/content/New_York/news/2014/siesta_talk-205.jpg" alt="Siesta talk led by Iván Navarro" title="Siesta talk led by Iván Navarro" />                </a>
+                            
+        <p>
+            <b>
+            <a href="/new-york/press-room/news/5970-guggenheim-offers-spanish-and-portuguese-tours-of-under-the-same-sun">
+            Guggenheim Offers Spanish and Portuguese Tours of Under the Same Sun            </a>    
+            </b>
+        </p>
+        
+                    <p>As part of the Guggenheim UBS MAP Global Art Initiative, the museum is offering Spanish- and Portuguese-language tours of the exhibition <em>Under the Same Sun: Art from Latin America Today</em>.</p>
+                
+    </li>
+    <li class="">
+                
+        <p>
+            <b>
+            <a href="/new-york/press-room/news/5945-guggenheim-museum-library-a-archives-director-honored-with-leadership-award">
+            Guggenheim Museum Library & Archives Director Honored with Leadership Award            </a>    
+            </b>
+        </p>
+        
+                
+    </li>
+    <li class="last">
+                
+        <p>
+            <b>
+            <a href="/new-york/press-room/news/5934-guggenheim-ubs-map-launches-new-interactive-map">
+            Guggenheim UBS MAP Launches New Interactive Map            </a>    
+            </b>
+        </p>
+        
+                
+    </li>
+</ul>
+
+    <p>
+    <a href="/new-york/press-room/news">
+        More news    </a>
+    </p>
+
+                            <div class="sub-column-footer">
+                                
+                            </div>
+                    </div>
+                    <div id="sub-three-right">
+                        <div class="tableshim">
+                            
+ 
+ <h2>Events </h2>
+ 
+ 
+<div id="article-2957">
+
+
+
+
+<div class="line-breaks"><a href="/new-york/calendar-and-events/2014/07/09/siesta-talks-erika-verzutti/3558"><img src="http://media.guggenheim.org/content/New_York/events/2014/map_siestatalks_Verzutti_205.jpg" title="Siesta Talks: Art in the Afternoon with Erika Verzutti" alt="Siesta Talks: Art in the Afternoon with Erika Verzutti" height="135" width="205" /></a>
+<p><strong><a href="/new-york/calendar-and-events/2014/07/09/siesta-talks-erika-verzutti/3558" title="Siesta Talks: Art in the Afternoon with Erika Verzutti">Siesta Talks: Art in the Afternoon with Erika Verzutti</a></strong><br />Wednesday, July 9, 1:30&nbsp;pm</p>
+<p>In this tour of <em>Under the Same Sun: Art from Latin America Today</em>, Erika Verzutti reflects on a practice that references sculpture’s history while representing a world between the tangible and the fantastic.<br /><br /></p>
+</div>
+<div class="line-breaks">
+<p><strong><a href="/new-york/calendar-and-events/2014/07/16/futurismusic/3420" title="FUTURISMUSIC">FUTURISMUSIC</a></strong><br />Wednesday, July 16, 6:30&nbsp;pm</p>
+<p>Maestro Daniele Lombardi performs Futurist music by composers Francesco Ballila Pratella, Franco Casavola, and Silvio Mix, among others.</p>
+</div>
+<p><a href="/new-york/calendar-and-events">More events</a></p>
+
+
+
+</div>
+
+
+                            <div class="sub-column-footer">
+                                        <div class="moduletable">
+                            <h2>Stay Connected</h2>
+                        <ul class="connected">
+            <li class="facebook">
+            <a href="https://www.facebook.com/guggenheimmuseum" title="Stay Connected on Facebook" class="this-window-track track-Interaction action-Stay-Connected label-Facebook new-window">Facebook</a>
+        </li>
+                <li class="twitter">
+            <a href="https://twitter.com/Guggenheim" title="Stay Connected on Twitter" class="this-window-track track-Interaction action-Stay-Connected label-Twitter new-window">Twitter</a>
+        </li>
+                <li class="youtube">
+            <a href="http://www.youtube.com/guggenheim" title="Stay Connected on YouTube" class="this-window-track track-Interaction action-Stay-Connected label-Youtube new-window">YouTube</a>
+        </li>
+                <li class="flickr">
+            <a href="http://www.flickr.com/photos/guggenheim_museum" title="Stay Connected on Flickr" class="this-window-track track-Interaction action-Stay-Connected label-Flickr new-window">Flickr</a>
+        </li>
+                <li class="instagram">
+            <a href="http://instagram.com/guggenheim" title="Stay Connected on Instagram" class="this-window-track track-Interaction action-Stay-Connected label-Instagram new-window">Instagram</a>
+        </li>
+                <li class="email">
+            <a href="http://pages.emails.guggenheim.org/enews" title="Stay Connected on Email" class="this-window-track track-Interaction action-Stay-Connected label-Email ">Email</a>
+        </li>
+    </ul>       </div>
+    
+                            </div>
+                        </div>
+                    </div>
+                        
+                </div>
+                </div>
+                
+            </div>
+            <div id="callouts">
+                
+ 
+<div class="box box-a" id="callout-484">
+
+    
+    
+
+
+<img alt="Guggenheim Museum" title="Guggenheim Museum" src="http://media.guggenheim.org/content/callouts/plan_ny.jpg" height="80" width="160" />
+<h3>Plan Your Visit</h3>
+<p>Solomon R. Guggenheim Museumbr /> 1071 Fifth Avenue<br /> (at 89th Street)<br /> New York, NY 10128-0173<br /> <a href="http://museumtix.com/venue/venueinfo.aspx?hasFlash=true&amp;vid=873&amp;tab=E&amp;pvt=srgf" title="Plan Your Visit - StyleA (NY) [purchase tickets]" class="this-window-track track-Callout">Purchase tickets</a></p>
+<h4 class="title">Hours &amp; Ticketing</h4>
+<div>
+<p>Sun 10 am–5:45 pm<br /> Mon 10 am–5:45 pm<br /> Tue 10 am–5:45 pm<br /> Wed 10 am–5:45 pm<br /> Thu CLOSED<br /> Fri 10 am–5:45 pm<br /> Sat 10 am–7:45 pm</p>
+<p>See <a href="/new-york/visit/plan-your-visit" title="Plan Your Visit">Plan Your Visit</a> for more information on ticketing.</p>
+<br /> <strong>Admission</strong>
+<p>Adults $22<br /> Students and Seniors (65 years +) with valid ID $18<br /> Children under 12 Free<br /> Members Free</p>
+<h4>&nbsp;</h4>
+<h4><strong>Multimedia Guides</strong></h4>
+<p><span>Multimedia guides are free with admission.</span></p>
+<p><br /> Further information:<br /> <a href="/new-york/visit/plan-your-visit/location-and-directions" title="Plan Your Visit - StyleA (NY) [directions to the museum]" class="this-window-track track-Callout">Directions to the museum</a><br /> <a href="/new-york/visit/groups" title="this-window-track Plan Your Visit - StyleA (NY) [group sales]" class="this-window-track track-Callout">Group sales</a><br /> <a href="/new-york/visit/restaurants" title="Plan Your Visit - StyleA (NY) [restaurants]" class="this-window-track track-Callout">Restaurants</a></p>
+</div>
+
+</div>
+
+
+<div class="box box-e" id="callout-4574">
+
+    
+    
+
+
+<a href="/new-york/support/join" title="Become a Member" class="this-window-track track-Callout"><img alt="gift membership" title="gift membership" src="http://media.guggenheim.org/content/callouts/2012/membership.png" height="115" width="145" /></a>
+
+<div id="heart"><a href="/new-york/support/join" title="Become a Member" class="sprite sprite-front sprite-front-join">Join</a></div>
+<div style="margin-left: 0px;">
+<p>Enjoy priority access, private exhibition views, free admission, and more. <a href="/new-york/support/join" title="Become a Member" class="this-window-track track-Callout">Become a member</a>.</p>
+</div>
+
+</div>
+
+
+<div class="box box-c" id="callout-5828">
+
+    
+    
+
+
+<a href="http://exhibitions.guggenheim.org/futurism/timeline/" class="this-window-track track-Callout" title="Futurism Time Line"><img alt="Tato (Guglielmo Sansoni), Flying over the Coliseum in a Spiral (Spiraling) (Sorvolando in spirale il Colosseo [Spiralata]), 1930 (detail)" title="Tato (Guglielmo Sansoni), Flying over the Coliseum in a Spiral (Spiraling) (Sorvolando in spirale il Colosseo [Spiralata]), 1930 (detail)" src="http://media.guggenheim.org/content/callouts/2014/cl_futurism_time_line_160.jpg" height="115" width="160" /></a>
+<h3>Italian Futurism <br />Time Line</h3>
+<p>Explore Italian Futurism through an illustrated <a href="http://exhibitions.guggenheim.org/futurism/timeline/" class="this-window-track track-Callout" title="Futurism Time Line">time line</a> on the exhibition website.</p>
+
+</div>
+
+ 
+    
+<div id="retail_slideshow" style="background-image: url(/modules/mod_dsc_retail/images/background-w175h209.jpg); height: 209px; background-repeat: no-repeat; padding: 0px; position: relative; z-index: 100;">
+    <div id="retail_slides">
+        <ul id="retail_slide">
+        
+        <li class="retail_list">
+            <a href="http://www.guggenheimstore.org/futurism.html" class="this-window-track track-Callout" title="Store-1-futurism-book.png ">
+                <img src="http://media.guggenheim.org/retail/1-futurism-book.png " alt="Shop item" width="176" height="209" />
+            </a>
+        </li>
+        
+        <li class="retail_list">
+            <a href="http://www.guggenheimstore.org/bimodals.html" class="this-window-track track-Callout" title="Store-2-bimodals.png ">
+                <img src="http://media.guggenheim.org/retail/2-bimodals.png " alt="Shop item" width="176" height="209" />
+            </a>
+        </li>
+        
+        <li class="retail_list">
+            <a href="http://www.guggenheimstore.org/revealmobile.html" class="this-window-track track-Callout" title="Store-3-mobile-reveal.png ">
+                <img src="http://media.guggenheim.org/retail/3-mobile-reveal.png " alt="Shop item" width="176" height="209" />
+            </a>
+        </li>
+        
+        <li class="retail_list">
+            <a href="http://www.guggenheimstore.org/kandinskywatch.html" class="this-window-track track-Callout" title="Store-4-kandinsky-watch.png ">
+                <img src="http://media.guggenheim.org/retail/4-kandinsky-watch.png " alt="Shop item" width="176" height="209" />
+            </a>
+        </li>
+        
+        <li class="retail_list">
+            <a href="http://www.guggenheimstore.org/geopillow.html" class="this-window-track track-Callout" title="Store-5-geopillow.png ">
+                <img src="http://media.guggenheim.org/retail/5-geopillow.png " alt="Shop item" width="176" height="209" />
+            </a>
+        </li>
+                </ul>
+        
+    </div>
+</div>
+            </div>
+        </div>
+
+    </div>
+        <div id="abovefooter">
+                        <div id="visitor">
+<ul>
+<li> <strong>VISITOR INFORMATION IN: </strong><a title="" id="english" href="/new-york/visit/plan-your-visit/visitor-guides">English</a> <a id="italiano" href="/new-york/visit/plan-your-visit/visitor-guides">Italiano</a> <a id="espanol" href="/new-york/visit/plan-your-visit/visitor-guides">Español</a> <a id="deutsh" href="/new-york/visit/plan-your-visit/visitor-guides" title="vistor info language">Deutsch</a> <a id="francais" href="/new-york/visit/plan-your-visit/visitor-guides">Français</a><!--[if lt IE 7]><a id="japaneseimg" href="/new-york/visit-us/hours-and-ticketing/visitor-guides"><img alt="" src="/images/content/New_York/visit_us/jplang.gif" width="31" height="11" border="0" /></a>
+<style type="text/css">  #japanese{visibility:hidden} </style><![endif]--><a id="japanese" href="/new-york/visit/plan-your-visit/visitor-guides">日本語</a> </li></ul></div>
+                        </div>
+    </div>
+    <div id="footer">
+        <ul>
+            <li><a href="/sitemap/" id="site-map" 
+                title="Site Map">Site Map</a>li>
+                <li><a href="/privacy-policy/" 
+                    id="privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
+                    <li><a href="/terms-conditions/" 
+                        id="terms-and-conditions" title="Terms &amp; Conditions">Terms &amp; 
+                        Conditions</a></li>
+                        <li><a href="http://pages.emails.guggenheim.org/enews " id="mailing-list" title="Mailing List">E-News</a></li>
+                        <li><a href="https://ny.guggenheim.org/sslpage.aspx?pid=378" id="donate" title="Donate">Donate</a></li>
+                        <li><a href="/new-york/about/image-licensing" id="image-licensing" title="Image Licensing">Image Licensing</a></li>
+                        <li><a href="/new-york/about/Contact-Us" id="contact_us" title="Contact Us">Contact Us</a></li>
+
+                        <li id="last">Website &copy; 2014 The Solomon R. Guggenheim Foundation (SRGF). All rights reserved.</li>
+                    </ul>
+            </div>
+        </div>
+
+
+
+
+        <!-- Google Analytics -->
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-5676651-2']);
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_setDomainName', 'guggenheim.org']);
+    _gaq.push(['_setAllowHash', false]);
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['_trackPageLoadTime']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        // ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        // demographics reporting: https://support.google.com/analytics/answer/2444872
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+<!-- Google Analytics Ends -->
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PNXM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PNXM');</script>
+<!-- End Google Tag Manager -->
+
+</body>
+</html>

@@ -1,0 +1,1179 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+  <!-- Produced by the Metropolitan Museum of Art and Cogapp, 2011 -->  
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>Contact Information | The Metropolitan Museum of Art</title>
+
+ <meta name="description" property="og:description" content="See the address and phone number for the Museum&#39;s Main Building and The Cloisters Museum and Gardens." /><meta name="keywords" content="Metropolitan Museum, Met, Metropolitan Museum of Art, Met Museum, Metropolitan" />
+
+    <link rel="shortcut icon" href="/content/img/presentation/icons/favicon.ico" />
+
+    <link href="/content/css/metcombined-14d60ffa-1dd2-420e-910e-9f95828f938e.css" rel="stylesheet" type="text/css" />
+    
+    <link rel="alternate stylesheet" type="text/css" media="screen" href="/content/css/print_document.css" title="confirm" />
+    <link rel="stylesheet" type="text/css" media="print" href="/content/css/print.css" title="print" />
+        
+    
+    <!-- <link href="/content/css/jquery.countdown.css" type="text/css" rel="stylesheet"/> -->
+    <!-- <link href="/content/css/metmedia-form.css" rel="stylesheet" type="text/css" /> -->
+    <!-- <link href="/content/css/metmedia.css" rel="stylesheet" type="text/css" /> -->
+    <!--[if lte IE 7]>
+      <link href="/content/css/ie-lte7.css" type="text/css" rel="stylesheet" />
+      <link href="/content/css/ie7print.css" type="text/css" rel="stylesheet" media="print"/>
+            
+    <![endif]-->
+    <!--[if IE 9]>
+            <link href="/content/css/ie-9.css" type="text/css" rel="stylesheet" />
+        <![endif]-->
+
+    <!-- Link to JS -->
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+    
+        <!-- Quantcast Tag -->
+        <script type="text/javascript">
+            var _qevents = _qevents || [];
+
+            (function () {
+                var elem = document.createElement('script');
+                elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+                elem.async = true;
+                elem.type = "text/javascript";
+                var scpt = document.getElementsByTagName('script')[0];
+                scpt.parentNode.insertBefore(elem, scpt);
+            })();
+
+            function p2l(pathname, query, hash) {
+                pathname = pathname.replace(/\//gi, "__")
+                if (pathname === "__") {
+                    pathname = "homepage";
+                }
+                pathname = pathname.replace(/\./gi, "_");
+                query = query.replace(/\?/gi, '-');
+                params = query.split('&');
+                args = []
+                for (arg = 0; arg < params.length; arg++) {
+                    args.push(params[arg].split('=')[0]);
+                }
+                pathname += args.join('-');
+                pathname += hash.replace(/#/gi, "-");
+                return pathname;
+            };
+
+            _qevents.push({
+                qacct: "p-Ud6J9WY3Ryurh",
+                labels: "_fp.event." + p2l(document.location.pathname,
+                document.location.search, document.location.hash)
+            });
+        </script>
+
+        <noscript>
+          <div style="display:none;">
+            <img src="//pixel.quantserve.com/pixel/p-Ud6J9WY3Ryurh.gif" border="0" height="1" width="1" alt="Quantcast"/>
+          </div>
+        </noscript>
+        <!-- End Quantcast tag -->
+    <script src="/content/js/mmacustomvalidatecombined-d4c6642a-6eb3-48ce-9a6b-6e635954044b.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/content/js/jquery.blockUI.js?v2.31"></script>
+    <script type="text/javascript" src="/content/js/jquery.maskedinput-1.2.2.js"></script> 
+ 
+    
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    $.fx.prototype.cur = function(){
+      if ( this.elem[this.prop] != null && (!this.elem.style || this.elem.style[this.prop] == null) ) { return this.elem[ this.prop ]; }
+      var r = parseFloat( jQuery.css( this.elem, this.prop ) );
+      return typeof r == 'undefined' ? 0 : r;
+    }
+    /* ]]> */
+  </script>
+
+    <script src="/content/js/metcombined-ee32d780-f352-4087-a278-67472e50550b.js" type="text/javascript"></script>    
+    <link href="/content/css/js-enabled.css" type="text/css" rel="stylesheet" media="screen" />     
+   
+      <link href="/content/css/collectiononlinecombined-5b9a5715-4966-4221-8aee-8c0bff671610.css" rel="stylesheet" type="text/css" /><script src="/content/js/collectiononlinecombined-1209e92e-8421-473c-82d0-12beebdc4020.js" type="text/javascript"></script>
+
+    <!--[if lte IE 8]>
+        <link href="/content/css/ie-lte8.css" type="text/css" rel="stylesheet" />
+        <script type="text/javascript">
+        jQuery(document).ready(function($) {
+            addCorners($(".button"));
+        });
+        function addCorners(element) {
+            element.prepend('<div class="tl"></div><div class="tr"></div>');
+            element.append('<div class="bl"></div><div class="br"></div>');
+        }
+        </script>
+        <![endif]-->
+    <!--[if IE 6]>
+      <script type="text/javascript" src="/content/js/ie6.js"></script>
+    <![endif]-->
+
+    <!--[if lt IE 9]> 
+        <script src="/content/js/html5shivcombined-1aafd740-26fb-4ff1-8c59-acb2957515ad.js" type="text/javascript"></script>  
+    <![endif]-->
+
+    <!-- GA tracking includes -->
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-3239288-2']);
+            _gaq.push(['_setDomainName', 'metmuseum.org']);
+            _gaq.push(['_setAllowLinker', true]);
+            _gaq.push(['_setAllowAnchor', true]);
+            _gaq.push(['_trackPageview']);
+            _gaq.push(['_trackPageLoadTime']);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+        
+
+        <!-- tracks file downloads and links as Events
+        reference: http://www.freshandnew.org/2011/07/fixing-document-download-and-link-tracking-with-the-google-analytics-asynchronous-tracking-code/
+        -->
+        <script type="text/javascript">
+
+            $(document).ready(function () {
+
+                $('a').mouseup(function () {
+                    href = $(this).attr('href');
+                    if (href != null) {
+                        href_lower = href.toLowerCase();
+                        if (href_lower.substr(-3) == "pdf" || href_lower.substr(-3) == "xls" || href_lower.substr(-3) == "doc" || href_lower.substr(-4) == "ashx" ||
+                    href_lower.substr(-3) == "mp3" || href_lower.substr(-3) == "mp4" || href_lower.substr(-3) == "flv" ||
+                    href_lower.substr(-3) == "txt" || href_lower.substr(-3) == "csv" || href_lower.substr(-3) == "zip") {
+                            _gaq.push(['_trackEvent', 'Downloads', href_lower.substr(-3), href]);
+                        }
+                        if (href_lower.substr(0, 4) == "http") {
+                            var domain = document.domain.replace("www.", '');
+                            if (href_lower.indexOf(domain) == -1) {
+                                href = href.replace("http://", '');
+                                href = href.replace("https://", '');
+                                _gaq.push(['_trackEvent', 'Outbound Traffic', href]);
+                            }
+                        }
+                    }
+                });
+            });
+        </script>
+    <title>
+
+</title></head>
+<body>
+    <script type="text/javascript">        jQuery("body").addClass("js-enabled");</script>
+    <div id="wrapper">
+        
+        <div id="main-container">
+            
+ <style type="text/css">
+  div#access-links{
+    margin-left: 60px;
+    float: right;
+  }
+  
+  p#access-tools{
+    margin-top: 15px;
+  }
+  
+  p#access-tools a {
+   position: absolute;
+   left: -10000em;
+   color: #D5D1C8;
+  }
+ 
+  p#access-tools a:focus {
+   position: static;
+   left: auto;
+  }
+  
+  p#access-tools a:hover {
+   position: static;
+   left: auto;
+   text-decoration: underline;
+  }
+
+  /***header-social-icons styles STARTS here ***/
+     div#header-social-icons {
+        display: inline-block;
+        padding: 5px 15px;
+      min-height: 19px;
+      float: left;
+     }
+
+     div#header-social-icons .social-networks {
+        padding-left: 15px;
+        background-color: transparent;
+     }
+
+     div#header-social-icons ul li {
+        display: inline;
+
+     }
+
+     div#header-social-icons .social-networks li {
+        height: 1%;
+        overflow: hidden;
+        margin: 0;
+        vertical-align: top;
+     }
+
+     div#header-social-icons .social-networks .ico {
+        margin: 0 15px 0 0;
+        float: left;
+     }
+
+     div#header-social-icons ul a {
+        padding-right: 8px;
+        font-weight: normal;
+     }
+
+     div#header-social-icons .social-networks .ico img {
+        display: block;
+        padding-top: 2px;
+     }
+
+     div.social-icon-shim {
+        margin-right: 30px;
+     }
+
+     /** Chrome and Safari hack for Windows machines only **/
+     @media screen and (-webkit-min-device-pixel-ratio:0) {
+        
+        div#header-social-icons ul a {
+            display: inline-block;
+        }
+     }
+  /***header-social-icons styles ENDS here ***/
+
+
+    /** Firefox Hack STARTS **/
+     @-moz-document url-prefix() 
+     {
+          div#header-social-icons ul a {
+            display: inline-block;
+        }
+     }
+     /** Firefox Hack ENDS **/
+ </style>
+
+<!--[if IE 7]>
+     <style type="text/css">
+        div.ie7SearchFix{
+            margin-top:-30px !important;
+        }
+
+        div.button{
+            width: 75px !important;
+            margin-top: 13px !important;
+        }
+        DIV#my-met .button-reg-mymet{
+            margin-bottom: 0px !important;
+        } 
+
+    div.email-button input
+    {
+        height: 2em !important;
+        font-size: 0.8em;
+        color: #ffffff;
+       /* background-color: transparent; */
+        text-transform: uppercase;
+        font-weight: bold;
+        /*padding: 0 5px;*/
+        padding-top: .2em;
+        float: left;
+        padding-bottom: 1.7em;
+        vertical-align: middle !important;
+    }
+
+    div.email-button:hover, div.search-button:hover
+    {
+        cursor: pointer;
+    }
+
+    input.emailBtnBGColor{ background-color: #186d9f !important; }
+    </style>
+<![endif]-->
+
+<!--[if GTE IE 7]>
+     <style type="text/css">
+    div#header div.email-field
+    {
+        padding-top: 3px;
+        background-color:rgb(255,255,255);
+    }
+
+    div#header div.email-field-bg
+    {
+        padding-bottom: 1px;
+    }
+
+    div.email-button
+    {
+        -webkit-border-top-right-radius: 5px;
+          -webkit-border-bottom-right-radius: 5px;
+          -moz-border-radius-topright: 5px;
+          -moz-border-radius-bottomright: 5px;
+          border-top-right-radius: 5px;
+          border-bottom-right-radius: 5px;
+      
+          overflow: hidden;
+    }
+
+    div.email-button-bg
+    {
+        background-color: #186d9f !important;
+            background-image: -webkit-gradient(
+            linear,
+            left bottom,
+            left top,
+            color-stop(0.29, #186d9f),
+            color-stop(0.6, #83b5d7)
+            );
+            background-image: -moz-linear-gradient(
+            center bottom,
+            #186d9f 29%,
+            #83b5d7 50%
+            );                                                                                         
+        
+          filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#83b5d7', endColorstr='#186d9f');
+    }
+
+    div.email-button input
+    {
+        font-size: 0.8em;
+        color: #ffffff;
+        text-transform: uppercase;
+        font-weight: bold;
+        padding-top: .35em;
+        float: left;
+        padding-bottom: .35em;
+        vertical-align: middle !important;
+    }
+
+    div.email-button:hover, div.search-button:hover
+    {
+        cursor: pointer;
+    }
+
+    input.emailBtnBGColor{ background-color: transparent !important; }
+    </style>
+<![endif]-->
+
+<div id="header"> 
+    <div id="my-met" class="my-met-mma">
+        
+        <div class="logged-out cleared"> 
+            <div class="my-met-header-box intro">
+                <div class="header black">
+<h3 class="urbano-light">WHAT IS MY<span class="urbano-regular">MET</span>?</h3>
+</div>
+&nbsp;&nbsp;&nbsp; 
+<blockquote style="margin-right: 0px;" dir="ltr">
+<p>&bull; Save events and itineraries, and get customized event recommendations.<br />
+&bull; Make and keep your own art collection.<br />
+&bull; Manage your email preferences.<br />
+&bull; If you're a Member, edit your Membership details.<br />
+&bull; Stay informed by signing up for Met emails.</p>
+</blockquote>
+<div class="button button-reg-mymet"><a href="/mymet/sign-up">Register</a></div>
+<p>&nbsp;</p>
+            </div>
+            <div class="my-met-header-box sign-in">
+                <div class="header gray">
+                    <h3 class="urbano-light">
+                        Already have a my<span class="urbano-regular">met</span> account&#63; Sign in</h3>
+                </div>
+                <div class="content">
+                    <div class="form-container">
+                        <form action="https://www.metmuseum.org/mymet/sign-up" method="post">
+                        <div class="column">
+                            <label for="my-met-email">
+                                Email Address:</label>
+                            <input type="text" id="my-met-email" class="my-met-input" name="email" />
+                            <a class="forgotDeets" href="/mymet/forgottendetails">Forgotten your details&#63;</a>
+                        </div>
+                        <div class="column align-right">
+                            <div>
+                            <label for="my-met-password">
+                                Password:</label>
+                            <input type="password" id="my-met-password" class="my-met-input" name="signinpwd" autocomplete="off" />           
+                            <p><input type="checkbox" id="my-met-logged-on" name="stayloggedin" class="my-met-checkbox" value="1" /><label for="my-met-logged-on" class="for-checkbox">Stay logged in</label><input name="__RequestVerificationToken" type="hidden" value="wLWukIBeEjs/dcpx62P+C+7ao+KWEct+6+eS/0UgKbSmAg+WC9aIRM/AjkKkTFQE+IjNnjx+lE0JpVzb19Ujek63d+0QdSKkiL/6SLiiuJQ0Ivh2siiS8+/4lEbRpk0iXM3kzKo/LW2gy1JJDbJU3L1+JbA=" /></p> 
+                            </div>
+                            <div class="button grey align-right f1f1f0">
+                             <div class="submit-container">
+                                <input type="submit" id="register-submit" name="mymetsignin" value="Sign In"  class="submit" style="margin:0px; padding: 2px 7px 2px 6px;"  onclick="_gaq.push(['_trackEvent', 'MyMet', 'Sign In']);"/>
+                             </div>
+                        </div>
+                        </div>
+
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+    <!-- end my-met -->
+    <div id="header-content">
+        <div id="logo-container" class="logo-container-mmaConfirm">
+            <a href="/">
+                <img id="logo" src="/content/img/presentation/icons/header-logo-icon.gif" alt="The Metropolitan Museum of Art Logo"
+                    height="45" width="44" />
+                <img id="logo-text" src="/content/img/presentation/icons/header-logo-text.gif" alt="The Metropolitan Museum of Art"
+                    height="17" width="362" />
+            </a>
+<span class="hide-content-mma"><img id="print-logo" src="/content/img/presentation/titles/print-header.gif" alt="The Metropolitan Museum of Art" height="44" width="416" class="hide-content" /></span>
+        
+  <div id="access-links">
+  <p id="access-tools" class="access-pos">
+  <a href="#site-navigation" class="access-link">Go to Navigation</a>
+  <a href="#content-container" class="access-link">Go to Content</a>
+  <a href="#search-field" class="access-link">Go to Search</a>
+ </p>
+ </div></div> 
+        
+        <div id="search-form" class="form-container ie7SearchFix">
+            <form id="searchForm" method="get" action="/search-results">
+            <label class="hide-content" for="search-field">
+                Search this web site</label>
+            <div class="search-field">
+                <div class="search-field-bg">
+                    <input type="text" id="search-field" name="ft" value="" />
+                </div>
+            </div>
+            <div class="search-button">
+                <div class="search-button-bg">
+                    <input type="image" id="search-submit" src="/content/img/presentation/buttons/search-button.gif"
+                        alt="submit search" />
+                </div>
+            </div>
+            </form>
+        </div>
+        
+        
+        <ul id="primary-navigation" class="primary-navigation-mmaConfirm">
+        <li id="ctl03_ctl00_TopNav_ctrl0_navlink" class=" selected"><a href="/visit">
+            Visit</a>
+            
+                    <div class="shadow">
+                        <ul>
+                            
+                    <li><a href="/visit/hours-and-admission">
+                        Hours and Admission</a></li>
+                
+                    <li><a href="/visit/plan-your-visit">
+                        Plan Your Visit</a></li>
+                
+                    <li><a href="/visit/museum-map">
+                        Museum Map</a></li>
+                
+                    <li><a href="/visit/itineraries">
+                        Suggested Itineraries</a></li>
+                
+                    <li><a href="/visit/visit-the-cloisters">
+                        Visit The Cloisters</a></li>
+                
+                    <li><a href="/visit/accessibility">
+                        Accessibility</a></li>
+                
+                    <li><a href="/visit/contact">
+                        Contact Information</a></li>
+                
+                        </ul>
+                    </div>
+                
+        </li>
+    
+        <li id="ctl03_ctl00_TopNav_ctrl1_navlink"><a href="/exhibitions">
+            Exhibitions</a>
+            
+                    <div class="shadow">
+                        <ul>
+                            
+                    <li><a href="/exhibitions/current-exhibitions">
+                        Current Exhibitions</a></li>
+                
+                    <li><a href="/exhibitions/upcoming-exhibitions">
+                        Upcoming Exhibitions</a></li>
+                
+                    <li><a href="/exhibitions/past-exhibitions">
+                        Past Exhibitions</a></li>
+                
+                        </ul>
+                    </div>
+                
+        </li>
+    
+        <li id="ctl03_ctl00_TopNav_ctrl2_navlink"><a href="/collection">
+            Collection</a>
+            
+                    <div class="shadow">
+                        <ul>
+                            
+                    <li><a href="/collection/highlights-of-the-collection">
+                        Highlights of the Collection</a></li>
+                
+                    <li><a href="/collection/the-collection-online">
+                        The Collection Online</a></li>
+                
+                    <li><a href="/collection/new-installations">
+                        New Installations</a></li>
+                
+                    <li><a href="/collection/metcollects">
+                        MetCollects</a></li>
+                
+                    <li><a href="/collection/one-met-many-worlds">
+                        One Met. Many Worlds.</a></li>
+                
+                    <li><a href="/collection/galleries">
+                        Galleries</a></li>
+                
+                    <li><a href="/collection/connections">
+                        Connections</a></li>
+                
+                    <li><a href="/collection/82nd-and-fifth">
+                        82nd & Fifth</a></li>
+                
+                    <li><a href="/collection/toah">
+                        Timeline of Art History</a></li>
+                
+                        </ul>
+                    </div>
+                
+        </li>
+    
+        <li id="ctl03_ctl00_TopNav_ctrl3_navlink"><a href="/events">
+            Events</a>
+            
+                    <div class="shadow">
+                        <ul>
+                            
+                    <li><a href="/events/find-events">
+                        Find Events</a></li>
+                
+                    <li><a href="/events/programs">
+                        Programs</a></li>
+                
+                    <li><a href="/events/travel-with-the-met">
+                        Travel with the Met</a></li>
+                
+                        </ul>
+                    </div>
+                
+        </li>
+    
+        <li id="ctl03_ctl00_TopNav_ctrl4_navlink"><a href="/learn">
+            Learn</a>
+            
+                    <div class="shadow">
+                        <ul>
+                            
+                    <li><a href="/learn/for-kids">
+                        For Kids</a></li>
+                
+                    <li><a href="/learn/for-teens">
+                        For Teens</a></li>
+                
+                    <li><a href="/learn/for-adults">
+                        For Adults</a></li>
+                
+                    <li><a href="/learn/for-college-students">
+                        For College Students</a></li>
+                
+                    <li><a href="/learn/for-educators">
+                        For Educators</a></li>
+                
+                    <li><a href="/learn/for-visitors-with-disabilities">
+                        For Visitors with Disabilities</a></li>
+                
+                        </ul>
+                    </div>
+                
+        </li>
+    
+        <li id="ctl03_ctl00_TopNav_ctrl5_navlink"><a href="/research">
+            Research</a>
+            
+                    <div class="shadow">
+                        <ul>
+                            
+                    <li><a href="/research/libraries-and-study-centers">
+                        Libraries and Study Centers</a></li>
+                
+                    <li><a href="/research/metpublications">
+                        MetPublications</a></li>
+                
+                    <li><a href="/research/internships-and-fellowships">
+                        Internships and Fellowships</a></li>
+                
+                    <li><a href="/research/archaeological-fieldwork">
+                        Archaeological Fieldwork</a></li>
+                
+                    <li><a href="/research/conservation-and-scientific-research">
+                        Conservation and Scientific Research</a></li>
+                
+                    <li><a href="/research/curatorial-research">
+                        Curatorial Research</a></li>
+                
+                    <li><a href="/research/image-resources">
+                        Image Resources</a></li>
+                
+                    <li><a href="/research/provenance-research-project">
+                        Provenance Research Project</a></li>
+                
+                        </ul>
+                    </div>
+                
+        </li>
+    
+        <li id="ctl03_ctl00_TopNav_ctrl6_navlink"><a href="/give-and-join">
+            Give and Join</a>
+            
+                    <div class="shadow">
+                        <ul>
+                            
+                    <li><a href="/give-and-join/donate">
+                        Donate</a></li>
+                
+                    <li><a href="/give-and-join/membership">
+                        Membership</a></li>
+                
+                    <li><a href="/give-and-join/planned-giving">
+                        Planned Giving</a></li>
+                
+                    <li><a href="/give-and-join/benefit-parties">
+                        Benefit Parties</a></li>
+                
+                    <li><a href="/give-and-join/corporate-support">
+                        Corporate Support</a></li>
+                
+                    <li><a href="/give-and-join/curatorial-friends-groups">
+                        Curatorial Friends Groups</a></li>
+                
+                    <li><a href="/give-and-join/gift-in-honor">
+                        Gifts in Honor or Memory</a></li>
+                
+                        </ul>
+                    </div>
+                
+        </li>
+    
+        <li id="ctl03_ctl00_TopNav_ctrl7_navlink"><a href="/about-the-museum">
+            About the Museum</a>
+            
+                    <div class="shadow">
+                        <ul>
+                            
+                    <li><a href="/about-the-museum/met-around-the-world">
+                        The Met Around the World</a></li>
+                
+                    <li><a href="/about-the-museum/mission-statement">
+                        Museum Mission Statement</a></li>
+                
+                    <li><a href="/about-the-museum/history-of-the-museum">
+                        History of the Museum</a></li>
+                
+                    <li><a href="/about-the-museum/museum-departments">
+                        Museum Departments</a></li>
+                
+                    <li><a href="/about-the-museum/entertaining-at-the-met">
+                        Entertaining at the Met</a></li>
+                
+                    <li><a href="/about-the-museum/career-and-volunteer-opportunities">
+                        Career and Volunteer Opportunities</a></li>
+                
+                    <li><a href="/about-the-museum/annual-reports">
+                        Annual Report and IRS Form 990</a></li>
+                
+                    <li><a href="/about-the-museum/collections-management-policy">
+                        Collections Management Policy</a></li>
+                
+                    <li><a href="/about-the-museum/contact">
+                        Contact Information</a></li>
+                
+                    <li><a href="/about-the-museum/press-room">
+                        Press Room</a></li>
+                
+                        </ul>
+                    </div>
+                
+        </li>
+    
+        <li id="ctl03_ctl00_TopNav_ctrl8_navlink"><a href="/blogs">
+            Blogs</a>
+            
+                    <div class="shadow">
+                        <ul>
+                            
+                    <li><a href="/blogs/now-at-the-met">
+                        Now at the Met</a></li>
+                
+                    <li><a href="/blogs/in-season">
+                        In Season</a></li>
+                
+                    <li><a href="/blogs/digital-underground">
+                        Digital Underground</a></li>
+                
+                    <li><a href="/blogs/in-circulation">
+                        In Circulation</a></li>
+                
+                    <li><a href="/blogs/of-note">
+                        Of Note</a></li>
+                
+                    <li><a href="/blogs/teen-blog">
+                        Teen Blog</a></li>
+                
+                    <li><a href="/blogs/travel-with-the-met">
+                        Travel with the Met</a></li>
+                
+                    <li><a href="/blogs/categories">
+                        Categories</a></li>
+                
+                    <li><a href="/blogs/archive">
+                        Blog Archive</a></li>
+                
+                        </ul>
+                    </div>
+                
+        </li>
+    <li class="last"><a href="http://store.metmuseum.org/?utm_source=mainmuseum&utm_medium=metmuseum.org&utm_content=shop&utm_campaign=top+nav">Shop</a></li></ul>
+    
+<div class="clear">
+</div>
+
+        <div id="header-topbar">
+            <div class="header-topbar-content">
+                <div class="form-container">
+                    <label class="hide-content" for="">
+                        Sign up for emails</label>
+                    <div class="email-field">
+                        <div class="email-field-bg">
+                            <input type="text" value="Email address" id="email-field" name="email-field" />
+                        </div>
+                    </div>
+
+                    <div class="email-button">
+                        <div class="email-button-bg"> 
+                            <input type="submit" id="email-submit" name="email-submit" value="Sign up for emails"  class="emailBtnBGColor" onclick="_gaq.push(['_trackEvent', 'MyMet', 'email lite']);_gaq.push(['_trackEvent', 'Home', 'Email']);" />
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="header-topbar-content social-icon-shim">
+                <a href="/give-and-join/membership/categories" name="top" onclick="_gaq.push(['_trackEvent', 'Home', 'MyMet']);">Become a member</a>
+            </div>
+            <div id="header-social-icons">
+                <ul class="social-networks">  
+                     <li><div class="ico"><a href="https://www.metmuseum.org/mymet/email-lite" target="_blank"><img src="/~/media/Images/Community/Icons/env_light.png"/></a></div></li><li><div class="ico"><a href="http://www.facebook.com/metmuseum" target="_blank"><img src="/~/media/Images/Community/Icons/fb.png"/></a></div></li><li><div class="ico"><a href="https://twitter.com/metmuseum" target="_blank"><img src="/~/media/Images/Community/Icons/tw.png"/></a></div></li><li><div class="ico"><a href="https://pinterest.com/metmuseum/" target="_blank"><img src="/~/media/Images/Community/Icons/pin.png"/></a></div></li><li><div class="ico"><a href="http://www.instagram.com/metmuseum" target="_blank"><img src="/~/media/Images/Community/Icons/Instagram.png"/></a></div></li>
+           </ul>
+            </div>
+            <div class="my-met-topbar" onclick="_gaq.push(['_trackEvent', 'Home', 'email lite']);">
+                <a href="#"><span class="urbano-light">My<span class="urbano-regular">Met</span></span>
+                    <span>Sign in / Register</span></a>
+            </div>
+        </div>
+    </div>
+    <!-- end header-content -->
+    
+<div id="breadcrumb">
+  <ul class="site-navigation">
+    
+  <li ><a href="/">Home</a> &gt;</li>
+    
+  <li ><a href="/visit">Visit</a> &gt;</li>
+    
+    <li class="last">Contact Information</li>
+    </ul> 
+    
+ <script type="text/javascript" src="/content/js/jquery.cookie.js"></script>
+
+ <span id="spnShowCart" style="display:none;">             
+               <a href="/events/shopping-cart" class="carticon cell"><span class="hide-content">Shopping cart: </span><span id="spnTotalCartItems"></span><span id="cart-timer"></span></a>
+               <script type="text/javascript">
+                    /* <![CDATA[ */
+                   
+                   //$(function () {
+                   var hdnTimeFirstSeatAdded = jQuery.cookie("firstSeatAdded");
+                   var cartItemsTotal = 0;
+
+                   if (hdnTimeFirstSeatAdded != null) {
+                       var sessionExpiredTime = new Date();
+
+                       var expireTimeTemp = new Date(hdnTimeFirstSeatAdded);
+                       var expireTime = new Date(expireTimeTemp);
+
+                       sessionExpiredTime.setMinutes(expireTimeTemp.getMinutes() + 20);
+                       //sessionExpiredTime.setSeconds(expireTimeTemp.getSeconds() + 10);
+
+                       countdownTime = new Date(expireTime);
+
+                       jQuery('#cart-timer').countdown({ until: sessionExpiredTime, onExpiry: expire, alwaysExpire: true, onTick: isGreaterThanTwentyMins, layout: '<span class="icon-cart" />You have {mn} mins {sn} secs to complete your order' });
+
+                       cartItemsTotal = jQuery.cookie("cartItemsTotal");
+                       jQuery("#spnTotalCartItems").text(cartItemsTotal);
+
+                       var i = 0;
+                   }
+
+                   function expire() {
+                    jQuery("#spnShowCart").hide();
+                   }
+
+                   function isGreaterThanTwentyMins(periods){
+                    if (periods[5] > 20)
+                        jQuery("#spnShowCart").hide();
+                   }
+
+                   /* ]]> */
+               </script>
+           </span>
+
+    
+</div>
+
+</div>
+<!-- end header -->
+
+            <form method="post" action="/visit/contact" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTYzMjU0OTk3OQ8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBFgYCAQ9kFgJmD2QWBAIBD2QWAmYPZBYCZg8UKwACDxYEHgtfIURhdGFCb3VuZGceC18hSXRlbUNvdW50AglkZBYCZg9kFhICAQ9kFgICAQ8WAh4FY2xhc3MFCSBzZWxlY3RlZBYEZg8VAgYvdmlzaXQFVmlzaXRkAgEPFCsAAg8WBB8BZx8CAgdkZBYCZg9kFg4CAQ9kFgJmDxUCGi92aXNpdC9ob3Vycy1hbmQtYWRtaXNzaW9uE0hvdXJzIGFuZCBBZG1pc3Npb25kAgIPZBYCZg8VAhYvdmlzaXQvcGxhbi15b3VyLXZpc2l0D1BsYW4gWW91ciBWaXNpdGQCAw9kFgJmDxUCES92aXNpdC9tdXNldW0tbWFwCk11c2V1bSBNYXBkAgQPZBYCZg8VAhIvdmlzaXQvaXRpbmVyYXJpZXMVU3VnZ2VzdGVkIEl0aW5lcmFyaWVzZAIFD2QWAmYPFQIaL3Zpc2l0L3Zpc2l0LXRoZS1jbG9pc3RlcnMTVmlzaXQgVGhlIENsb2lzdGVyc2QCBg9kFgJmDxUCFC92aXNpdC9hY2Nlc3NpYmlsaXR5DUFjY2Vzc2liaWxpdHlkAgcPZBYCZg8VAg4vdmlzaXQvY29udGFjdBNDb250YWN0IEluZm9ybWF0aW9uZAICD2QWAgIBD2QWBGYPFQIML2V4aGliaXRpb25zC0V4aGliaXRpb25zZAIBDxQrAAIPFgQfAWcfAgIDZGQWAmYPZBYGAgEPZBYCZg8VAiAvZXhoaWJpdGlvbnMvY3VycmVudC1leGhpYml0aW9ucxNDdXJyZW50IEV4aGliaXRpb25zZAICD2QWAmYPFQIhL2V4aGliaXRpb25zL3VwY29taW5nLWV4aGliaXRpb25zFFVwY29taW5nIEV4aGliaXRpb25zZAIDD2QWAmYPFQIdL2V4aGliaXRpb25zL3Bhc3QtZXhoaWJpdGlvbnMQUGFzdCBFeGhpYml0aW9uc2QCAw9kFgICAQ9kFgRmDxUCCy9jb2xsZWN0aW9uCkNvbGxlY3Rpb25kAgEPFCsAAg8WBB8BZx8CAglkZBYCZg9kFhICAQ9kFgJmDxUCKC9jb2xsZWN0aW9uL2hpZ2hsaWdodHMtb2YtdGhlLWNvbGxlY3Rpb24cSGlnaGxpZ2h0cyBvZiB0aGUgQ29sbGVjdGlvbmQCAg9kFgJmDxUCIS9jb2xsZWN0aW9uL3RoZS1jb2xsZWN0aW9uLW9ubGluZRVUaGUgQ29sbGVjdGlvbiBPbmxpbmVkAgMPZBYCZg8VAh0vY29sbGVjdGlvbi9uZXctaW5zdGFsbGF0aW9ucxFOZXcgSW5zdGFsbGF0aW9uc2QCBA9kFgJmDxUCFy9jb2xsZWN0aW9uL21ldGNvbGxlY3RzC01ldENvbGxlY3RzZAIFD2QWAmYPFQIfL2NvbGxlY3Rpb24vb25lLW1ldC1tYW55LXdvcmxkcxVPbmUgTWV0LiBNYW55IFdvcmxkcy5kAgYPZBYCZg8VAhUvY29sbGVjdGlvbi9nYWxsZXJpZXMJR2FsbGVyaWVzZAIHD2QWAmYPFQIXL2NvbGxlY3Rpb24vY29ubmVjdGlvbnMLQ29ubmVjdGlvbnNkAggPZBYCZg8VAhovY29sbGVjdGlvbi84Mm5kLWFuZC1maWZ0aAw4Mm5kICYgRmlmdGhkAgkPZBYCZg8VAhAvY29sbGVjdGlvbi90b2FoF1RpbWVsaW5lIG9mIEFydCBIaXN0b3J5ZAIED2QWAgIBD2QWBGYPFQIHL2V2ZW50cwZFdmVudHNkAgEPFCsAAg8WBB8BZx8CAgNkZBYCZg9kFgYCAQ9kFgJmDxUCEy9ldmVudHMvZmluZC1ldmVudHMLRmluZCBFdmVudHNkAgIPZBYCZg8VAhAvZXZlbnRzL3Byb2dyYW1zCFByb2dyYW1zZAIDD2QWAmYPFQIbL2V2ZW50cy90cmF2ZWwtd2l0aC10aGUtbWV0E1RyYXZlbCB3aXRoIHRoZSBNZXRkAgUPZBYCAgEPZBYEZg8VAgYvbGVhcm4FTGVhcm5kAgEPFCsAAg8WBB8BZx8CAgZkZBYCZg9kFgwCAQ9kFgJmDxUCDy9sZWFybi9mb3Ita2lkcwhGb3IgS2lkc2QCAg9kFgJmDxUCEC9sZWFybi9mb3ItdGVlbnMJRm9yIFRlZW5zZAIDD2QWAmYPFQIRL2xlYXJuL2Zvci1hZHVsdHMKRm9yIEFkdWx0c2QCBA9kFgJmDxUCGy9sZWFybi9mb3ItY29sbGVnZS1zdHVkZW50cxRGb3IgQ29sbGVnZSBTdHVkZW50c2QCBQ9kFgJmDxUCFC9sZWFybi9mb3ItZWR1Y2F0b3JzDUZvciBFZHVjYXRvcnNkAgYPZBYCZg8VAiUvbGVhcm4vZm9yLXZpc2l0b3JzLXdpdGgtZGlzYWJpbGl0aWVzHkZvciBWaXNpdG9ycyB3aXRoIERpc2FiaWxpdGllc2QCBg9kFgICAQ9kFgRmDxUCCS9yZXNlYXJjaAhSZXNlYXJjaGQCAQ8UKwACDxYEHwFnHwICCGRkFgJmD2QWEAIBD2QWAmYPFQIlL3Jlc2VhcmNoL2xpYnJhcmllcy1hbmQtc3R1ZHktY2VudGVycxtMaWJyYXJpZXMgYW5kIFN0dWR5IENlbnRlcnNkAgIPZBYCZg8VAhkvcmVzZWFyY2gvbWV0cHVibGljYXRpb25zD01ldFB1YmxpY2F0aW9uc2QCAw9kFgJmDxUCJS9yZXNlYXJjaC9pbnRlcm5zaGlwcy1hbmQtZmVsbG93c2hpcHMbSW50ZXJuc2hpcHMgYW5kIEZlbGxvd3NoaXBzZAIED2QWAmYPFQIiL3Jlc2VhcmNoL2FyY2hhZW9sb2dpY2FsLWZpZWxkd29yaxhBcmNoYWVvbG9naWNhbCBGaWVsZHdvcmtkAgUPZBYCZg8VAi4vcmVzZWFyY2gvY29uc2VydmF0aW9uLWFuZC1zY2llbnRpZmljLXJlc2VhcmNoJENvbnNlcnZhdGlvbiBhbmQgU2NpZW50aWZpYyBSZXNlYXJjaGQCBg9kFgJmDxUCHS9yZXNlYXJjaC9jdXJhdG9yaWFsLXJlc2VhcmNoE0N1cmF0b3JpYWwgUmVzZWFyY2hkAgcPZBYCZg8VAhkvcmVzZWFyY2gvaW1hZ2UtcmVzb3VyY2VzD0ltYWdlIFJlc291cmNlc2QCCA9kFgJmDxUCJS9yZXNlYXJjaC9wcm92ZW5hbmNlLXJlc2VhcmNoLXByb2plY3QbUHJvdmVuYW5jZSBSZXNlYXJjaCBQcm9qZWN0ZAIHD2QWAgIBD2QWBGYPFQIOL2dpdmUtYW5kLWpvaW4NR2l2ZSBhbmQgSm9pbmQCAQ8UKwACDxYEHwFnHwICB2RkFgJmD2QWDgIBD2QWAmYPFQIVL2dpdmUtYW5kLWpvaW4vZG9uYXRlBkRvbmF0ZWQCAg9kFgJmDxUCGS9naXZlLWFuZC1qb2luL21lbWJlcnNoaXAKTWVtYmVyc2hpcGQCAw9kFgJmDxUCHS9naXZlLWFuZC1qb2luL3BsYW5uZWQtZ2l2aW5nDlBsYW5uZWQgR2l2aW5nZAIED2QWAmYPFQIeL2dpdmUtYW5kLWpvaW4vYmVuZWZpdC1wYXJ0aWVzD0JlbmVmaXQgUGFydGllc2QCBQ9kFgJmDxUCIC9naXZlLWFuZC1qb2luL2NvcnBvcmF0ZS1zdXBwb3J0EUNvcnBvcmF0ZSBTdXBwb3J0ZAIGD2QWAmYPFQIoL2dpdmUtYW5kLWpvaW4vY3VyYXRvcmlhbC1mcmllbmRzLWdyb3VwcxlDdXJhdG9yaWFsIEZyaWVuZHMgR3JvdXBzZAIHD2QWAmYPFQIcL2dpdmUtYW5kLWpvaW4vZ2lmdC1pbi1ob25vchhHaWZ0cyBpbiBIb25vciBvciBNZW1vcnlkAggPZBYCAgEPZBYEZg8VAhEvYWJvdXQtdGhlLW11c2V1bRBBYm91dCB0aGUgTXVzZXVtZAIBDxQrAAIPFgQfAWcfAgIKZGQWAmYPZBYUAgEPZBYCZg8VAiYvYWJvdXQtdGhlLW11c2V1bS9tZXQtYXJvdW5kLXRoZS13b3JsZBhUaGUgTWV0IEFyb3VuZCB0aGUgV29ybGRkAgIPZBYCZg8VAiMvYWJvdXQtdGhlLW11c2V1bS9taXNzaW9uLXN0YXRlbWVudBhNdXNldW0gTWlzc2lvbiBTdGF0ZW1lbnRkAgMPZBYCZg8VAicvYWJvdXQtdGhlLW11c2V1bS9oaXN0b3J5LW9mLXRoZS1tdXNldW0VSGlzdG9yeSBvZiB0aGUgTXVzZXVtZAIED2QWAmYPFQIkL2Fib3V0LXRoZS1tdXNldW0vbXVzZXVtLWRlcGFydG1lbnRzEk11c2V1bSBEZXBhcnRtZW50c2QCBQ9kFgJmDxUCKS9hYm91dC10aGUtbXVzZXVtL2VudGVydGFpbmluZy1hdC10aGUtbWV0F0VudGVydGFpbmluZyBhdCB0aGUgTWV0ZAIGD2QWAmYPFQI0L2Fib3V0LXRoZS1tdXNldW0vY2FyZWVyLWFuZC12b2x1bnRlZXItb3Bwb3J0dW5pdGllcyJDYXJlZXIgYW5kIFZvbHVudGVlciBPcHBvcnR1bml0aWVzZAIHD2QWAmYPFQIgL2Fib3V0LXRoZS1tdXNldW0vYW5udWFsLXJlcG9ydHMeQW5udWFsIFJlcG9ydCBhbmQgSVJTIEZvcm0gOTkwZAIID2QWAmYPFQIvL2Fib3V0LXRoZS1tdXNldW0vY29sbGVjdGlvbnMtbWFuYWdlbWVudC1wb2xpY3kdQ29sbGVjdGlvbnMgTWFuYWdlbWVudCBQb2xpY3lkAgkPZBYCZg8VAhkvYWJvdXQtdGhlLW11c2V1bS9jb250YWN0E0NvbnRhY3QgSW5mb3JtYXRpb25kAgoPZBYCZg8VAhwvYWJvdXQtdGhlLW11c2V1bS9wcmVzcy1yb29tClByZXNzIFJvb21kAgkPZBYCAgEPZBYEZg8VAgYvYmxvZ3MFQmxvZ3NkAgEPFCsAAg8WBB8BZx8CAglkZBYCZg9kFhICAQ9kFgJmDxUCFS9ibG9ncy9ub3ctYXQtdGhlLW1ldA5Ob3cgYXQgdGhlIE1ldGQCAg9kFgJmDxUCEC9ibG9ncy9pbi1zZWFzb24JSW4gU2Vhc29uZAIDD2QWAmYPFQIaL2Jsb2dzL2RpZ2l0YWwtdW5kZXJncm91bmQTRGlnaXRhbCBVbmRlcmdyb3VuZGQCBA9kFgJmDxUCFS9ibG9ncy9pbi1jaXJjdWxhdGlvbg5JbiBDaXJjdWxhdGlvbmQCBQ9kFgJmDxUCDi9ibG9ncy9vZi1ub3RlB09mIE5vdGVkAgYPZBYCZg8VAhAvYmxvZ3MvdGVlbi1ibG9nCVRlZW4gQmxvZ2QCBw9kFgJmDxUCGi9ibG9ncy90cmF2ZWwtd2l0aC10aGUtbWV0E1RyYXZlbCB3aXRoIHRoZSBNZXRkAggPZBYCZg8VAhEvYmxvZ3MvY2F0ZWdvcmllcwpDYXRlZ29yaWVzZAIJD2QWAmYPFQIOL2Jsb2dzL2FyY2hpdmUMQmxvZyBBcmNoaXZlZAICDxYCHgRUZXh0BfMFPGxpPjxkaXYgY2xhc3M9ImljbyI+PGEgaHJlZj0iaHR0cHM6Ly93d3cubWV0bXVzZXVtLm9yZy9teW1ldC9lbWFpbC1saXRlIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Ii9+L21lZGlhL0ltYWdlcy9Db21tdW5pdHkvSWNvbnMvZW52X2xpZ2h0LnBuZyIvPjwvYT48L2Rpdj48L2xpPjxsaT48ZGl2IGNsYXNzPSJpY28iPjxhIGhyZWY9Imh0dHA6Ly93d3cuZmFjZWJvb2suY29tL21ldG11c2V1bSIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSIvfi9tZWRpYS9JbWFnZXMvQ29tbXVuaXR5L0ljb25zL2ZiLnBuZyIvPjwvYT48L2Rpdj48L2xpPjxsaT48ZGl2IGNsYXNzPSJpY28iPjxhIGhyZWY9Imh0dHBzOi8vdHdpdHRlci5jb20vbWV0bXVzZXVtIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Ii9+L21lZGlhL0ltYWdlcy9Db21tdW5pdHkvSWNvbnMvdHcucG5nIi8+PC9hPjwvZGl2PjwvbGk+PGxpPjxkaXYgY2xhc3M9ImljbyI+PGEgaHJlZj0iaHR0cHM6Ly9waW50ZXJlc3QuY29tL21ldG11c2V1bS8iIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz0iL34vbWVkaWEvSW1hZ2VzL0NvbW11bml0eS9JY29ucy9waW4ucG5nIi8+PC9hPjwvZGl2PjwvbGk+PGxpPjxkaXYgY2xhc3M9ImljbyI+PGEgaHJlZj0iaHR0cDovL3d3dy5pbnN0YWdyYW0uY29tL21ldG11c2V1bSIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSIvfi9tZWRpYS9JbWFnZXMvQ29tbXVuaXR5L0ljb25zL0luc3RhZ3JhbS5wbmciLz48L2E+PC9kaXY+PC9saT5kAgIQZGQWAgIBD2QWAmYPZBYCZg9kFgICBA9kFgJmD2QWAmYPFgIeB1Zpc2libGVoZAIDD2QWAmYPZBYEAgEPZBYEZg9kFgJmDxYCHwQF7QU8bGk+PGRpdiBjbGFzcz0iaWNvIj48YSBocmVmPSJodHRwczovL3d3dy5tZXRtdXNldW0ub3JnL215bWV0L2VtYWlsLWxpdGUiIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz0iL34vbWVkaWEvSW1hZ2VzL0NvbW11bml0eS9JY29ucy9lbnYucG5nIi8+PC9hPjwvZGl2PjwvbGk+PGxpPjxkaXYgY2xhc3M9ImljbyI+PGEgaHJlZj0iaHR0cDovL3d3dy5mYWNlYm9vay5jb20vbWV0bXVzZXVtIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Ii9+L21lZGlhL0ltYWdlcy9Db21tdW5pdHkvSWNvbnMvZmIucG5nIi8+PC9hPjwvZGl2PjwvbGk+PGxpPjxkaXYgY2xhc3M9ImljbyI+PGEgaHJlZj0iaHR0cHM6Ly90d2l0dGVyLmNvbS9tZXRtdXNldW0iIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz0iL34vbWVkaWEvSW1hZ2VzL0NvbW11bml0eS9JY29ucy90dy5wbmciLz48L2E+PC9kaXY+PC9saT48bGk+PGRpdiBjbGFzcz0iaWNvIj48YSBocmVmPSJodHRwczovL3BpbnRlcmVzdC5jb20vbWV0bXVzZXVtLyIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSIvfi9tZWRpYS9JbWFnZXMvQ29tbXVuaXR5L0ljb25zL3Bpbi5wbmciLz48L2E+PC9kaXY+PC9saT48bGk+PGRpdiBjbGFzcz0iaWNvIj48YSBocmVmPSJodHRwOi8vd3d3Lmluc3RhZ3JhbS5jb20vbWV0bXVzZXVtIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Ii9+L21lZGlhL0ltYWdlcy9Db21tdW5pdHkvSWNvbnMvSW5zdGFncmFtLnBuZyIvPjwvYT48L2Rpdj48L2xpPmQCAQ9kFgJmDw8WAh8FaGRkAgMPDxYCHwVoZBYCAgEPZBYCZg8PFgIfBWhkZBgKBSdjdGwwMyRjdGwwMCRUb3BOYXYkY3RybDckVG9wTmF2U3ViSXRlbXMPFCsADmRkZGRkZGQ8KwAKAAIKZGRkZgL/////D2QFJ2N0bDAzJGN0bDAwJFRvcE5hdiRjdHJsMyRUb3BOYXZTdWJJdGVtcw8UKwAOZGRkZGRkZBQrAANkZGQCA2RkZGYC/////w9kBSdjdGwwMyRjdGwwMCRUb3BOYXYkY3RybDAkVG9wTmF2U3ViSXRlbXMPFCsADmRkZGRkZGQ8KwAHAAIHZGRkZgL/////D2QFJ2N0bDAzJGN0bDAwJFRvcE5hdiRjdHJsNiRUb3BOYXZTdWJJdGVtcw8UKwAOZGRkZGRkZDwrAAcAAgdkZGRmAv////8PZAUnY3RsMDMkY3RsMDAkVG9wTmF2JGN0cmw0JFRvcE5hdlN1Ykl0ZW1zDxQrAA5kZGRkZGRkPCsABgACBmRkZGYC/////w9kBSdjdGwwMyRjdGwwMCRUb3BOYXYkY3RybDgkVG9wTmF2U3ViSXRlbXMPFCsADmRkZGRkZGQ8KwAJAAIJZGRkZgL/////D2QFJ2N0bDAzJGN0bDAwJFRvcE5hdiRjdHJsMiRUb3BOYXZTdWJJdGVtcw8UKwAOZGRkZGRkZDwrAAkAAglkZGRmAv////8PZAUSY3RsMDMkY3RsMDAkVG9wTmF2DxQrAA5kZGRkZGRkPCsACQACCWRkZGYC/////w9kBSdjdGwwMyRjdGwwMCRUb3BOYXYkY3RybDUkVG9wTmF2U3ViSXRlbXMPFCsADmRkZGRkZGQ8KwAIAAIIZGRkZgL/////D2QFJ2N0bDAzJGN0bDAwJFRvcE5hdiRjdHJsMSRUb3BOYXZTdWJJdGVtcw8UKwAOZGRkZGRkZBQrAANkZGQCA2RkZGYC/////w9ko05qNN/cR+QWrsl7CZvA10MpIfI=" />
+</div>
+
+            
+
+<div id="content-container">
+    
+<div class="navigation-list">
+  <ul>
+    <li><a class="primary-nav-title" href="/visit">Visit</a>
+            <ul>
+                
+                    <li  class="selected">
+                        <a href="/visit/hours-and-admission">Hours and Admission</a>
+                    
+                    </li>
+                
+                    <li >
+                        <a href="/visit/plan-your-visit">Plan Your Visit</a>
+                    
+                    </li>
+                
+                    <li >
+                        <a href="/visit/museum-map">Museum Map</a>
+                    
+                    </li>
+                
+                    <li >
+                        <a href="/visit/itineraries">Suggested Itineraries</a>
+                    
+                    </li>
+                
+                    <li >
+                        <a href="/visit/visit-the-cloisters">Visit The Cloisters</a>
+                    
+                    </li>
+                
+                    <li >
+                        <a href="/visit/accessibility">Accessibility</a>
+                    
+                    </li>
+                
+                    <li  class="selected">
+                        <span>Contact Information</span>
+                    
+                    </li>
+                
+            </ul>
+
+            
+<div class="narrow-column">
+
+    
+          
+</div>
+
+    </li>
+  </ul>
+</div>
+    
+<div class="no-image">
+    
+    <!-- No Image open tag -->
+    <div class="page-main-header" style="width: 495px;">
+        <h1>
+            Contact Information
+        </h1>
+        <div class="button share-this" style="float: right;"><a href="#"><span>Share</span></a></div>
+    </div>
+    <div class="general-content">
+
+        
+
+        <p><strong>The Metropolitan Museum of Art</strong></p>
+<p>1000 Fifth Avenue<br />
+New York, New York 10028-0198<br />
+Phone: 212-535-7710</p>
+<p><strong>The Cloisters Museum and Gardens</strong></p>
+<p>99 Margaret Corbin Drive<br />
+Fort Tryon Park<br />
+New York, New York 10040<br />
+Phone: 212-923-3700</p>
+<p><a href="/about-the-museum/contact">See a detailed list of Museum contacts.</a></p>
+
+        
+
+        
+
+        
+
+        
+    </div>
+    
+</div>
+
+<!-- No Image open tag -->
+
+    
+    <div class="narrow-column">
+        
+    </div>
+
+</div>
+
+
+            
+<script type='text/javascript'>jQuery('#spnShowCart').hide()</script></form>
+            
+<style type="text/css">
+        .main-holder-footer .social-networks{
+      padding-left:15px;
+        float: right;
+        background-color: transparent;
+    }
+    .main-holder-footer .social-networks li{
+      overflow:hidden;
+      margin:0 0 12px;
+      height:1%;
+      vertical-align:top;
+    }
+    .main-holder-footer .social-networks .ico{
+      float:left;
+      margin:0px 15px 0 0;
+    }
+    .main-holder-footer .social-networks .ico img{
+      display:block;
+    }
+
+
+    .header1, .header2{
+        left: 0px !important;
+    }
+
+    .content-box1
+    {
+        margin-left: 15px;
+        margin-right: 0;
+        padding-right: 14px;
+        border-right: 1px dotted #93876d;
+    }
+
+    .content-box2
+    {
+        margin-left: 15px;
+        margin-right: 0;
+        padding-right: 14px;
+        border-right: 1px dotted #93876d;
+    }
+
+    .content-box0
+    {
+        margin-left: 15px;
+        padding-right: 14px;
+        border-right: 1px dotted #93876d;
+    }
+
+    .content-box3
+    {
+        margin-left: 15px;
+        margin-right:15px;
+    }
+</style>
+<script type="text/javascript">
+    jQuery(document).ready(function ($) {
+
+    });
+</script>
+<div id="ctl04_pnlGlobalFooter">
+  
+            <div id="footer" class="footer footer-mmaConfirm"> 
+      <div id="ctl04_footerBox" class="footer-box-container">
+
+            
+        <div class="content-box content-box0">
+          <div class="header header0 header-comm"> 
+            <h2 class="small-header"><a href="/metmedia"><span>MetMedia</span></a>
+          </div>
+          <a href="/metmedia"><img src="/~/media/Images/Footer/Promos/MetMedia2_resized.jpg?mw=210" alt="MetMedia" width="210" height="168"  /></a>
+        </div>
+            
+        <div class="content-box content-box1">
+          <div class="header header1 header-comm"> 
+            <h2 class="small-header"><a href="/learn/for-kids"><span>For Kids</span></a>
+          </div>
+          <a href="/learn/for-kids"><img src="/~/media/Images/Footer/Promos/mykids.jpg?mw=210" alt="For Kids" width="210" height="168"  /></a>
+        </div>
+            
+        <div class="content-box content-box2">
+          <div class="header header2 header-comm"> 
+            <h2 class="small-header"><a href="/community"><span>Community</span></a>
+          </div>
+          <a href="/community"><img src="/~/media/Images/Community/Community_footer.jpg?mw=210" alt="Community" width="210" height="168"  /></a>
+        </div>
+            
+        <div class="content-box content-box3">
+          <div class="header header3 header-comm"> 
+            <h2 class="small-header"><a href="http://store.metmuseum.org/?utm_source=mainmuseum&utm_medium=metmuseum.org&utm_term=062714&utm_content=2014+summer+clearance&utm_campaign=footer+image"><span>Met Store</span></a>
+          </div>
+          <a href="http://store.metmuseum.org/?utm_source=mainmuseum&utm_medium=metmuseum.org&utm_term=062714&utm_content=2014+summer+clearance&utm_campaign=footer+image"><img src="/~/media/Images/Footer/Promos/062714_clearance.jpg?mw=210" alt="Met Store" width="210" height="168"  /></a>
+        </div>
+            
+      <div id="footer-links" class="footer-links">
+        <ul>
+                
+          <li ><a href="/visit/accessibility">Accessibility</a></li>
+                
+          <li ><a href="/information/site-index">Site Index</a></li>
+                
+          <li ><a href="/information/terms-and-conditions">Terms and Conditions</a></li>
+                
+          <li ><a href="/information/privacy-policy">Privacy Policy</a></li>
+                
+          <li ><a href="/about-the-museum/contact">Contact Information</a></li>
+                
+          <li  class="last"><a href="/about-the-museum/press-room?utm_source=footer&amp;utm_medium=website&amp;utm_campaign=press">Press</a></li>
+                
+        </ul>
+        <p class="copyright copyright-footer">
+          &#169; 2000–2014 The Metropolitan Museum of Art. All rights reserved.
+                </p>      
+                 <div class="main-holder-footer">             
+                    <ul class="social-networks">  
+                        <li><div class="ico"><a href="https://www.metmuseum.org/mymet/email-lite" target="_blank"><img src="/~/media/Images/Community/Icons/env.png"/></a></div></li><li><div class="ico"><a href="http://www.facebook.com/metmuseum" target="_blank"><img src="/~/media/Images/Community/Icons/fb.png"/></a></div></li><li><div class="ico"><a href="https://twitter.com/metmuseum" target="_blank"><img src="/~/media/Images/Community/Icons/tw.png"/></a></div></li><li><div class="ico"><a href="https://pinterest.com/metmuseum/" target="_blank"><img src="/~/media/Images/Community/Icons/pin.png"/></a></div></li><li><div class="ico"><a href="http://www.instagram.com/metmuseum" target="_blank"><img src="/~/media/Images/Community/Icons/Instagram.png"/></a></div></li>
+            </ul>
+                </div>
+            </div>
+            </div>
+            
+<style type="text/css">
+    div#meerkat-wrap {
+     margin-left:-15px !important;
+    }
+    .footer-mmaMeerkat
+    {
+       margin-bottom: 60px;
+    }
+    .close-meerkat
+    {
+        background-attachment: scroll;
+        background-color: transparent;
+        background: url('/content/img/close-x.gif') no-repeat right top;
+        background-position: 0;
+        background-repeat: no-repeat;
+        cursor: pointer;
+        display: block;
+        height: 18px;
+        position: absolute;
+        text-indent: -9000px;
+        width: 18px;
+        top: 5px;
+        left: 964px;
+        z-index: 10;
+    }
+    #close-text
+    {
+       padding:8px 30px 0 0;float:right !important;font:bold; color: #A9B8C2;
+    }
+    .metMediaIE7Fix
+    {
+       margin-left:0 !important;
+    }
+</style>
+<script type="text/javascript">
+    jQuery(document).ready(function () {
+        //Meerkat stuff goes here
+        jQuery('.meerkat').meerkat({
+            showMeerkatOnLoad: 'true',
+            height: '120px',
+            width: '988px',
+            position: 'bottom',
+            close: '#meerkat-hide',
+            dontShowAgain: '.dont-show',
+            dontShowAgainAuto: true, 
+            animationIn: 'slide',
+            animationOut: 'slide',
+            
+            animationSpeed: 700,
+            background: 'url() no-repeat left bottom'
+                    });
+            });
+</script>
+
+   
+    </div>
+
+</div>
+
+
+ 
+
+
+
+
+ 
+
+
+           
+            
+        </div>
+        <!-- end main-container -->
+         
+    </div>
+    <!-- end wrapper -->
+     
+    
+    
+         
+          <script type="text/javascript">    var switchTo5x = false;</script>
+          <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>          
+          <script type="text/javascript">stLight.options({ publisher: "3216b53b-e955-4db5-985e-cef2d59c745b", onhover: false, doneScreen: false, snapsets: false }); </script>
+        <script type="text/javascript" src="/content/js/share-this.js"></script>
+        
+
+    <!-- Google Code for Sitewide Remarketing List -->
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 967934218;
+    var google_conversion_language = "en";
+    var google_conversion_format = "3";
+    var google_conversion_color = "ffffff";
+    var google_conversion_label = "SDdCCM6CjgYQioLGzQM";
+    var google_conversion_value = 0;
+    /* ]]> */
+    </script>
+    <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+    <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/967934218/?value=0&amp;label=SDdCCM6CjgYQioLGzQM&amp;guid=ON&amp;script=0"/>
+    </div>
+    </noscript>
+
+    
+</body>
+</html>
