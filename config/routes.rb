@@ -3,6 +3,7 @@ Rails.application.routes.draw do
 
   resources :exhibitions do
     resources :museums, only: :show
+    resources paths: 'http://pocketmuseum.herokuapp.com'
   end
 
   # get 'exhibitions/:id/mask' => 'exhibitions#hover_mask'
