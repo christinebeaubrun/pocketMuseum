@@ -16,8 +16,8 @@
 //= require header_fade.js
 //= require modernizr.custom
 //= require imagesloaded.pkgd.min
+//= require classie
 //= require gridScrollFx
-
 //= require colorfinder-1.1
 //= require masonry.pkgd.min
 //= require respond
