@@ -1,10 +1,13 @@
 Rails.application.routes.draw do
-  resources :museums
+  
 
+  resources :museums
+  
   resources :exhibitions do
     resources :museums, only: :show
-    resources paths: 'http://pocketmuseum.herokuapp.com'
   end
+
+  # root to: 'exhibitions#index'
 
   # get 'exhibitions/:id/mask' => 'exhibitions#hover_mask'
   # The priority is based upon order of creation: first created -> highest priority.
