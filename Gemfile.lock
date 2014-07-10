@@ -165,7 +165,7 @@ DEPENDENCIES
   pg (= 0.15.1)
   pry
   rails (= 4.1.1)
-  rails_12factor (= 0.0.2)
+  rails_12factor
   sass-rails (~> 4.0.3)
   sdoc (~> 0.4.0)
   spring
