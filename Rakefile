@@ -182,7 +182,7 @@ namespace :db do
 
         guggenheim_museum[:name] = guggenheim_data.css('div#callout-484.box.box-a p').text.split("br /> ")[0]
         guggenheim_museum[:location] = guggenheim_data.css('div#callout-484.box.box-a p').text.split("br /> ")[1].split(" 10128")[0]
-        
+       
         new_museum5 = Museum.create(guggenheim_museum)
         guggenheim_exhibitions = []
 
