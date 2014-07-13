@@ -134,7 +134,7 @@ namespace :db do
 
    
     #########################################################################################################################################
-    # # desc "Srapes museum and populates table"
+    # # desc "Srapes MET museum and populates table"
     # task :seed
 
         met_html = File.open("met_museum/met_visit.text","r"){|file| file.read}
@@ -172,16 +172,18 @@ namespace :db do
     
 
     #########################################################################################################################################
+    # # desc "Srapes MET museum and populates table"
+    # task :seed 
+
         guggenheim_html = File.open("guggenheim_museum/guggenheim_visit.text","r"){|file| file.read}
         guggenheim_data = Nokogiri::HTML(guggenheim_html)
 
         guggenheim_museum = {}
 
-        guggenheim_museum[:name] = guggenheim_data.css('div#callout-484.box.box-a p').children[0].text
-        guggenheim_museum[:location] = guggenheim_data.css('div#callout-484.box.box-a p').children[2..6].text
-        # binding.pry 
-        new_museum5 = Museum.create(guggenheim_museum)
+        guggenheim_museum[:name] = guggenheim_data.css('div#callout-484.box.box-a p').text.split("br /> ")[0]
+        guggenheim_museum[:location] = guggenheim_data.css('div#callout-484.box.box-a p').text.split("br /> ")[1].split(" 10128")[0]
         
+        new_museum5 = Museum.create(guggenheim_museum)
         guggenheim_exhibitions = []
 
         Dir.glob('guggenheim_museum/*.html') do | file |
@@ -204,5 +206,112 @@ namespace :db do
         guggenheim_exhibitions.each do |guggen_hash|
             Exhibition.create(guggen_hash)
         end
+
+    #########################################################################################################################################
+    # # desc "Srapes Whitney museum and populates table"
+    # task :seed 
+
+        whitney_html = File.open("whitney_museum/whitney_visit.text","r"){|file| file.read}
+        whitney_data = Nokogiri::HTML(whitney_html)
+
+        whitney_museum = {}
+
+        whitney_museum[:name] = whitney_data.css('div.wrapper ul.one-third-width')[0].text.split("\n      ")[1]
+        whitney_museum[:location] = whitney_data.css('div.wrapper ul.one-third-width')[0].text.split("\n      ")[2..3].join(", ")
+        
+        new_museum6 = Museum.create(whitney_museum)
+        whitney_exhibitions = []
+
+        Dir.glob('whitney_museum/*.html') do | file |
+            whitney_ex_html = File.read(file)
+            whitney_ex_data = Nokogiri::HTML(whitney_ex_html)
+
+            whitney_exhib = {}
+
+            whitney_exhib[:name] = whitney_ex_data.css('div.title h1').text
+            whitney_exhib[:date] = whitney_ex_data.css('div.title h2')[0].text.gsub(/\n\s+/,"")
+            whitney_exhib[:image_url] = "http://www.whitney.org"+whitney_ex_data.css('div.exhibition-image-module-image')[0].children[1].attributes["src"].value
+            whitney_exhib[:image_desc] = whitney_ex_data.css('div.exhibition-image-module-image')[0].children[1].attributes["alt"].value
+            whitney_exhib[:description] = whitney_ex_data.css('div.text-module-text')[0].text.gsub(/\n+\s+/,"")
+            whitney_exhib[:museum_id] = new_museum6.id
+
+            whitney_exhibitions << whitney_exhib
+
+        end 
+        whitney_exhibitions.each do |whitney_hash|
+            Exhibition.create(whitney_hash)
+        end
+
+    #########################################################################################################################################
+    # # desc "Srapes Frick museum and populates table"
+    # task :seed 
+
+        frick_html = File.open("frick_museum/frick_visit.text","r"){|file| file.read}
+        frick_data = Nokogiri::HTML(frick_html)
+
+        frick_museum = {}
+
+        frick_museum[:name] = frick_data.css('div.field-item a')[0].text
+        frick_museum[:location] = frick_data.css('div.field-item p')[2].text.split(" 10021")[0].gsub(/\n+\t+/,", ")
+        
+        new_museum7 = Museum.create(frick_museum)
+
+        frick_exhibitions = []
+
+        Dir.glob('frick_museum/*.html') do | file |
+            frick_ex_html = File.read(file)
+            frick_ex_data = Nokogiri::HTML(frick_ex_html)
+
+            frick_exhib = {}
+
+            frick_exhib[:name] = frick_ex_data.css('div.field-item em').text
+            frick_exhib[:date] = frick_ex_data.css('div.field-item')[1].text
+            frick_exhib[:image_url] = frick_ex_data.css('div.field-item a')[0].attributes["href"].value
+            frick_exhib[:image_desc] = frick_ex_data.css('div.field-item')[5].text
+            frick_exhib[:description] = frick_ex_data.css('div.field-item')[3].text
+            frick_exhib[:museum_id] = new_museum6.id
+
+            frick_exhibitions << frick_exhib
+
+        end 
+        frick_exhibitions.each do |frick_hash|
+            Exhibition.create(frick_hash)
+        end
+
+    #########################################################################################################################################
+    # # desc "Srapes PS1 museum and populates table"
+    # task :seed 
+
+        # ps1_html = File.open("ps1_museum/ps1_visit.text","r"){|file| file.read}
+        # ps1_data = Nokogiri::HTML(ps1_html)
+
+        # ps1_museum = {}
+        # LOCATION IS WEIRD
+        # ps1_museum[:name] = ps1_data.css('div#footer p')[0].children[0].text[7..14]
+        # ps1_museum[:location] = ps1_data.css('div#footer p')[0].children[11].text.gsub(/\n\tAddress: /, "")
+        
+        # new_museum8 = Museum.create(ps1_museum)
+        # binding.pry 
+        # ps1_exhibitions = []
+
+        # Dir.glob('ps1_museum/*.html') do | file |
+        #     ps1_ex_html = File.read(file)
+        #     ps1_ex_data = Nokogiri::HTML(ps1_ex_html)
+
+        #     ps1_exhib = {}
+
+        #     ps1_exhib[:name] = ps1_ex_data.css('div.field-item em').text
+        #     ps1_exhib[:date] = ps1_ex_data.css('div.field-item')[1].text
+        #     ps1_exhib[:image_url] = ps1_ex_data.css('div.field-item a')[0].attributes["href"].value
+        #     ps1_exhib[:image_desc] = ps1_ex_data.css('div.field-item')[5].text
+        #     ps1_exhib[:description] = ps1_ex_data.css('div.field-item')[3].text
+        #     ps1_exhib[:museum_id] = new_museum6.id
+
+        #     ps1_exhibitions << ps1_exhib
+
+        # end 
+        # ps1_exhibitions.each do |ps1_hash|
+        #     Exhibition.create(ps1_hash)
+        # end
     end
 end

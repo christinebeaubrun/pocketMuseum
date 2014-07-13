@@ -1,0 +1,3112 @@
+<!DOCTYPE html>
+<html xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+  <title>Whitney Museum of American Art: Home</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+  <meta http-equiv="Content-Script-Type" content="text/javascript" />
+  <meta http-equiv="imagetoolbar" content="no" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="robots" content="NOODP" />
+  <meta name="google-site-verification" content="7H-upWFqE2QIpO83eIsNxpEUchG7lrWFMOZlOzoM3GI" />
+  <meta name="description" content="The Whitney Museum of American Art. Explore works, exhibitions, and events online. Located in New York City." />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  
+
+                  
+  <!-- 
+  This HTML generated dynamically by Economy, a content management system built in Ruby on Rails
+  Design: Linked by Air
+  Programming: linkedbyair.net / graybits.biz
+  -->
+  <link rel="shortcut icon" type="image/png" href="/favicons/favicon-italic.png">
+
+        <link href="/stylesheets/css/prototip.css?1370381992" media="screen, projection, tv" rel="stylesheet" type="text/css" />
+      <link href="/stylesheets/css/modalbox.css?1369110749" media="screen, projection, tv" rel="stylesheet" type="text/css" />
+      <link href="/stylesheets/application_one.css?1398797800" media="all" rel="stylesheet" type="text/css" />
+      <link href="/stylesheets/application_two.css?1403733344" media="all" rel="stylesheet" type="text/css" />
+      
+  <link href="/stylesheets/watch_and_listen_module.css" media="all" rel="stylesheet" type="text/css" />
+<link href="/shadowbox/shadowbox.css?1369110749" media="all" rel="stylesheet" type="text/css" />
+
+  <style type="text/css" media="all" id="page-styles">
+    
+
+
+                                                                                                                                                                                                                      @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-1 { width: 570px; height: 483px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-1 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-1 { width: 354px; height: 299px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-2 { width: 503px; height: 674px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-2 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-2 { width: 354px; height: 475px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-3 { width: 170px; height: 135px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-3 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-3 { width: 98px; height: 78px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-4 { width: 122px; height: 169px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-4 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-4 { width: 70px; height: 97px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-5 { width: 132px; height: 169px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-5 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-5 { width: 76px; height: 97px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-6 { width: 133px; height: 169px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-6 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-6 { width: 76px; height: 96px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-7 { width: 170px; height: 115px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-7 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-7 { width: 98px; height: 66px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-8 { width: 121px; height: 169px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-8 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-8 { width: 69px; height: 96px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-9 { width: 114px; height: 169px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-9 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-9 { width: 65px; height: 96px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-10 { width: 170px; height: 104px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-10 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-10 { width: 98px; height: 60px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-11 { width: 131px; height: 169px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-11 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-11 { width: 75px; height: 96px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-12 { width: 170px; height: 131px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-12 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-12 { width: 98px; height: 75px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-13 { width: 170px; height: 104px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-13 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-13 { width: 98px; height: 60px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-14 { width: 170px; height: 119px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-14 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-14 { width: 98px; height: 68px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-15 { width: 170px; height: 77px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-15 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-15 { width: 98px; height: 44px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-16 { width: 170px; height: 141px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-16 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-16 { width: 98px; height: 81px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-17 { width: 139px; height: 169px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-17 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-17 { width: 80px; height: 97px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-18 { width: 170px; height: 128px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-18 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-18 { width: 98px; height: 74px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-19 { width: 108px; height: 168px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-19 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-19 { width: 62px; height: 96px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-20 { width: 170px; height: 84px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-20 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-20 { width: 98px; height: 48px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-21 { width: 570px; height: 331px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-21 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-21 { width: 354px; height: 205px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-22 { width: 951px; height: 534px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-22 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-22 { width: 622px; height: 349px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-23 { width: 770px; height: 433px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-23 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-23 { width: 482px; height: 271px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-24 { width: 770px; height: 523px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-24 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-24 { width: 482px; height: 327px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-25 { width: 370px; height: 358px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-25 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-25 { width: 226px; height: 219px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-26 { width: 100px; height: 50px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-26 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-26 { width: 64px; height: 32px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-27 { width: 100px; height: 147px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-27 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-27 { width: 64px; height: 94px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-28 { width: 100px; height: 100px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-28 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-28 { width: 64px; height: 64px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-29 { width: 100px; height: 65px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-29 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-29 { width: 64px; height: 41px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-30 { width: 100px; height: 134px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-30 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-30 { width: 64px; height: 85px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-31 { width: 100px; height: 129px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-31 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-31 { width: 64px; height: 82px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-32 { width: 100px; height: 114px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-32 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-32 { width: 64px; height: 73px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-33 { width: 100px; height: 66px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-33 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-33 { width: 64px; height: 42px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-34 { width: 100px; height: 71px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-34 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-34 { width: 64px; height: 45px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-35 { width: 100px; height: 190px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-35 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-35 { width: 64px; height: 122px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-36 { width: 100px; height: 66px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-36 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-36 { width: 64px; height: 42px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-37 { width: 100px; height: 66px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-37 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-37 { width: 64px; height: 42px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-38 { width: 85px; height: 109px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-38 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-38 { width: 49px; height: 63px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-39 { width: 85px; height: 38px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-39 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-39 { width: 49px; height: 22px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-40 { width: 85px; height: 58px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-40 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-40 { width: 49px; height: 33px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-41 { width: 85px; height: 73px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-41 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-41 { width: 49px; height: 42px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-42 { width: 85px; height: 106px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-42 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-42 { width: 49px; height: 61px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-43 { width: 85px; height: 42px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-43 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-43 { width: 49px; height: 24px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-44 { width: 79px; height: 112px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-44 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-44 { width: 45px; height: 63px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-45 { width: 85px; height: 42px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-45 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-45 { width: 49px; height: 24px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-46 { width: 73px; height: 111px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-46 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-46 { width: 42px; height: 64px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-47 { width: 85px; height: 111px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-47 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-47 { width: 49px; height: 64px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-48 { width: 85px; height: 72px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-48 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-48 { width: 49px; height: 41px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-49 { width: 85px; height: 64px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-49 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-49 { width: 49px; height: 37px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-50 { width: 85px; height: 103px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-50 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-50 { width: 49px; height: 59px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-51 { width: 85px; height: 112px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-51 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-51 { width: 49px; height: 64px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-52 { width: 85px; height: 85px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-52 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-52 { width: 49px; height: 49px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-53 { width: 85px; height: 52px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-53 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-53 { width: 49px; height: 30px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-54 { width: 85px; height: 76px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-54 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-54 { width: 49px; height: 44px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-55 { width: 75px; height: 112px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-55 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-55 { width: 43px; height: 64px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-56 { width: 85px; height: 86px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-56 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-56 { width: 49px; height: 50px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-57 { width: 85px; height: 64px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-57 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-57 { width: 49px; height: 37px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-58 { width: 74px; height: 112px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-58 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-58 { width: 42px; height: 63px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-59 { width: 85px; height: 104px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-59 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-59 { width: 49px; height: 60px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-60 { width: 80px; height: 112px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-60 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-60 { width: 46px; height: 64px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-61 { width: 85px; height: 112px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-61 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-61 { width: 48px; height: 63px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-62 { width: 85px; height: 100px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-62 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-62 { width: 49px; height: 57px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-63 { width: 64px; height: 112px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-63 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-63 { width: 36px; height: 63px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-64 { width: 85px; height: 106px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-64 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-64 { width: 49px; height: 61px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-65 { width: 85px; height: 64px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-65 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-65 { width: 49px; height: 37px; }
+          }
+          @media screen and (min-width: 1230px) and (max-width: 9000000px) {
+            #responsive-image-92494810-66 { width: 85px; height: 63px; }
+          }
+          @media screen and (min-width: 0px) and (max-width: 767px) {
+            #responsive-image-92494810-66 { width: 50%; height: auto; }
+          }
+          @media screen and (min-width: 768px) and (max-width: 1023px) {
+            #responsive-image-92494810-66 { width: 49px; height: 36px; }
+          }
+
+  </style>
+  <script src="/javascripts/modernizr.custom.17700.js?1372700291" type="text/javascript"></script>
+  <script src="/javascripts/prototype.js?1279569131" type="text/javascript"></script>
+<script src="/javascripts/effects.js?1279569131" type="text/javascript"></script>
+<script src="/javascripts/prototip.js?1370368489" type="text/javascript"></script>
+  <script src="/javascripts/cut.js?1383324884" type="text/javascript"></script>
+  <script src="/javascripts/swfobject.js?1298474826" type="text/javascript"></script>
+  <script src="/javascripts/swfmediaplayer.js?1279569131" type="text/javascript"></script>
+  <script src="/javascripts/modalbox.js?1301478335" type="text/javascript"></script>
+  <script src="/javascripts/application_legacy.js?1386342221" type="text/javascript"></script>
+  <script src="/javascripts/teacher_guides.js?1369247712" type="text/javascript"></script>
+  <script src="/javascripts/teacher_activities.js?1369247711" type="text/javascript"></script>
+  <script src="/shadowbox/shadowbox.js?1372454491" type="text/javascript"></script>
+   
+      <script src="/sunset/5/sunset.js?1369833569" type="text/javascript"></script>
+      <script src="/javascripts/jwplayer.js?1370546226" type="text/javascript"></script>
+<script src="/javascripts/watch_and_listen_module.js?1371250282" type="text/javascript"></script>
+<script src="/javascripts/twitter_helpers.js?1388682616" type="text/javascript"></script>
+<script src="/javascripts/calendar_module.js?1369110749" type="text/javascript"></script>
+  <script type="text/javascript">
+  // <![CDATA[
+      var magic_module_list = [];
+                magic_module_list.push({id:    "81430",
+                                 css_id: "mmi_81430",
+                                 title:  "Column module 81430",
+                                 kind:   "ColumnModule" });
+                magic_module_list.push({id:    "81414",
+                                 css_id: "mmi_81414",
+                                 title:  "Masthead module 81414",
+                                 kind:   "MastheadModule" });
+                magic_module_list.push({id:    "81752",
+                                 css_id: "mmi_81752",
+                                 title:  "Visit module 81752",
+                                 kind:   "VisitModule" });
+                magic_module_list.push({id:    "81415",
+                                 css_id: "mmi_81415",
+                                 title:  "Mega slideshow module 81415",
+                                 kind:   "MegaSlideshowModule" });
+                magic_module_list.push({id:    "95559",
+                                 css_id: "mmi_95559",
+                                 title:  "Generic slide module 95559",
+                                 kind:   "GenericSlideModule" });
+                magic_module_list.push({id:    "81730",
+                                 css_id: "mmi_81730",
+                                 title:  "Events slide module 81730",
+                                 kind:   "EventsSlideModule" });
+                magic_module_list.push({id:    "81716",
+                                 css_id: "mmi_81716",
+                                 title:  "Collection slide module 81716",
+                                 kind:   "CollectionSlideModule" });
+                magic_module_list.push({id:    "95447",
+                                 css_id: "mmi_95447",
+                                 title:  "Generic slide module 95447",
+                                 kind:   "GenericSlideModule" });
+                magic_module_list.push({id:    "95364",
+                                 css_id: "mmi_95364",
+                                 title:  "Watch and listen slide module 95364",
+                                 kind:   "WatchAndListenSlideModule" });
+                magic_module_list.push({id:    "81770",
+                                 css_id: "mmi_81770",
+                                 title:  "Generic slide module 81770",
+                                 kind:   "GenericSlideModule" });
+                magic_module_list.push({id:    "81771",
+                                 css_id: "mmi_81771",
+                                 title:  "Generic slide module 81771",
+                                 kind:   "GenericSlideModule" });
+                magic_module_list.push({id:    "81427",
+                                 css_id: "mmi_81427",
+                                 title:  "Social zipper module 81427",
+                                 kind:   "SocialZipperModule" });
+                magic_module_list.push({id:    "88771",
+                                 css_id: "mmi_88771",
+                                 title:  "Horizontal divider module 88771",
+                                 kind:   "HorizontalDividerModule" });
+                magic_module_list.push({id:    "88773",
+                                 css_id: "mmi_88773",
+                                 title:  "Column module 88773",
+                                 kind:   "ColumnModule" });
+                magic_module_list.push({id:    "94570",
+                                 css_id: "mmi_94570",
+                                 title:  "Image module 94570",
+                                 kind:   "ImageModule" });
+                magic_module_list.push({id:    "88772",
+                                 css_id: "mmi_88772",
+                                 title:  "Column module 88772",
+                                 kind:   "ColumnModule" });
+                magic_module_list.push({id:    "86835",
+                                 css_id: "mmi_86835",
+                                 title:  "Announcement module 86835",
+                                 kind:   "AnnouncementModule" });
+                magic_module_list.push({id:    "81782",
+                                 css_id: "mmi_81782",
+                                 title:  "Horizontal divider module 81782",
+                                 kind:   "HorizontalDividerModule" });
+                magic_module_list.push({id:    "81783",
+                                 css_id: "mmi_81783",
+                                 title:  "Column module 81783",
+                                 kind:   "ColumnModule" });
+                magic_module_list.push({id:    "19830",
+                                 css_id: "mmi_19830",
+                                 title:  "Events module 19830",
+                                 kind:   "EventsModule" });
+                magic_module_list.push({id:    "81429",
+                                 css_id: "mmi_81429",
+                                 title:  "Horizontal divider module 81429",
+                                 kind:   "HorizontalDividerModule" });
+                magic_module_list.push({id:    "81421",
+                                 css_id: "mmi_81421",
+                                 title:  "Column module 81421",
+                                 kind:   "ColumnModule" });
+                magic_module_list.push({id:    "81422",
+                                 css_id: "mmi_81422",
+                                 title:  "Your membership module 81422",
+                                 kind:   "YourMembershipModule" });
+                magic_module_list.push({id:    "81423",
+                                 css_id: "mmi_81423",
+                                 title:  "Column module 81423",
+                                 kind:   "ColumnModule" });
+                magic_module_list.push({id:    "81424",
+                                 css_id: "mmi_81424",
+                                 title:  "Your events module 81424",
+                                 kind:   "YourEventsModule" });
+                magic_module_list.push({id:    "81425",
+                                 css_id: "mmi_81425",
+                                 title:  "Column module 81425",
+                                 kind:   "ColumnModule" });
+                magic_module_list.push({id:    "81793",
+                                 css_id: "mmi_81793",
+                                 title:  "Image grid module 81793",
+                                 kind:   "ImageGridModule" });
+                magic_module_list.push({id:    "81416",
+                                 css_id: "mmi_81416",
+                                 title:  "Horizontal divider module 81416",
+                                 kind:   "HorizontalDividerModule" });
+                magic_module_list.push({id:    "19832",
+                                 css_id: "mmi_19832",
+                                 title:  "Column module 19832",
+                                 kind:   "ColumnModule" });
+                magic_module_list.push({id:    "81428",
+                                 css_id: "mmi_81428",
+                                 title:  "User collections rail module 81428",
+                                 kind:   "UserCollectionsRailModule" });
+                magic_module_list.push({id:    "83099",
+                                 css_id: "mmi_83099",
+                                 title:  "Verbatim module 83099",
+                                 kind:   "VerbatimModule" });
+            var page_id = 271528;
+      var page_instance_id = 2016;
+      var page_name = "Home";
+            if (typeof Shadowbox != 'undefined') Shadowbox.init({overlayOpacity: .8});
+  // ]]>
+  </script>
+
+  <script type="text/javascript">
+  // <![CDATA[
+      window.name = 'whitney';
+      var page_id = 271528;
+      var session_id = "023e1a55501b6f351a3892055871ffb2";
+      var document_base_url = "http://whitney.org/";
+      var document_url = "http://whitney.org/";
+              var current_hour = 14;
+        var current_minute = 47;
+        var sunset_hour = 20;
+        var sunset_minute = 27;
+        var sunrise_hour = 5;
+        var sunrise_minute = 36;
+        var this_sunset_num = 5;
+        var current_sunset_num = 5;
+            var addthis_config = {
+          username: 'whitneykat',
+          data_track_clickback: false,
+          ui_header_color: '#7f7f7f',
+          ui_header_background: '#fff',
+          ui_offset_top: 4,
+          services_compact: 'email, facebook, twitter, delicious, google, more', // 'email, facebook, twitter, myspace, delicious, google, digg, more',
+          ui_click: true
+      }
+      var addthis_localize = {share_caption: '<span style="font-size: 9px;">SHARE THIS BY...</span>'};
+  // ]]>
+  </script>
+
+  <script src="/javascripts/jquery.js?1369110749" type="text/javascript"></script>
+  <script src="/javascripts/jquery.mobile.min.js?1369110749" type="text/javascript"></script>
+  <script src="/javascripts/jquery-ui-effect.js?1369110749" type="text/javascript"></script>
+
+  <script type="text/javascript">
+      // <![CDATA[
+
+      if (typeof jQuery != 'undefined') jQuery.noConflict();
+
+      window.name = 'economy';
+
+      var page_id = 271528;
+      var session_id = "023e1a55501b6f351a3892055871ffb2";
+      var document_base_url = "http://whitney.org/";
+      var document_url = "http://whitney.org/";
+      var request_mobile = false
+
+      // ]]>
+  </script>
+
+
+  <link href="http://whitney.org/rss/exhibitions" rel="alternate" title="Exhibitions" type="application/rss+xml" />
+  <link href="http://whitney.org/rss/events" rel="alternate" title="Events" type="application/rss+xml" />
+  <link href="http://whitney.org/rss/blogs" rel="alternate" title="Blog posts" type="application/rss+xml" />
+  <link href="http://whitney.org/rss/pages" rel="alternate" title="New content" type="application/rss+xml" />
+    
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11263636-5']);
+  _gaq.push(['_setDomainName', '.whitney.org']);
+  _gaq.push(['_setAllowHash', false]);
+        _gaq.push(["_setCustomVar", 1, "Name", "Visitor Bot"]);
+      _gaq.push(["_setCustomVar", 2, "Login", "Visitor"]);
+      _gaq.push(["_setCustomVar", 3, "Groups", "nonmember"]);
+      _gaq.push(["_setCustomVar", 4, "GroupIds", "nonmember"]);
+    _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+  
+</head>
+<body id="body" data-spy="scroll" data-target=".jump-links" class="day">
+    <!--[if lt IE 8]>
+        <div class="unsupported-browser">
+
+            <div class="logo">
+                <img src="/ui/ie8/whitney-logo.gif">
+            </div>
+            <div class="message">
+                <h2>You are using an outdated browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or activate <a href="http://www.google.com/chromeframe/?redirect=true">Google Chrome Frame</a>.</h2>
+            </div>
+        </div>
+    <![endif]-->
+<a name="top"></a>
+  
+  <div id="wait" style="display: none !important;">Please wait</div>
+          <img src="http://media.fastclick.net/w/tre?ad_id=32616;evt=25048;cat1=34971;cat2=34972;rand=[CACHEBUSTER]" width="1" height="1" border="0">
+    
+  
+
+
+
+
+<div id="view-page" class="page-groups-  page-path-Home home home-area">
+  <div class="search-void"></div>
+
+  
+    
+    
+
+    
+  
+  <div id="flash-message" style="display: none;">
+    <input type="hidden" id="flash-message-fade" value="0" />
+  </div>
+
+  <div id="page-layout">
+
+    
+
+    <a name="mmi_81414"></a><div id="mmi_81414"
+    class="magic-module page-magic-module masthead-module full-width no-gutters"
+    style="" data-id="200" data-instance-id="81414">
+
+  
+  
+  <div class="masthead-wrapper whitespacefix">
+  <div class="masthead two-thirds-width with-gutters inline-block">
+    <canvas id="responsive-w" width="772" height="500"></canvas>
+      <div id="responsive-logotype"></div>
+      <ul class="masthead-user-actions one-third-width regular">
+              <li><a class="login mmi_81414" href="#" id="username" onclick="new Ajax.Request('/ajax/magic_modules/login_module/insert?page_id=271528&amp;top=layout-modules', {asynchronous:true, evalScripts:true, onComplete:function(request){make_cut_from('mmi_81414')}, onLoading:function(request){$('mmi_81414').addClassName('loading')}}); return false;">Log in</a></li>
+                    <li><a id="collection" href="/UserCollection">Start your collection</a></li>
+                    <li><a id="membership" href="/Support/Membership">Become a member</a></li>
+          </ul>
+  </div>
+
+    <div id="masthead-address-and-hours" class="masthead-secondary-information one-third-width with-gutters inline-block regular">
+
+    <ul class="address">
+  <li><strong><a href="/">Whitney Museum<br />of American Art</a></strong></li>
+  <li>945 Madison Avenue</li>
+  <li>at 75th Street</li>
+  <li>New York, NY 10021</li>
+  <li>(212) 570-3600</li>
+</ul>
+
+<a name="mmi_81752"></a><div id="mmi_81752"
+    class="magic-module page-magic-module visit-module one-third-width"
+    style="" data-id="1901" data-instance-id="81752">
+
+  
+  
+  
+<ul class="visit-module-nav">
+  <a class="today" href="#"><span class="radio-button"></span>Today</a>
+  <a class="weekly active" href="#"><span class="radio-button"></span>Weekly</a>
+</ul>
+
+<div class="visit-module-panels">
+
+  <div class="visit-module-panel visit-module-daily-hours show" id="mmi_81752-hours">
+        <div class="visit-module-date" id="mmi_81752-date">
+      <a href="/Events?view=day&start=2014-07-13" class="date">Sun, July 13</a>
+
+<div class="pagination">
+  <a href="javascript:visit_module_show_date('07/12/2014', 1901, 271528)" class="prev_page small pager-arrow previous" rel="prev" onclick="$(this).addClassName('active');"><span>&lt;</span></a>
+  <a href="javascript:visit_module_show_date('07/14/2014', 1901, 271528)" class="next_page small pager-arrow next" rel="next" onclick="$(this).addClassName('active');"><span>&gt;</span></a>
+</div>
+
+    </div>
+    <div class="visit-module-hours-row">
+      <span class="area">Galleries</span>
+      <span class="visit-module-hours-row-hours galleries" id="mmi_81752-galleries">11 am&ndash;6 pm</span>
+    </div>
+    <div class="visit-module-hours-row">
+      <span class="area">Shop</span>
+      <span class="visit-module-hours-row-hours shop" id="mmi_81752-shop">11 am&ndash;6 pm</span>
+    </div>
+    <div class="visit-module-hours-row">
+      <span class="area">Restaurant</span>
+      <span class="visit-module-hours-row-hours restaurant" id="mmi_81752-restaurant">10 am&ndash;6 pm</span>
+    </div>
+        <div class="visit-module-hours-notes notes" id="mmi_81752-hours-notes" style="display: none;">
+      
+    </div>
+    
+  </div>
+
+  <div class="visit-module-panel visit-module-weekly-hours">
+    
+
+    <ul>
+      
+          <li><span class="days">Mon&ndash;Tues</span><span class="time"><span class="gray">Closed</span></span></li>
+      
+          <li><span class="days">Wed&ndash;Thurs</span><span class="time">11 am&ndash;6 pm</span></li>
+      
+          <li><span class="days">Fri</span><span class="time">1 pm&ndash;9 pm</span></li>
+      
+          <li><span class="days">Sat&ndash;Sun</span><span class="time">11 am&ndash;6 pm</span></li>
+      
+    </ul>
+
+  </div>
+
+</div>
+
+  
+</div>
+
+<a class="large-button" href="/Visit/BuyTickets">Buy tickets now</a>
+
+
+  </div>
+</div>
+
+  
+</div>
+    <a name="mmi_1"></a><div id="mmi_1"
+    class="magic-module page-magic-module page-header-module full-width no-gutters"
+    style="" data-id="23" data-instance-id="1">
+
+  
+  
+  
+
+
+
+    
+
+
+<div class="navigation-wrapper full-width with-gutters home">
+  
+    
+
+
+    <div class="search-wrapper">
+      <form action="/Search">
+        <input id="search-field" class="full-width" placeholder="Search for artists, artworks, exhibitions, website full text ..." name="query" type="text" autocomplete="off" />
+        <a class="search-submit-button" onclick="$(this).up('form').submit();">Go</a>
+      </form>
+    </div>
+
+    <ul class="navigation home">
+      <li id="mobile-menu">Menu</li>
+      <li class="current" id="nav-visit"><a href="/Visit" class="visit selected active nav-item" data-panel="visit-panel">Visit</a></li>
+      <li class="current" id="nav-calendar"><a href="/Events" class="calendar selected active nav-item" data-panel="calendar-panel">Calendar</a></li>
+      <li class="current" id="nav-exhibitions"><a href="/Exhibitions" class="exhibitions selected active nav-item" data-panel="exhibitions-panel">Exhibitions</a></li>
+      <li class="current" id="nav-collection"><a href="/Collection" class="collection selected active nav-item" data-panel="collection-panel">Collection</a></li>
+      <li class="current" id="nav-learn"><a href="/Education" class="learn selected active nav-item" data-panel="learn-panel">Learn</a></li>
+      <li class="current" id="nav-watch"><a href="/WatchAndListen" class="watch selected active nav-item" data-panel="watch-panel">Watch</a></li>
+      <li class="current" id="nav-support"><a href="/Support" class="support selected active nav-item" data-panel="support-panel">Support</a></li>
+      <li class="current" id="nav-shop"><a href="/MuseumStore" class="shop selected active nav-item" data-panel="shop-panel">Shop</a></li>
+      <li class="current" id="nav-about"><a href="/About" class="about selected active nav-item" data-panel="about-panel">About</a></li>
+
+            <li class="" id="nav-search">
+        <a href="#" class="search search-button selected active" data-focus="#search-field" data-target=".search-wrapper">Search</a>
+      </li>
+      <li class="break"></li>
+
+      <li class="mobile-secondary">
+  <ul>
+    <li>&nbsp;</li>
+            <li class="login"><a class="login mmi_1" href="#" id="username" onclick="new Ajax.Request('/ajax/magic_modules/login_module/insert?page_id=271528&amp;top=layout-modules', {asynchronous:true, evalScripts:true, onComplete:function(request){make_cut_from('mmi_1')}, onLoading:function(request){$('mmi_1').addClassName('loading')}}); return false;">Log in</a></li>
+        <li class="collection"><a class="collection-information" id="mmi_1-collection-count" href="/UserCollection">
+      0 items in your collections</a>
+    </li>
+            <li class="membership"><a class="membership-level" href="/Support/Membership">Membership</a></li>
+        <li>&nbsp;</li>
+        <li>Galleries are open until 6 pm today</li>
+  </ul>
+</li>
+
+          </ul>
+
+            <div class="mobile-secondary-info">
+    <ul class="mobile-user-actions">
+                <li><a class="login mmi_1" href="#" id="username" onclick="new Ajax.Request('/ajax/magic_modules/login_module/insert?page_id=271528&amp;top=layout-modules', {asynchronous:true, evalScripts:true, onComplete:function(request){make_cut_from('mmi_1')}, onLoading:function(request){$('mmi_1').addClassName('loading')}}); return false;">Log in</a></li>
+            <li><a id="mmi_1-collection-count" href="/UserCollection">
+        0 items</a>
+      </li>
+                <li><a href="/Support/Membership">Membership</a></li>
+          </ul>
+
+    <div id="mobile-visit-info" class="visit-info">
+      <div class="content">
+        <ul class="address">
+          <li><strong><a href="/">Whitney Museum<br />of American Art</a></strong></li>
+          <li>945 Madison Avenue</li>
+          <li>at 75th Street</li>
+          <li>New York, NY 10021</li>
+          <li>(212) 570-3600</li>
+        </ul>
+        
+        <a name="mmi_81752"></a><div id="mmi_81752"
+    class="magic-module page-magic-module visit-module one-third-width"
+    style="" data-id="1901" data-instance-id="81752">
+
+  
+  
+  
+<ul class="visit-module-nav">
+  <a class="today" href="#"><span class="radio-button"></span>Today</a>
+  <a class="weekly active" href="#"><span class="radio-button"></span>Weekly</a>
+</ul>
+
+<div class="visit-module-panels">
+
+  <div class="visit-module-panel visit-module-daily-hours show" id="mmi_81752-hours">
+        <div class="visit-module-date" id="mmi_81752-date">
+      <a href="/Events?view=day&start=2014-07-13" class="date">Sun, July 13</a>
+
+<div class="pagination">
+  <a href="javascript:visit_module_show_date('07/12/2014', 1901, 271528)" class="prev_page small pager-arrow previous" rel="prev" onclick="$(this).addClassName('active');"><span>&lt;</span></a>
+  <a href="javascript:visit_module_show_date('07/14/2014', 1901, 271528)" class="next_page small pager-arrow next" rel="next" onclick="$(this).addClassName('active');"><span>&gt;</span></a>
+</div>
+
+    </div>
+    <div class="visit-module-hours-row">
+      <span class="area">Galleries</span>
+      <span class="visit-module-hours-row-hours galleries" id="mmi_81752-galleries">11 am&ndash;6 pm</span>
+    </div>
+    <div class="visit-module-hours-row">
+      <span class="area">Shop</span>
+      <span class="visit-module-hours-row-hours shop" id="mmi_81752-shop">11 am&ndash;6 pm</span>
+    </div>
+    <div class="visit-module-hours-row">
+      <span class="area">Restaurant</span>
+      <span class="visit-module-hours-row-hours restaurant" id="mmi_81752-restaurant">10 am&ndash;6 pm</span>
+    </div>
+        <div class="visit-module-hours-notes notes" id="mmi_81752-hours-notes" style="display: none;">
+      
+    </div>
+    
+  </div>
+
+  <div class="visit-module-panel visit-module-weekly-hours">
+    
+
+    <ul>
+      
+          <li><span class="days">Mon&ndash;Tues</span><span class="time"><span class="gray">Closed</span></span></li>
+      
+          <li><span class="days">Wed&ndash;Thurs</span><span class="time">11 am&ndash;6 pm</span></li>
+      
+          <li><span class="days">Fri</span><span class="time">1 pm&ndash;9 pm</span></li>
+      
+          <li><span class="days">Sat&ndash;Sun</span><span class="time">11 am&ndash;6 pm</span></li>
+      
+    </ul>
+
+  </div>
+
+</div>
+
+  
+</div>
+        
+      </div>
+      <span class="current-hours">Galleries are open until 6 pm today</span>
+      <a class="visit-info-toggle" data-direction="collapse" href="#">Toggle</a>
+    </div>
+</div>
+    
+    <div class="secondary-panels">
+        <div class="secondary-navigation-panel visit-panel">
+  <div class="content">
+    <ul class="secondary-navigation-column one-third-width allcaps">
+      <li><a href="/Visit/Directions" class="secondary-inactive">Directions</a></li>
+      <li><a href="/Visit/Hours" class="secondary-inactive">Hours</a></li>
+      <li><a href="/Visit/Admission" class="secondary-inactive">Tickets</a></li>
+      <li><a href="/Visit/Policies" class="secondary-inactive">Visitor Policies</a></li>
+    </ul>
+    <ul class="secondary-navigation-column one-third-width allcaps">
+      <li><a href="/Visit/FreeTours" class="secondary-inactive">Free Daily Tours</a></li>
+      <li><a href="/Visit/GroupTours" class="secondary-inactive">Group Tours</a></li>
+      <li><a href="/Visit/Accessibility" class="secondary-inactive">Accessibility</a></li>
+      <li><a href="/Visit/Cafe" class="secondary-inactive">Restaurant</a></li>
+    </ul>
+
+    <ul class="secondary-navigation-column one-third-width">
+      <li><a class="large-button" href="/Visit/BuyTickets">Buy tickets now</a></li>
+      <li><a class="large-button" href="/Support/Membership/">Become a member</a></li>
+    </ul>
+  </div>
+  <div class="nav-panel-bottom"></div>
+</div> <!-- close panel -->
+
+
+        <div class="secondary-navigation-panel calendar-panel">
+  <div class="content">
+
+    <div class="calendar-module">
+
+
+
+
+
+
+<input type="hidden" class="calendar-module-mm-id" value="108" />
+<input type="hidden" class="calendar-module-current-page" value="home" />
+<input type="hidden" class="calendar-module-calendar-page" value="1" />
+<input type="hidden" class="calendar-module-calendar-year" value="2014" />
+<input type="hidden" class="calendar-module-calendar-month" value="7" />
+<input type="hidden" class="calendar-module-calendar-day" value="13" />
+<input type="hidden" class="calendar-module-calendar-view" value="day" />
+<input type="hidden" class="calendar-module-event-category-id" value="" />
+
+
+<ul class="secondary-navigation-column one-third-width secondary-navigation-filters">
+
+  <li>
+    <a href="javascript:show_calendar_page(108, 1, 'day', '2014-07-13', undefined)">All Categories</a>&nbsp
+  </li>
+                                <li>
+            <a href="javascript:show_calendar_page(108, 1, 'month', '2014-07-13', 226)" title="Filter to this category">Courses &amp; Workshops</a>&nbsp;
+          </li>
+
+          
+                                  <li>
+            <a href="javascript:show_calendar_page(108, 1, 'month', '2014-07-13', 243)" title="Filter to this category">Free Daily Tours</a>&nbsp;
+          </li>
+
+          
+                                  <li>
+            <a href="javascript:show_calendar_page(108, 1, 'month', '2014-07-13', 232)" title="Filter to this category">Family Programs</a>&nbsp;
+          </li>
+
+                        <li style="display: none;" class="calendar-module-filter-event-subcategories" id="mmi_9968-event-category-6-subcategories">
+                                      <div class="child-category"><a href="javascript:show_calendar_page(108, 1, 'month', '2014-07-13', 303)" title="Filter to this category">For kids ages 0–18 months</a></div>
+                                      <div class="child-category"><a href="javascript:show_calendar_page(108, 1, 'month', '2014-07-13', 304)" title="Filter to this category">For kids ages 4–5</a></div>
+                                      <div class="child-category"><a href="javascript:show_calendar_page(108, 1, 'month', '2014-07-13', 305)" title="Filter to this category">For kids ages 6–10</a></div>
+                                      <div class="child-category"><a href="javascript:show_calendar_page(108, 1, 'month', '2014-07-13', 306)" title="Filter to this category">For kids ages 8–12</a></div>
+                              </li>
+          
+                                  <li>
+            <a href="javascript:show_calendar_page(108, 1, 'month', '2014-07-13', 354)" title="Filter to this category">Film &amp; Video Screenings</a>&nbsp;
+          </li>
+
+          
+                                  <li>
+            <a href="javascript:show_calendar_page(108, 1, 'month', '2014-07-13', 175)" title="Filter to this category">Lectures, Talks, Readings</a>&nbsp;
+          </li>
+
+          
+                                  <li>
+            <a href="javascript:show_calendar_page(108, 1, 'month', '2014-07-13', 200)" title="Filter to this category">Performances</a>&nbsp;
+          </li>
+
+          
+                                                                          <li>
+            <a href="javascript:show_calendar_page(108, 1, 'month', '2014-07-13', 270)" title="Filter to this category">Access Programs</a>&nbsp;
+          </li>
+
+          
+              <li>&nbsp;</li>
+          <li>
+        <a href="javascript:show_calendar_page(108, 1, 'month', '2014-07-13', 201)" title="See member events at all levels">Member Events</a>&nbsp;
+      </li>
+    <li>
+    <a href="/Login?for_you=1" title="See events customized for you">Events For You</a>&nbsp;
+  </li>
+</ul>
+
+
+
+
+
+
+<div class="secondary-navigation-column calendar-module-date-jump one-third-width secondary-navigation-filters">
+  <div id="mmi_9968-mini-calendar" class="calendar-module-mini-calendar"></div>
+</div>
+
+
+
+<ul class="museum-hours secondary-navigation-column one-third-width secondary-navigation-filters">
+  <li><strong>
+            <a href="/Visit/Hours">Museum Hours</a>
+      </strong></li>
+
+  
+  
+  
+
+   <ul>
+      
+          <li><span class="day">Mon&ndash;Tues</span><span class="gray">Closed</span></li>
+      
+          <li><span class="day">Wed&ndash;Thurs</span>11 am&ndash;6 pm</li>
+      
+          <li><span class="day">Fri</span>1 pm&ndash;9 pm</li>
+      
+          <li><span class="day">Sat&ndash;Sun</span>11 am&ndash;6 pm</li>
+      
+   </ul>
+
+  <li><a href="/Visit/BuyTickets" class="buy-tickets large-button">Buy Tickets now</a></li>
+</ul>
+
+</div>
+
+  </div>
+  <div class="nav-panel-bottom"></div>
+</div> <!-- close panel -->
+
+
+        <div class="secondary-navigation-panel exhibitions-panel">
+  <div class="content">
+      <ul class="secondary-navigation-column one-third-width allcaps">
+        <li><a href="/Exhibitions" class="secondary-inactive">Current</a></li>
+        <li><a href="/Exhibitions/Upcoming" class="secondary-inactive">Upcoming</a></li>
+        <li><a href="/Exhibitions/Past" class="secondary-inactive">Past</a></li>
+        <li><a href="/Exhibitions/Touring" class="secondary-inactive">Touring</a></li>
+        <li><a href="/Exhibitions/Film" class="secondary-inactive">Film</a></li>
+        <li><a href="/Exhibitions/Performance" class="secondary-inactive">Performance</a></li>
+        <li><a href="/Exhibitions/Artport" class="secondary-inactive">Artport</a></li>
+      </ul>
+    
+      <ul class="secondary-navigation-column one-third-width secondary-navigation-filters">
+        <li><strong>Current exhibitions</strong></li>
+                    <li><a href="/Exhibitions/JeffKoons">Jeff Koons: A Retrospective</a></li>
+              </ul>
+
+      <ul class="secondary-navigation-column one-third-width">
+        <li><a class="large-button" href="/Visit/BuyTickets">Buy tickets now</a></li>
+        <li><a class="large-button" href="/Support/Membership">Become a member</a></li>
+        <li><a class="large-button" href="/WatchAndListen/AudioGuides">Download guides for your visit</a></li>
+      </ul>
+  </div>
+  <div class="nav-panel-bottom"></div>
+</div> <!-- close panel -->
+        <div class="secondary-navigation-panel collection-panel">
+  <div class="content">
+    <ul class="secondary-navigation-column one-third-width allcaps">
+      <li><a href="/Collection" class="secondary-inactive">Works Available Online</a></li>
+      <li><a href="/Collection/WorksOnViewNow" class="secondary-inactive">Works on view now at the Museum</a></li>
+      <li><a href="/Collection/AllArtists" class="secondary-inactive">All Artists in the Collection</a></li>
+      <li><a href="/Collection/RightsAndReproductions" class="secondary-inactive">Rights & Reproductions</a></li>
+      <li><a href="/Collection/Conservation" class="secondary-inactive">Conservation</a></li>
+    </ul>
+
+    <div class="secondary-navigation-column two-thirds-width secondary-navigation-filters">
+      
+        
+
+<div class="filter-section">
+  <div class="filter-header">
+    <strong>Browse by artist&rsquo;s last name</strong>
+  </div>
+          <a href="/Collection?name=A&display_type=thumbnails&seed=">A</a>
+              <a href="/Collection?name=B&display_type=thumbnails&seed=">B</a>
+              <a href="/Collection?name=C&display_type=thumbnails&seed=">C</a>
+              <a href="/Collection?name=D&display_type=thumbnails&seed=">D</a>
+              <a href="/Collection?name=E&display_type=thumbnails&seed=">E</a>
+              <a href="/Collection?name=F&display_type=thumbnails&seed=">F</a>
+              <a href="/Collection?name=G&display_type=thumbnails&seed=">G</a>
+              <a href="/Collection?name=H&display_type=thumbnails&seed=">H</a>
+              <a href="/Collection?name=I&display_type=thumbnails&seed=">I</a>
+              <a href="/Collection?name=J&display_type=thumbnails&seed=">J</a>
+              <a href="/Collection?name=K&display_type=thumbnails&seed=">K</a>
+              <a href="/Collection?name=L&display_type=thumbnails&seed=">L</a>
+              <a href="/Collection?name=M&display_type=thumbnails&seed=">M</a>
+              <a href="/Collection?name=N&display_type=thumbnails&seed=">N</a>
+              <a href="/Collection?name=O&display_type=thumbnails&seed=">O</a>
+              <a href="/Collection?name=P&display_type=thumbnails&seed=">P</a>
+              <a href="/Collection?name=Q&display_type=thumbnails&seed=">Q</a>
+              <a href="/Collection?name=R&display_type=thumbnails&seed=">R</a>
+              <a href="/Collection?name=S&display_type=thumbnails&seed=">S</a>
+              <a href="/Collection?name=T&display_type=thumbnails&seed=">T</a>
+              <a href="/Collection?name=U&display_type=thumbnails&seed=">U</a>
+              <a href="/Collection?name=V&display_type=thumbnails&seed=">V</a>
+              <a href="/Collection?name=W&display_type=thumbnails&seed=">W</a>
+              <a href="/Collection?name=X&display_type=thumbnails&seed=">X</a>
+              <a href="/Collection?name=Y&display_type=thumbnails&seed=">Y</a>
+              <a href="/Collection?name=Z&display_type=thumbnails&seed=">Z</a>
+          </div>
+
+<div class="filter-section">
+  <div class="filter-header">
+    <strong>Browse by decade</strong>
+  </div>
+                <a href="/Collection?decade=190&display_type=thumbnails&seed=">1900</a>
+                    <a href="/Collection?decade=191&display_type=thumbnails&seed=">1910</a>
+                    <a href="/Collection?decade=192&display_type=thumbnails&seed=">1920</a>
+                    <a href="/Collection?decade=193&display_type=thumbnails&seed=">1930</a>
+                    <a href="/Collection?decade=194&display_type=thumbnails&seed=">1940</a>
+                    <a href="/Collection?decade=195&display_type=thumbnails&seed=">1950</a>
+                    <a href="/Collection?decade=196&display_type=thumbnails&seed=">1960</a>
+                    <a href="/Collection?decade=197&display_type=thumbnails&seed=">1970</a>
+                    <a href="/Collection?decade=198&display_type=thumbnails&seed=">1980</a>
+                    <a href="/Collection?decade=199&display_type=thumbnails&seed=">1990</a>
+                    <a href="/Collection?decade=200&display_type=thumbnails&seed=">2000</a>
+                    <a href="/Collection?decade=201&display_type=thumbnails&seed=">2010</a>
+          </div>
+
+<div class="filter-section">
+  <div class="filter-header">
+    
+        <strong>Sort by </strong>
+    
+
+  </div>
+  
+      <a class="extra-space selected" href="/Collection?sort=viewed&display_type=thumbnails&seed=">Recently viewed</a>
+      <a class="extra-space" href="/Collection?sort=collected&display_type=thumbnails&seed=">Most collected</a>
+      <a class="extra-space" href="/Collection?sort=shuffle&display_type=thumbnails">Shuffle</a>
+  
+</div>
+
+
+    <div class="filter-section">
+      <div class="filter-header">
+        <strong>Show only</strong>
+      </div>
+      <a class="extra-space" href="/Collection?on_view=1&display_type=thumbnails&seed="><img src="/gui/on-view-night.gif" alt="On view" /> Works on view</a>
+      <a class="extra-space" href="/Collection?watch_and_listen=1&display_type=thumbnails&seed="><img src="/watch_and_listen_module/audio-bug-black.png" alt="Audio" width="15" height="10" /> <img src="/watch_and_listen_module/video-bug-black.png" alt="Video" width="15" height="9" /> Watch & Listen</a>
+          </div>
+
+
+
+      
+    </div>
+  </div>
+  <div class="nav-panel-bottom"></div>
+</div> <!-- close panel -->
+        <div class="secondary-navigation-panel learn-panel">
+  <div class="content">
+    <ul class="secondary-navigation-column one-third-width allcaps">
+      <li><a href="/Education/PublicPrograms" class="secondary-inactive">Public Programs</a></li>
+      <li><a href="/Education/Families" class="secondary-inactive">Families</a></li>
+      <li><a href="/Education/K12" class="secondary-inactive">K&ndash;12</a></li>
+      <li><a href="/Education/Teens" class="secondary-inactive">Teens</a></li>
+      <li><a href="/Education/Community" class="secondary-inactive">Community</a></li>
+      <li><a href="/Education/Access" class="secondary-inactive">Access</a></li>
+      <li><a href="/Education/ForTeachers" class="secondary-inactive">For&nbsp;Teachers</a></li>
+      <li><a href="/ForKids" class="secondary-inactive">Whitney Kids</a></li>
+    </ul>
+    
+        <div class="secondary-navigation-column one-third-width">
+          <div class="panel-announcement">
+              <h2>New: For Teachers</h2>
+              <p>Check out For Teachers to explore materials and resources developed especially for K-12 audiences.</p>
+              <a href="/Education/ForTeachers">Explore</a>
+          </div>
+        </div>
+
+        <div class="secondary-navigation-column one-third-width">
+          <div class="panel-announcement">
+            <h2>Whitney Kids</h2>
+            <p>Visit our webpages filled with activities for artists ages 8-12.</p>
+            <a href="/ForKids">Explore</a>
+          </div>
+        </div>
+    
+  </div>
+  <div class="nav-panel-bottom"></div>
+</div> <!-- close panel -->
+
+
+        <div class="secondary-navigation-panel watch-panel">
+  <div class="content">
+    <ul class="secondary-navigation-column one-third-width allcaps">
+      <li><a href="/WatchAndListen/All" class="secondary-inactive">Everything</a></li>
+      <li><a href="/WatchAndListen/AudioGuides" class="secondary-inactive">Audio Guides</a></li>
+      <li><a href="/WatchAndListen/Artists" class="secondary-inactive">Artists</a></li>
+      <li><a href="/WatchAndListen/Exhibitions" class="secondary-inactive">Exhibitions</a></li>
+      <li><a href="/WatchAndListen/PublicPrograms" class="secondary-inactive">Public Programs</a></li>
+      <li><a href="/WatchAndListen/Performance" class="secondary-inactive">Performance</a></li>
+    </ul>
+    
+    
+      
+                  
+        <a name="mmi_82142"></a><div id="mmi_82142"
+    class="magic-module page-magic-module watch-and-listen-browse-module two-thirds-width no-gutters"
+    style="" data-id="64" data-instance-id="82142">
+
+  
+  
+  
+
+
+    
+
+
+<strong>Browse by</strong>
+
+<div class="non-swipe arrowable rail">
+  <div class="rail-pages-container">
+    <div class="rail-pages rail-pages-for-tags" id="mmi_82142-rail-pages" data-num-pages="2" data-page-num="1">
+      <div class="rail-page" data-page-num="1">
+  <div class="browse-page">
+    <div class="tabs">
+      <a class="tab selected" href="#" onclick="$(this).addClassName(&quot;active&quot;);; new Ajax.Updater('watch-and-listen-browse-module', '/ajax/magic_modules/watch_and_listen_browse_module/reset_page?browse_page_num=1&amp;browse_type=tags&amp;id=64&amp;page_id=270431', {asynchronous:true, evalScripts:true, onComplete:function(request){watch_and_listen_browse_module_update_tooltips();}}); return false;">Tags</a>
+      <a class="tab" href="#" onclick="$(this).addClassName('active');; new Ajax.Updater('watch-and-listen-browse-module', '/ajax/magic_modules/watch_and_listen_browse_module/reset_page?browse_page_num=1&amp;browse_type=artists&amp;id=64&amp;page_id=270431', {asynchronous:true, evalScripts:true, onComplete:function(request){watch_and_listen_browse_module_update_tooltips();}}); return false;">Artists</a>
+
+    </div>
+            
+                    <ul class="tags">
+              
+                                    <li>
+                    <a href="/WatchAndListen/Tag?context=about the whitney" title="">About the Whitney</a>                  </li>
+              
+                                    <li>
+                    <a href="/WatchAndListen/Tag?context=Access" title="">Access</a>                  </li>
+              
+                                    <li>
+                    <a href="/WatchAndListen/Tag?context=annenberg lecture" title="">Annenberg Lecture</a>                  </li>
+              
+                                    <li>
+                    <a href="/WatchAndListen/Tag?context=Architecture" title="">Architecture</a>                  </li>
+              
+                                    <li>
+                    <a href="/WatchAndListen/Artists" title="">Artist</a>                  </li>
+              
+                                    <li>
+                    <a href="/WatchAndListen/Tag?context=Artist-driven Program" title="">Artist-Driven Program</a>                  </li>
+              
+            </ul>
+                    <ul class="tags">
+              
+                                    <li>
+                    <a href="/WatchAndListen/Tag?context=ASL" title="">ASL</a>                  </li>
+              
+                                    <li>
+                    <a href="/WatchAndListen/AudioGuides" title="">Audioguide</a>                  </li>
+              
+                                    <li>
+                    <a href="/WatchAndListen/Tag?context=biennial" title="">Biennial</a>                  </li>
+              
+                                    <li>
+                    <a href="/WatchAndListen/Tag?context=conservation" title="">Conservation</a>                  </li>
+              
+                                    <li>
+                    <a href="/WatchAndListen/Tag?context=conversations on art" title="">Conversations on Art</a>                  </li>
+              
+                                    <li>
+                    <a href="/WatchAndListen/Tag?context=curators" title="">Curators</a>                  </li>
+              
+            </ul>
+                    <ul class="tags">
+              
+                                    <li>
+                    <a href="/WatchAndListen/Tag?context=Dance" title="">Dance</a>                  </li>
+              
+                                    <li>
+                    <a href="/WatchAndListen/Tag?context=drawing" title="">Drawing</a>                  </li>
+              
+                                    <li>
+                    <a href="/WatchAndListen/Tag?context=event" title="">Event</a>                  </li>
+              
+                                    <li>
+                    <a href="/WatchAndListen/Exhibitions" title="">Exhibition</a>                  </li>
+              
+                                    <li>
+                    <a href="/WatchAndListen/Tag?context=exhibition installation process" title="">Exhibition Install...</a>                  </li>
+              
+                                    <li>
+                    <a href="/WatchAndListen/Tag?context=Family Program" title="">Family Program</a>                  </li>
+              
+            </ul>
+                    <ul class="tags">
+              
+                                    <li>
+                    <a href="/WatchAndListen/Tag?context=Film &amp; Video" title="">Film & Video</a>                  </li>
+              
+                                    <li>
+                    <a href="/WatchAndListen/Tag?context=gallery talk" title="">Gallery Talk</a>                  </li>
+              
+                                    <li>
+                    <a href="/WatchAndListen/Tag?context=installation" title="">Installation</a>                  </li>
+              
+                                    <li>
+                    <a href="/WatchAndListen/Tag?context=music" title="">Music</a>                  </li>
+              
+                                    <li>
+                    <a href="/WatchAndListen/Tag?context=New Building Project" title="">New Building Project</a>                  </li>
+              
+                                    <li>
+                    <a href="/WatchAndListen/Tag?context=painting" title="">Painting</a>                  </li>
+              
+            </ul>
+        
+    
+    </ul>
+
+  </div>
+</div>
+
+    </div>
+  </div>
+  <span class="pager-arrow inactive previous small non-swipe" data-page-num-parameter="browse_page_num" data-update-multiple=".rail-pages-for-tags" data-url="/ajax/magic_modules/watch_and_listen_browse_module/page?browse_type=tags&amp;id=64&amp;page_id=59706">Previous</span><span class="pager-arrow next small non-swipe" data-page-num-parameter="browse_page_num" data-update-multiple=".rail-pages-for-tags" data-url="/ajax/magic_modules/watch_and_listen_browse_module/page?browse_type=tags&amp;id=64&amp;page_id=59706">Next</span>
+</div>
+
+  
+</div>
+      
+          
+  </div>
+  <div class="nav-panel-bottom"></div>
+</div> <!-- close panel -->
+
+        <div class="secondary-navigation-panel support-panel">
+  <div class="content">
+    <ul class="secondary-navigation-column one-third-width allcaps">
+      <li><a href="/Support/Membership" class="secondary-inactive">Membership</a></li>
+      <li><a href="/Support/Individuals" class="secondary-inactive">Individual Giving</a></li>
+      <li><a href="/Support/Corporate" class="secondary-inactive">Corporate Support</a></li>
+      <li><a href="/Support/Foundations" class="secondary-inactive">Foundations & Government</a></li>
+    </ul>
+
+    
+        <div class="secondary-navigation-column one-third-width">
+          <div class="panel-announcement">
+            
+            
+            
+          </div>
+        </div>
+
+        <div class="secondary-navigation-column one-third-width">
+          <div class="panel-announcement">
+            
+            
+            
+          </div>
+        </div>
+    
+  </div>
+  <div class="nav-panel-bottom"></div>
+</div> <!-- close panel -->
+
+
+        <div class="secondary-navigation-panel shop-panel">
+  <div class="content">
+    <ul class="secondary-navigation-column one-third-width allcaps">
+      <li><a href="http://www.shopwhitney.org/booksandcds.html" class="secondary-inactive">Catalogues</a></li>
+      <li><a href="http://www.shopwhitney.org/cuex1.html" class="secondary-inactive">Exhibitions</a></li>
+      <li><a href="http://www.shopwhitney.org/whitneyartists.html" class="secondary-inactive">Whitney Artists</a></li>
+      <li><a href="http://www.shopwhitney.org/books.html" class="secondary-inactive">Books</a></li>
+      <li><a href="http://www.shopwhitney.org/posters.html" class="secondary-inactive">Prints & Posters</a></li>
+      <li><a href="http://www.shopwhitney.org/gifts1.html" class="secondary-inactive">Gifts</a></li>
+    </ul>
+
+    
+        <div class="secondary-navigation-column one-third-width">
+          <div class="panel-announcement">
+            
+            
+            
+          </div>
+        </div>
+
+        <div class="secondary-navigation-column one-third-width">
+          <div class="panel-announcement">
+            
+            
+            
+          </div>
+        </div>
+    
+  </div>
+  <div class="nav-panel-bottom"></div>
+</div> <!-- close panel -->
+
+
+        <div class="secondary-navigation-panel about-panel">
+  <div class="content">
+    <ul class="secondary-navigation-column one-third-width allcaps">
+      <li><a href="/About/History" class="secondary-inactive">History of the Whitney</a></li>
+      <li><a href="/About/NewBuilding" class="secondary-inactive">New Building Project</a></li>
+      <li><a href="/About/BucksbaumAward" class="secondary-inactive">Bucksbaum Award</a></li>
+      <li><a href="/WhitneyStories" class="secondary-inactive">Whitney Stories</a></li>
+    </ul>
+    <ul class="secondary-navigation-column one-third-width allcaps">
+      <li><a href="/Research/ISP" class="secondary-inactive">Independent Study Program</a></li>
+      <li><a href="/Research/Library" class="secondary-inactive">Library</a></li>
+      <li><a href="/Research/AndyWarholFilmProject" class="secondary-inactive">Andy Warhol Film Project</a></li>
+    </ul>
+    <ul class="secondary-navigation-column one-third-width allcaps">
+      <li><a href="/About/Bios" class="secondary-inactive">Staff Profiles</a></li>
+      <li><a href="/About/Trustees" class="secondary-inactive">Board of Trustees</a></li>
+      <li><a href="/About/JobPostings" class="secondary-inactive">Jobs & Internships</a></li>
+      <li><a href="/About/Website" class="secondary-inactive">About whitney.org</a></li>
+      <li><a href="/About/Faqs" class="secondary-inactive">FAQ</a></li>
+      <li><a href="/Contact" class="secondary-inactive">Contact</a></li>
+      <li><a href="/FeedsAndNotifications" class="secondary-inactive">Subscribe</a></li>
+    </ul>
+  </div>
+  <div class="nav-panel-bottom"></div>
+</div> <!-- close panel -->
+
+
+    </div>
+</div> <!-- end navigation-wrapper -->
+
+
+
+
+  
+</div>
+    
+    
+        
+    <div id="layout-modules">
+      <div id="search-spacer"></div>
+
+      
+      
+            
+            
+              
+        <div id="mmi_81430" class="column-module column-module-1 full-width no-gutters">
+                                                <a name="mmi_81415"></a><div id="mmi_81415"
+    class="magic-module page-magic-module mega-slideshow-module full-width no-gutters"
+    style="" data-id="438" data-instance-id="81415">
+
+  
+  
+  <div id="mega-slideshow" class="wrapper rail home">
+  <div class="mobile-slideshow-title">Current and Upcoming <br />Exhibitions</div>
+
+  <div class="pagination">
+    <a class="rail pager-arrow previous" href="#previous">Previous</a>
+    <a class="rail pager-arrow next" data-url="/ajax/magic_modules/mega_slideshow_module/page?id=438&amp;page_id=271528" href="#next">Next</a>
+  </div>
+
+  <ol class="indicators">
+  </ol>
+
+  <div id="Rail81415" class="swipe rail-pages-container megaslideshow">
+    <div class="swipe-wrap rail-pages slides" id="mmi_81415-rail-pages" data-num-pages="7" data-page-num="1" data-page-to-load="1">
+                    <div class="slide rail-page generic-slide-module" data-section="#nav-exhibitions" data-page-num="1" data-num-pages="7">
+        
+
+<div class="content">
+
+    
+  
+                            <div class="media-area one-half-width">
+
+                                                                                                                    <a href="/Exhibitions/JeffKoons"><img alt="Celebration_e" class="image" height="381" id="responsive-image-92494810-1" src="/image_columns/0059/3602/celebration_e.2013.0130_tulips_1140.jpg?1404406651" width="450" /></a>
+                                
+              
+            </div>
+            
+                      <div class="text-area one-half-width">
+
+                                        <a href="/Exhibitions/JeffKoons">                <h1>Jeff Koons: A Retrospective</h1>
+                <h1 class="gray">Through Oct 19</h1>
+            </a>            
+            
+
+            
+
+          </div>
+        
+  
+  
+</div>
+
+      </div>
+                        <div class="slide rail-page events-slide-module" data-section="#nav-calendar" data-page-num="1" data-num-pages="7">
+            
+
+<div class="content">
+
+    
+                    <div class="event one-half-width">
+              <a href="/Events/JeffKoonsFamilyOpening"><img alt="Jeff Koons Family Opening" height="589" id="responsive-image-92494810-2" src="/image_columns/0058/9573/elephant_1006.jpg?1402332286" width="439" /></a>
+              
+                  <div class="caption">
+                    <p>Jeff Koons, <i>Elephant</i>, 2003. Mirror-polished stainless steel with transparent color coating; 36 1&frasl;2 &#215; 29 &times; 19 in. (92.7 &times; 73.7 &times; 48.3 cm). Private collection. &copy; Jeff Koons</p>
+                  </div>
+              
+            </div>
+        
+        <div class="event one-half-width">
+          <a href="/Events/JeffKoonsFamilyOpening">
+
+            
+                <div class="badge">
+                  
+                                        Free Events&nbsp;                                  </div>
+            
+
+            
+                <h1 class="title">Jeff Koons Family Opening</h1>
+            
+
+            
+                <h1 class="when">Sat, July 19, 2014&nbsp; <nobr>9:30&nbsp;AM&ndash;12&nbsp;PM</nobr> </h1>
+            
+
+          </a>
+
+                      <div class="medium description one-fifth-space-before">
+              <p>For families with kids of all ages</p>              <p><b>9:30&ndash;11 am: Special early opening just for families!</b></p><p>Bring your kids to visit&nbsp;<i>Jeff Koons: A Retrospective</i>. This family-friendly exhibition features a giant sculpture of a balloon dog, a larger-than-life sculpture of Play-Doh, and much more! We will offer art making activities, hands-on gallery stations, and other fun ways to help families learn about Koons&rsquo;s art and process.&nbsp;</p><p><b>Free with Museum admission. No registration is required.</b></p>            </div>
+          
+          
+        </div>
+
+    
+</div>
+
+          </div>
+                    <div class="slide rail-page collection-slide-module" data-section="#nav-collection" data-page-num="1" data-num-pages="7">
+        
+
+<div class="content">
+
+    <div class="collection-module-body">
+
+    
+                
+        <div class="collection-module-artwork">
+
+          <a href="/Collection/RalstonCrawford/3710"><img alt="Ralston CrawfordSteel Foundry, Coatesville, Pa., 1936–3737.10" class="artwork" height="103" id="responsive-image-92494810-3" src="/image_columns/0000/9444/37.10_crawford_imageprimacy_340.jpg?1367784247" title="Ralston Crawford&lt;br /&gt;&lt;i&gt;Steel Foundry, Coatesville, Pa.&lt;/i&gt;, 1936–37&lt;br /&gt;&lt;span class='accession-number'&gt;37.10&lt;/span&gt;" width="130" /></a>
+          
+
+        </div>
+
+    
+                
+        <div class="collection-module-artwork">
+
+          <a href="/Collection/LariPittman"><img alt="Lari PittmanUntitled #16 (A Decorated Chronology of Insistence and Resignation), 199393.130" class="artwork" height="129" id="responsive-image-92494810-4" src="/image_columns/0032/3470/93.130_pittman_244.jpg?1368041721" title="Lari Pittman&lt;br /&gt;&lt;i&gt;Untitled #16 (A Decorated Chronology of Insistence and Resignation)&lt;/i&gt;, 1993&lt;br /&gt;&lt;span class='accession-number'&gt;93.130&lt;/span&gt;" width="93" /></a>
+          
+
+        </div>
+
+    
+                
+        <div class="collection-module-artwork">
+
+          <a href="/Collection/PaulCadmus/3632"><img alt="Paul CadmusTo the Lynching!, 193536.32" class="artwork" height="129" id="responsive-image-92494810-5" src="/image_columns/0023/7139/36.32_cadmus_264.jpg?1368038815" title="Paul Cadmus&lt;br /&gt;&lt;i&gt;To the Lynching!&lt;/i&gt;, 1935&lt;br /&gt;&lt;span class='accession-number'&gt;36.32&lt;/span&gt;" width="101" /></a>
+          
+
+        </div>
+
+    
+                
+        <div class="collection-module-artwork">
+
+          <a href="/Collection/JacobLawrence/5111"><img alt="Jacob LawrenceWar Series: The Letter, 194651.11" class="artwork" height="129" id="responsive-image-92494810-6" src="/image_columns/0009/4643/51.11_lawrence_imageprimacy_266.jpg?1368050210" title="Jacob Lawrence&lt;br /&gt;&lt;i&gt;War Series: The Letter&lt;/i&gt;, 1946&lt;br /&gt;&lt;span class='accession-number'&gt;51.11&lt;/span&gt;" width="102" /></a>
+          
+
+        </div>
+
+    
+                
+        <div class="collection-module-artwork">
+
+          <a href="/Collection/JasperJohns/8032"><img alt="Jasper JohnsThree Flags, 195880.32" class="artwork" height="88" id="responsive-image-92494810-7" src="/image_columns/0009/4399/80.32_johns_imageprimacy_340.jpg?1367700567" title="Jasper Johns&lt;br /&gt;&lt;i&gt;Three Flags&lt;/i&gt;, 1958&lt;br /&gt;&lt;span class='accession-number'&gt;80.32&lt;/span&gt;" width="130" /></a>
+          
+
+        </div>
+
+    
+                
+        <div class="collection-module-artwork">
+
+          <a href="/Collection/GeorgeGrosz"><img alt="George GroszPeace, II, 194647.2" class="artwork" height="128" id="responsive-image-92494810-8" src="/image_columns/0023/7151/47.2_grosz_242.jpg?1368072591" title="George Grosz&lt;br /&gt;&lt;i&gt;Peace, II&lt;/i&gt;, 1946&lt;br /&gt;&lt;span class='accession-number'&gt;47.2&lt;/span&gt;" width="92" /></a>
+          
+
+        </div>
+
+    
+                
+        <div class="collection-module-artwork">
+
+          <a href="/Collection/BillViola/95261"><img alt="Bill ViolaThe Greeting, 199595.261" class="artwork" height="129" id="responsive-image-92494810-9" src="/image_columns/0001/6996/95.261_viola_imageprimacy_compressed_228.jpg?1368048075" title="Bill Viola&lt;br /&gt;&lt;i&gt;The Greeting&lt;/i&gt;, 1995&lt;br /&gt;&lt;span class='accession-number'&gt;95.261&lt;/span&gt;" width="87" /></a>
+          
+
+        </div>
+
+    
+                
+        <div class="collection-module-artwork">
+
+          <a href="/Collection/RHQuaytman/201055"><img alt="R. H. QuaytmanDistracting Distance, Chapter 16, 20102010.55" class="artwork" height="80" id="responsive-image-92494810-10" src="/image_columns/0023/7099/2010.55_quaytman_distracting_distance_chapter_16_340.jpg?1367701128" title="R. H. Quaytman&lt;br /&gt;&lt;i&gt;Distracting Distance, Chapter 16&lt;/i&gt;, 2010&lt;br /&gt;&lt;span class='accession-number'&gt;2010.55&lt;/span&gt;" width="130" /></a>
+          
+
+        </div>
+
+    
+                
+        <div class="collection-module-artwork">
+
+          <a href="/Collection/JohnSingerSargent"><img alt="John Singer SargentGertrude Vanderbilt Whitney, c. 191392.22" class="artwork" height="129" id="responsive-image-92494810-11" src="/image_columns/0032/3461/92.22_sargent_262.jpg?1368048776" title="John Singer Sargent&lt;br /&gt;&lt;i&gt;Gertrude Vanderbilt Whitney&lt;/i&gt;, c. 1913&lt;br /&gt;&lt;span class='accession-number'&gt;92.22&lt;/span&gt;" width="100" /></a>
+          
+
+        </div>
+
+    
+                
+        <div class="collection-module-artwork">
+
+          <a href="/Collection/BruceConner/200941"><img alt="Bruce ConnerEVE-RAY-FOREVER, 1965 and 20062009.41" class="artwork" height="100" id="responsive-image-92494810-12" src="/image_columns/0004/5423/2009.41_conner_imageprimacy_340.jpg?1367866029" title="Bruce Conner&lt;br /&gt;&lt;i&gt;&lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;EVE&lt;/span&gt;&lt;/span&gt;-&lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;RAY&lt;/span&gt;&lt;/span&gt;-&lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;FOREVER&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;, 1965 and 2006&lt;br /&gt;&lt;span class='accession-number'&gt;2009.41&lt;/span&gt;" width="130" /></a>
+          
+
+        </div>
+
+    
+                
+        <div class="collection-module-artwork">
+
+          <a href="/Collection/RHQuaytman/201056"><img alt="R. H. QuaytmanDistracting Distance, Chapter 16, 20102010.56" class="artwork" height="79" id="responsive-image-92494810-13" src="/image_columns/0023/7105/2010.56_quaytman_distracting_distance_chapter_16_340.jpg?1367717963" title="R. H. Quaytman&lt;br /&gt;&lt;i&gt;Distracting Distance, Chapter 16&lt;/i&gt;, 2010&lt;br /&gt;&lt;span class='accession-number'&gt;2010.56&lt;/span&gt;" width="130" /></a>
+          
+
+        </div>
+
+    
+                
+        <div class="collection-module-artwork">
+
+          <a href="/Collection/EdwardKienholz/6649aM"><img alt="Edward KienholzThe Wait, 1964–6566.49a-m" class="artwork" height="91" id="responsive-image-92494810-14" src="/image_columns/0029/3296/kienholtz_collection_340.jpg?1367706179" title="Edward Kienholz&lt;br /&gt;&lt;i&gt;The Wait&lt;/i&gt;, 1964–65&lt;br /&gt;&lt;span class='accession-number'&gt;66.49a-m&lt;/span&gt;" width="130" /></a>
+          
+
+        </div>
+
+    
+                
+        <div class="collection-module-artwork">
+
+          <a href="/Collection/CharlesSimonds"><img alt="Charles SimondsDwellings, 198181.11a-c " class="artwork" height="59" id="responsive-image-92494810-15" src="/image_columns/0001/6390/81.11a-d_simonds_imageprimacy_v1_compressed_340.jpg?1367705806" title="Charles Simonds&lt;br /&gt;&lt;i&gt;Dwellings&lt;/i&gt;, 1981&lt;br /&gt;&lt;span class='accession-number'&gt;81.11a-c&lt;/span&gt; &lt;img src=&quot;/ui/on-view-pin.gif&quot; width=&quot;10&quot; height=&quot;10&quot; alt=&quot;On view&quot; align=&quot;absmiddle&quot; title=&quot;&quot; /&gt;" width="130" /></a>
+          
+
+        </div>
+
+    
+                
+        <div class="collection-module-artwork">
+
+          <a href="/Collection/WayneThiebaud"><img alt="Wayne ThiebaudPie Counter, 196364.11" class="artwork" height="108" id="responsive-image-92494810-16" src="/image_columns/0004/5186/64.11_theibaud_imageprimacy_340.jpg?1367949059" title="Wayne Thiebaud&lt;br /&gt;&lt;i&gt;Pie Counter&lt;/i&gt;, 1963&lt;br /&gt;&lt;span class='accession-number'&gt;64.11&lt;/span&gt;" width="130" /></a>
+          
+
+        </div>
+
+    
+                
+        <div class="collection-module-artwork">
+
+          <a href="/Collection/RoyLichtenstein/2002254"><img alt="Roy LichtensteinGirl in Window (Study for World&#8217;s Fair Mural), 19632002.254" class="artwork" height="129" id="responsive-image-92494810-17" src="/image_columns/0004/4907/2002.254_lichtenstein_imageprimacy_278.jpg?1368042169" title="Roy Lichtenstein&lt;br /&gt;&lt;i&gt;Girl in Window (Study for World&#8217;s Fair Mural)&lt;/i&gt;, 1963&lt;br /&gt;&lt;span class='accession-number'&gt;2002.254&lt;/span&gt;" width="106" /></a>
+          
+
+        </div>
+
+    
+                
+        <div class="collection-module-artwork">
+
+          <a href="/Collection/RichardArtschwager/6648"><img alt="Richard ArtschwagerDescription of Table, 196466.48" class="artwork" height="98" id="responsive-image-92494810-18" src="/image_columns/0000/9474/66.48_artschwager_imageprimacy_340.jpg?1367850369" title="Richard Artschwager&lt;br /&gt;&lt;i&gt;Description of Table&lt;/i&gt;, 1964&lt;br /&gt;&lt;span class='accession-number'&gt;66.48&lt;/span&gt;" width="130" /></a>
+          
+
+        </div>
+
+    
+                
+        <div class="collection-module-artwork">
+
+          <a href="/Collection/WillemDeKooning/5535"><img alt="Willem de KooningWoman and Bicycle, 1952–5355.35" class="artwork" height="129" id="responsive-image-92494810-19" src="/image_columns/0006/6413/55.35_de-kooning_216.jpg?1368048076" title="Willem de Kooning&lt;br /&gt;&lt;i&gt;Woman and Bicycle&lt;/i&gt;, 1952–53&lt;br /&gt;&lt;span class='accession-number'&gt;55.35&lt;/span&gt;" width="83" /></a>
+          
+
+        </div>
+
+    
+                
+        <div class="collection-module-artwork">
+
+          <a href="/Collection/JosephineMeckseper"><img alt="Josephine MeckseperUntitled (Berlin Demonstration Series 1), 20022007.27a-e" class="artwork" height="64" id="responsive-image-92494810-20" src="/image_columns/0026/9404/mecksepper_340.jpg?1367850965" title="Josephine Meckseper&lt;br /&gt;&lt;i&gt;Untitled (Berlin Demonstration Series 1)&lt;/i&gt;, 2002&lt;br /&gt;&lt;span class='accession-number'&gt;2007.27a-e&lt;/span&gt;" width="130" /></a>
+          
+
+        </div>
+
+    
+    </div>
+
+    <div class="footer">
+
+        <div class="filters">
+            <strong>Sort by</strong>&nbsp;&nbsp;
+            Recently viewed&nbsp;&nbsp;
+            <a class="gray extra-space" href="/Collection?sort=collected">Most collected</a>&nbsp;&nbsp;
+            <a class="gray extra-space" href="/Collection?sort=shuffle">Shuffle</a>&nbsp;&nbsp;
+        </div>
+
+        <h2>
+          <a href="/Collection">Explore the collection online</a>
+        </h2>
+
+    </div>
+
+</div>
+      </div>
+              <div class="slide rail-page generic-slide-module" data-section="#nav-about" data-page-num="1" data-num-pages="7">
+        
+
+<div class="content">
+
+    
+  
+                            <div class="media-area one-half-width">
+
+                                                                                                                    <a href="/ArtEverywhere"><img alt="31" class="image" height="261" id="responsive-image-92494810-21" src="/image_columns/0058/9907/31.426_hopper_imageprimacy_copy_2340_1140.jpg?1403113754" width="450" /></a>
+                                
+              
+            </div>
+            
+                      <div class="text-area one-half-width">
+
+                                        <a href="/ArtEverywhere">                <h1>Art Everywhere U.S. Launches August 4</h1>
+                <h1 class="gray">See Eleven Whitney Works on Billboards, buses, and trains</h1>
+            </a>            
+            <div class="text"><em>Art Everywhere US</em> will transform outdoor advertising spaces into a free, open-air art gallery across the country.</div>
+
+            <div class="buttons"><a href="/ArtEverywhere">Read more</a></div>
+
+          </div>
+        
+  
+  
+</div>
+
+      </div>
+              <div class="slide rail-page watch-and-listen-slide-module" data-section="#nav-about" data-page-num="1" data-num-pages="7">
+        
+
+<div class="content">
+
+            
+            <div class="media full-width">
+
+                
+
+
+
+
+
+    <div class="image" id="responsive-image-92494810-22" onclick="jQuery('.megaslideshow').data('swipe').stop();"><div id="record-1041-video">
+      <input type="hidden" class="watch-and-listen-module-video-player-file" value="http://player.vimeo.com/external/94680723.hd.mp4?s=8f128ea26ac7ab6778ca50d35018a115">
+      
+      <input type="hidden" class="watch-and-listen-module-video-player-width" value="300">
+      <input type="hidden" class="watch-and-listen-module-video-player-height" value="300">
+      <input type="hidden" class="watch-and-listen-module-video-player-image" value="/image_columns/0058/9140/arcangel.jpg">
+      <input type="hidden" class="watch-and-listen-module-video-player-cc" value="">
+    </div></div>
+
+
+
+
+                                <h2><a href="/WatchAndListen?play_id=1041">Watch: Whitney Stories Video</a></h2>
+
+                                                    <h2 class="gray"><a href="/WatchAndListen?play_id=1041">Cory Arcangel</a></h2>
+                
+            </div>
+
+                        
+</div>
+
+
+      </div>
+              <div class="slide rail-page generic-slide-module" data-section="#nav-about" data-page-num="1" data-num-pages="7">
+        
+
+<div class="content">
+
+    
+  
+                            <div class="media-area two-thirds-width">
+
+              
+                  
+
+
+
+
+
+    <div class="image" id="responsive-image-92494810-23" onclick="jQuery('.megaslideshow').data('swipe').stop();"><div id="record-400-video">
+      <input type="hidden" class="watch-and-listen-module-video-player-file" value="http://player.vimeo.com/external/63605127.sd.mp4?s=ec00e39063b6635d98cf5558724b78a3">
+      
+      <input type="hidden" class="watch-and-listen-module-video-player-width" value="300">
+      <input type="hidden" class="watch-and-listen-module-video-player-height" value="300">
+      <input type="hidden" class="watch-and-listen-module-video-player-image" value="/image_columns/0031/6463/flythrough-screengrab.jpg">
+      <input type="hidden" class="watch-and-listen-module-video-player-cc" value="/file_columns/0004/2431/whitney_of_the_future.srt">
+    </div></div>
+
+
+
+
+              
+            </div>
+            
+                      <div class="text-area one-third-width">
+
+                                        <a href="/About/NewBuilding">                <h1>The Future Whitney</h1>
+                
+            </a>            
+            <div class="text">The Whitney is constructing a new building in downtown Manhattan, which will open to the public in 2015. Designed by architect Renzo Piano and situated between the High Line and the Hudson River, the new building will vastly increase the Whitney’s exhibition and programming space, providing the first comprehensive view of its unsurpassed collection of modern and contemporary American art.</div>
+
+            <div class="buttons"><a href="/About/NewBuilding">Read more</a></div>
+
+          </div>
+        
+  
+  
+</div>
+
+      </div>
+              <div class="slide rail-page generic-slide-module" data-section="#nav-support" data-page-num="1" data-num-pages="7">
+        
+
+<div class="content">
+
+    
+  
+                            <div class="media-area two-thirds-width">
+
+                                                                                                                    <a href="/Support/Membership"><img alt="Member-home_1540" class="image" height="414" id="responsive-image-92494810-24" src="/image_columns/0046/5478/member-home_1540.jpg?1369087907" width="610" /></a>
+                                
+              
+            </div>
+            
+                      <div class="text-area one-third-width">
+
+                                        <a href="/Support/Membership">                <h1>Support the Whitney</h1>
+                <h1 class="gray">Become a member!</h1>
+            </a>            
+            
+
+            <div class="buttons"><a href="/Support/Membership">Join</a> <a href="/Support/Membership/Benefits">Renew</a> <a href="/Support/Membership/AutoRenewalProgram">Auto-renew</a> <a href="/Support/Membership/Benefits">Give a gift membership</a></div>
+
+          </div>
+        
+  
+  
+</div>
+
+      </div>
+  
+    </div>
+  </div>
+</div>
+
+  
+</div>
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            <a name="mmi_81427"></a><div id="mmi_81427"
+    class="magic-module page-magic-module social-zipper-module full-width"
+    style="" data-id="381" data-instance-id="81427">
+
+  
+  
+  
+    <div class="wrapper">
+        <script type="text/javascript">
+    jQuery(function() {
+
+        var $container  = jQuery('.zipper-content'),
+            clean_tweet = "Here\'s #Warhol\'s Ethel Scull 36 Times at the final stage of installation. http://t.co/1fBJDMn3DI";
+
+            $container.html(ify.clean(clean_tweet));
+            $container.append('&nbsp;&nbsp;&nbsp; <a class="twitter-handle" target="_blank" href="https://twitter.com/whitneymuseum">@whitneymuseum</a>');
+    });
+</script>
+
+
+<div class="social-icon-wrapper">
+  <a class="social-icon twitter" target="_blank" href="https://twitter.com/whitneymuseum">Twitter</a>
+</div>
+
+<div class="zipper-content">
+</div>
+    </div>
+
+
+
+  
+</div>
+                                
+                  </div>
+                    
+
+      
+        
+        <div class="horizontal-divider-module full-width no-gutters">
+
+          
+                    
+                      
+            <div id="mmi_88773" class="column-module column-module-1 one-third-width no-gutters">
+                                                                <a name="mmi_94570"></a><div id="mmi_94570"
+    class="magic-module page-magic-module image-module one-third-width"
+    style="" data-id="141308" data-instance-id="94570">
+
+  
+  
+  
+
+
+
+
+  <span id="mmi_94570-img-container">
+
+    <a class="a-img" href="/Exhibitions/JeffKoons#mmi_95508"><img alt="Jeff Koons, Balloon Dog (Yellow), 1994&ndash;2000. Mirror-polished stainless steel with transparent color coating; 121 &times; 143 &times; 45 in. (307.3 &times; 363.2 &times; 114.3 cm). Private collection. &copy; Jeff Koons" height="281" id="responsive-image-92494810-25" src="/image_columns/0059/2425/celebration_e.2013.0129_balloon_dog-yellow_740.jpg?1403799551" title="&lt;p&gt;Jeff Koons, &lt;i&gt;Balloon Dog (Yellow)&lt;/i&gt;, 1994&ndash;2000. Mirror-polished stainless steel with transparent color coating; 121 &times; 143 &times; 45 in. (307.3 &times; 363.2 &times; 114.3 cm). Private collection. &copy; Jeff Koons&lt;/p&gt;" width="290" /></a>
+  </span>
+      
+  
+
+
+
+
+
+
+
+
+  
+</div>
+                                            
+                          </div>
+                      
+            <div id="mmi_88772" class="column-module column-module-2 two-thirds-width no-gutters">
+                                                                <a name="mmi_86835"></a><div id="mmi_86835"
+    class="magic-module page-magic-module announcement-module two-thirds-width"
+    style="" data-id="50825" data-instance-id="86835">
+
+  
+  
+    <div class="announcement-module-display xlarge-size">
+
+    <div class="announcement-module-box announcement-module-link"
+
+        onclick="window.location='/Exhibitions/JeffKoons#mmi_95508'">
+
+                <div class="title">
+              
+
+              
+                              <h2><a href="/Exhibitions/JeffKoons#mmi_95508">Explore Jeff Koons: A Retrospective Online</a></h2>
+              
+                        </div>
+      
+
+
+      
+      
+
+      
+      <div class="text"><p>Learn about the work, from Pre-New to Celebration</p></div>
+
+    </div>
+
+
+    <div class="read-more">
+
+              <a href="/Exhibitions/JeffKoons#mmi_95508" class="large-button">Read More</a>
+      
+          </div>
+
+
+  </div>
+
+
+  
+</div>
+                                            
+                          </div>
+                    
+
+                </div>
+              
+        
+        <div class="horizontal-divider-module full-width separator-line no-gutters">
+
+                        <div class="horizontal-divider-module-separator-line"></div>
+          
+                    
+                      
+            <div id="mmi_81783" class="column-module column-module-1 full-width no-gutters">
+                                                                <a name="mmi_19830"></a><div id="mmi_19830"
+    class="magic-module page-magic-module events-module full-width rail-module no-gutters"
+    style="" data-id="9665" data-instance-id="19830">
+
+  
+  
+  <div class="content">
+
+
+    
+    
+    <h2 class="title">
+
+        
+            <a href="/Events">Events</a>
+            </h2>
+
+
+        <div class="events arrowable rail">
+
+      <div id="Rail19830" class="swipe rail-pages-container">
+          <div class="swipe-wrap rail-pages" id="mmi_19830-rail-pages" data-num-pages="7" data-page-num="1" data-page-to-load="1">
+            
+
+
+
+    
+    <div class="rail-page" data-page-num="1" data-num-pages="7">
+
+    
+    
+        <div class="event item">
+                    <div class="when"><h2><a href="/Visit/FreeTours">Daily</a></h2></div>
+                        <div class="thumbnail">
+                <a href="/Visit/FreeTours"><img alt="Free Daily Tours" height="40" id="responsive-image-92494810-26" src="/image_columns/0058/9085/koons08_800_200.jpg?1401763873" title="" width="80" /></a>
+              </div>
+                    
+          <div class="title"><a href="/Visit/FreeTours">Free public tours of exhibitions and the Whitney&#8217;s Collection</a></div>
+          <div class="category">Free Daily Tours</div>
+          <div class="times"><a href="/Visit/FreeTours">Click for daily times</a></div>
+        </div>
+
+    
+    
+    
+        <div class="event item">
+          
+          <div class="when">
+                            <h2><a href="/Events/JeffKoonsAndThe1980s">Mon,<br />July&nbsp;14</a></h2>
+                      </div>
+
+                        <div class="thumbnail">
+              <a href="/Events/JeffKoonsAndThe1980s"><img alt="Jeff Koons, Moses, 1985. Framed Nike poster; 45 1&frasl;2 x 31 1&frasl;2 in. (115.6 &times; 80 cm). Edition no. 1/2. The Sonnabend Collection and the Sonnabend Estate. &copy; Jeff Koons" height="118" id="responsive-image-92494810-27" src="/image_columns/0058/9074/web_koons17_542_200.jpg?1401735576" title="" width="80" /></a>
+              </div>
+          
+          <div class="title">
+                            <a href="/Events/JeffKoonsAndThe1980s">Jeff Koons and the 1980s</a>
+                      </div>
+
+                                                    
+              <div class="category">
+                Member Events: Patron, Circle, Fellow, Sponsor, and Contemporaries Patron members.
+              </div>
+          
+          <div class="times">
+            7&nbsp;PM
+          </div>
+        </div>
+    
+        <div class="event item">
+          
+          <div class="when">
+                            <h2><a href="/Events/MemberPreviewDayShapingACollection">Wed,<br />July&nbsp;16</a></h2>
+                      </div>
+
+                        <div class="thumbnail">
+              <a href="/Events/MemberPreviewDayShapingACollection"><img alt="Jean-Michel Basquiat, Hollywood Africans, 1983. Synthetic polymer and mixed media on canvas, 84 &times; 84 in. (213.4 &times; 213.4 cm). Whitney Museum of American Art, New York; gift of Douglas S. Cramer &nbsp;84.23. &copy; 2009 The Estate of Jean-Michel Basquiat / ADAGP, Paris / Artists Rights Society (ARS), New York" height="80" id="responsive-image-92494810-28" src="/image_columns/0059/1818/84.23_basquiat_imageprimacy_2322_200.jpg?1403646209" title="" width="80" /></a>
+              </div>
+          
+          <div class="title">
+                            <a href="/Events/MemberPreviewDayShapingACollection">Member Preview Day</a>
+                      </div>
+
+                                                    
+              <div class="category">
+                Member Events: All members, plus one guest
+              </div>
+          
+          <div class="times">
+            12&ndash;6&nbsp;PM
+          </div>
+        </div>
+    
+        <div class="event item">
+          
+          <div class="when">
+                            <h2><a href="/Events/HudsonValley2014">Sat,<br />July&nbsp;19</a></h2>
+                      </div>
+
+                        <div class="thumbnail">
+              <a href="/Events/HudsonValley2014"><img alt="Photograph by Brian Wilcox, The Granary" height="52" id="responsive-image-92494810-29" src="/image_columns/0058/9896/granary_exterior_photo_200.jpg?1403113028" title="" width="80" /></a>
+              </div>
+          
+          <div class="title">
+                            <a href="/Events/HudsonValley2014">Whitney Contemporaries Travel: Hudson Valley and Northwest Connecticut</a>
+                      </div>
+
+                                                    
+              <div class="category">
+                Contemporaries Events: Whitney Contemporaries Patrons
+              </div>
+          
+          <div class="times">
+            9:30&nbsp;AM&ndash;5:30&nbsp;PM
+          </div>
+        </div>
+    
+        <div class="event item">
+          
+          <div class="when">
+                            <h2><a href="/Events/JeffKoonsFamilyOpening">Sat,<br />July&nbsp;19</a></h2>
+                      </div>
+
+                        <div class="thumbnail">
+              <a href="/Events/JeffKoonsFamilyOpening"><img alt="Jeff Koons, Elephant, 2003. Mirror-polished stainless steel with transparent color coating; 36 1&frasl;2 x 29 &times; 19 in. (92.7 &times; 73.7 &times; 48.3 cm). Private collection. &copy; Jeff Koons" height="107" id="responsive-image-92494810-30" src="/image_columns/0058/9573/elephant_200.jpg?1402332305" title="" width="80" /></a>
+              </div>
+          
+          <div class="title">
+                            <a href="/Events/JeffKoonsFamilyOpening">Jeff Koons Family Opening</a>
+                      </div>
+
+                                                    
+              <div class="category">
+                Free Events
+              </div>
+          
+          <div class="times">
+            9:30&nbsp;AM&ndash;12&nbsp;PM
+          </div>
+        </div>
+    
+        <div class="event item">
+          
+          <div class="when">
+                            <h2><a href="/Events/JeffKoonsTeenEvent">Sat,<br />July&nbsp;19</a></h2>
+                      </div>
+
+                        <div class="thumbnail">
+              <a href="/Events/JeffKoonsTeenEvent"><img alt="Jeff Koons, Olive Oyl, 2003. Oil on canvas; 108 &times; 84 in. (274.3 &times; 213.4 cm). Private collection. &copy; Jeff Koons" height="103" id="responsive-image-92494810-31" src="/image_columns/0059/1387/koons38_619_200.jpg?1403534413" title="" width="80" /></a>
+              </div>
+          
+          <div class="title">
+                            <a href="/Events/JeffKoonsTeenEvent">Teen Event: Jeff Koons</a>
+                      </div>
+
+                                                    
+              <div class="category">
+                Teen Events: New York City teens in grades 9–12
+              </div>
+          
+          <div class="times">
+            2&ndash;4:30&nbsp;PM
+          </div>
+        </div>
+    
+
+    
+
+    
+    
+
+</div>
+
+
+
+    
+    <div class="rail-page" data-page-num="2" data-num-pages="6">
+
+    
+    
+    
+    
+        <div class="event item">
+          
+          <div class="when">
+                            <h2><a href="/Events/MemberSaturdayNightJuly2014">Sat,<br />July&nbsp;19</a></h2>
+                      </div>
+
+                        <div class="thumbnail">
+              <a href="/Events/MemberSaturdayNightJuly2014"><img alt="Whitney Museum of American Art, New   York, NY. Architect: Marcel Breuer. Photograph by Ezra Stoller. &copy; Ezra Stoller / Esto" height="91" id="responsive-image-92494810-32" src="/image_columns/0007/7581/stoller_night_200.jpg?1367872580" title="" width="80" /></a>
+              </div>
+          
+          <div class="title">
+                            <a href="/Events/MemberSaturdayNightJuly2014">Member Saturday Night</a>
+                      </div>
+
+                                                    
+              <div class="category">
+                Member Events: All members, plus one guest
+              </div>
+          
+          <div class="times">
+            6:30&ndash;8:30&nbsp;PM
+          </div>
+        </div>
+    
+        <div class="event item">
+          
+          <div class="when">
+                            <h2><a href="/Events/WhitneyWeesJuly2014">Sat,<br />July&nbsp;26</a></h2>
+                      </div>
+
+                        <div class="thumbnail">
+              <a href="/Events/WhitneyWeesJuly2014"><img alt="A family on a Whitney Wees tour during the Whitney Biennial, March 2014. Photograph by Filip Wolak" height="53" id="responsive-image-92494810-33" src="/image_columns/0058/9595/whitney_wees_biennial_filip_wolak_200.jpg?1402337506" title="" width="80" /></a>
+              </div>
+          
+          <div class="title">
+                            <a href="/Events/WhitneyWeesJuly2014">Whitney Wees: Materials and Illusions!</a>
+                      </div>
+
+                                                    
+              <div class="category">
+                Family Tours
+              </div>
+          
+          <div class="times">
+            10:30&ndash;11:30&nbsp;AM
+          </div>
+        </div>
+    
+        <div class="event item">
+          
+          <div class="when">
+                            <h2><a href="/Events/SketchingTourJeffKoons">Sat,<br />July&nbsp;26</a></h2>
+                      </div>
+
+                        <div class="thumbnail">
+              <a href="/Events/SketchingTourJeffKoons"><img alt="Siblings draw together at a family program during the Whitney Biennial, May 2014. Photograph by Filip Wolak" height="57" id="responsive-image-92494810-34" src="/image_columns/0058/9587/july_sk_t_artist_s_choice_sgr_5.17.14_filip_wolak_200.jpg?1402337505" title="" width="80" /></a>
+              </div>
+          
+          <div class="title">
+                            <a href="/Events/SketchingTourJeffKoons">Sketching Tour: Transforming Objects</a>
+                      </div>
+
+                                                    
+              <div class="category">
+                Family Tours
+              </div>
+          
+          <div class="times">
+            10:30&ndash;11:30&nbsp;AM
+          </div>
+        </div>
+    
+        <div class="event item">
+          
+          <div class="when">
+                            <h2><a href="/Events/JeffKoonsGalleryExperimentsJuly">Sat,<br />July&nbsp;26</a></h2>
+                      </div>
+
+                        <div class="thumbnail">
+              <a href="/Events/JeffKoonsGalleryExperimentsJuly"><img alt="Jeff Koons, One Ball Total Equilibrium Tank (Spalding Dr. J 241 Series), 1985. Glass, steel, sodium chloride reagent, distilled water, and basketball; 64 3/4 &times; 30 3/4 &times; 13 1/4 in. (164.5 &times; 78.1 &times; 33.7 cm). B.Z. and Michael Schwartz. &copy; Jeff Koons" height="152" id="responsive-image-92494810-35" src="/image_columns/0058/9580/one-ball-total_419_200.jpg?1402332754" title="" width="80" /></a>
+              </div>
+          
+          <div class="title">
+                            <a href="/Events/JeffKoonsGalleryExperimentsJuly">Try This! Gallery Experiments</a>
+                      </div>
+
+                                                    
+              <div class="category">
+                Free Events
+              </div>
+          
+          <div class="times">
+            11:30&nbsp;AM&ndash;2:30&nbsp;PM
+          </div>
+        </div>
+    
+        <div class="event item">
+          
+          <div class="when">
+                            <h2><a href="/Events/SketchingTourJeffKoonsAugust">Sat,<br />Aug&nbsp;2</a></h2>
+                      </div>
+
+                        <div class="thumbnail">
+              <a href="/Events/SketchingTourJeffKoonsAugust"><img alt="Kids draw together at a family program during the Whitney Biennial, May 2014. Photograph by Filip Wolak" height="53" id="responsive-image-92494810-36" src="/image_columns/0059/3213/aug_skt_artist_s_choice_joshua_mosley_200.jpg?1404250744" title="" width="80" /></a>
+              </div>
+          
+          <div class="title">
+                            <a href="/Events/SketchingTourJeffKoonsAugust">Sketching Tour: Material Qualities</a>
+                      </div>
+
+                                                    
+              <div class="category">
+                Family Tours
+              </div>
+          
+          <div class="times">
+            10:30&ndash;11:30&nbsp;AM
+          </div>
+        </div>
+    
+        <div class="event item">
+          
+          <div class="when">
+                            <h2><a href="/Events/WhitneyWeesAugust2014">Sat,<br />Aug&nbsp;2</a></h2>
+                      </div>
+
+                        <div class="thumbnail">
+              <a href="/Events/WhitneyWeesAugust2014"><img alt="A family on a Whitney Wees tour during the Biennial, March 2014. Photograph by Filip Wolak" height="53" id="responsive-image-92494810-37" src="/image_columns/0059/3220/aug_whitney_wees_biennial_200.jpg?1404251420" title="" width="80" /></a>
+              </div>
+          
+          <div class="title">
+                            <a href="/Events/WhitneyWeesAugust2014">Whitney Wees: Colors, Reflections, and Scale!</a>
+                      </div>
+
+                                                    
+              <div class="category">
+                Family Tours
+              </div>
+          
+          <div class="times">
+            10:30&ndash;11:30&nbsp;AM
+          </div>
+        </div>
+    
+
+    
+
+    
+    
+
+</div>
+
+
+
+          </div>
+      </div>
+
+      
+      <span class="pager-arrow inactive previous rail" data-page-num-parameter="page_num" data-url="/ajax/magic_modules/events_module/page?id=9665&amp;page_id=271528">Previous</span><span class="pager-arrow next rail" data-page-num-parameter="page_num" data-url="/ajax/magic_modules/events_module/page?id=9665&amp;page_id=271528">Next</span>
+      
+    </div>
+
+</div>
+
+
+  
+</div>
+                                            
+                          </div>
+                    
+
+                </div>
+              
+        
+        <div class="horizontal-divider-module full-width separator-line no-gutters">
+
+                        <div class="horizontal-divider-module-separator-line"></div>
+          
+                    
+                      
+            <div id="mmi_81421" class="column-module column-module-1 one-third-width no-gutters">
+                                                                <a name="mmi_81422"></a><div id="mmi_81422"
+    class="magic-module page-magic-module your-membership-module one-third-width"
+    style="" data-id="176" data-instance-id="81422">
+
+  
+  
+  
+<h2 class="your-membership-title">Your Membership</h2>
+
+
+    <a class="membership-button" href="/Support/Membership">Join now</a>
+
+<div class="membership-text">
+  
+    
+    <p><a class="login mmi_81422" href="#" id="username" onclick="new Ajax.Request('/ajax/magic_modules/login_module/insert?before=mmi_81421&amp;page_id=271528', {asynchronous:true, evalScripts:true, onComplete:function(request){make_cut_from('mmi_81422')}, onLoading:function(request){$('mmi_81422').addClassName('loading')}}); return false;">Log in</a> to manage your Museum membership online.</p>
+  
+    <p>Not a member? Learn all about the unique benefits available to Whitney members, and choose the level of membership that’s right for you!</p>
+
+    <a href="/Support/Membership">Read more</a>
+</div>
+
+
+  
+</div>
+                                            
+                          </div>
+                      
+            <div id="mmi_81423" class="column-module column-module-2 one-third-width no-gutters">
+                                                                <a name="mmi_81424"></a><div id="mmi_81424"
+    class="magic-module page-magic-module your-events-module one-third-width"
+    style="" data-id="174" data-instance-id="81424">
+
+  
+  
+  
+
+
+<h2 class="your-events-title">Your Events</h2>
+
+
+  <a class="membership-button" href="/Login">Join now</a>
+
+
+<div class="your-events-text">
+  
+    <p>For You: <a class="login mmi_81424" href="#" id="username" onclick="new Ajax.Request('/ajax/magic_modules/login_module/insert?before=mmi_81421&amp;page_id=271528', {asynchronous:true, evalScripts:true, onComplete:function(request){make_cut_from('mmi_81424')}, onLoading:function(request){$('mmi_81424').addClassName('loading')}}); return false;">Sign up</a> or <a class="login mmi_81424" href="#" id="username" onclick="new Ajax.Request('/ajax/magic_modules/login_module/insert?before=mmi_81421&amp;page_id=271528', {asynchronous:true, evalScripts:true, onComplete:function(request){make_cut_from('mmi_81424')}, onLoading:function(request){$('mmi_81424').addClassName('loading')}}); return false;">Log in</a> to customize your calendar with events tailored especially to your interests.</p>
+  
+</div>
+
+  
+</div>
+                                            
+                          </div>
+                      
+            <div id="mmi_81425" class="column-module column-module-3 one-third-width no-gutters">
+                                                                <a name="mmi_81793"></a><div id="mmi_81793"
+    class="magic-module page-magic-module image-grid-module one-third-width no-gutters"
+    style="" data-id="22500" data-instance-id="81793">
+
+  
+  
+  
+    <div class="title">
+      
+          
+              <h2><a href="/Collection/WorksOnViewNow">Works on View Now</a></h2>
+          
+      
+      
+    </div>
+
+
+<div class="images half-size" id="mmi_81793-page">
+  
+
+
+
+
+    
+    <div class="image one-twelfth-width">
+
+      <a href="/Collection/WorksOnViewNow"><img alt="Jeff Koons, New Hoover Convertibles, Green, Blue; New Hoover Convertibles, Green, Blue; Double-Decker, 1981–87. Vacuum cleaners, plexiglass, and fluorescent lights, 116 &#215; 41 &#215; 28 in. (294.6 &#215; 104.1 &#215; 71.1 cm). Whitney Museum of American Art, New York; purchase with funds from The Sondra and Charles Gilman Jr. Foundation Inc. and the Painting and Sculpture&nbsp;Committee&nbsp; 89.30a-v&nbsp;&nbsp;&#169; Jeff Koons" class="tooltip" height="83" id="responsive-image-92494810-38" src="/image_columns/0029/7112/2l_convertibles4_dd-cmyk-1_170.jpg?1369065765" title="&lt;div class=&quot;artwork-caption-basic&quot;&gt;&lt;a href=&quot;/Collection/JeffKoons&quot;&gt;Jeff Koons&lt;/a&gt;, &lt;i&gt;&lt;a href=&quot;/Collection/JeffKoons/8930av&quot;&gt;New Hoover Convertibles, Green, Blue; New Hoover Convertibles, Green, Blue; Double-Decker&lt;/a&gt;&lt;/i&gt;, 1981–87. Vacuum cleaners, plexiglass, and fluorescent lights, 116 &#215; 41 &#215; 28 in. (294.6 &#215; 104.1 &#215; 71.1 cm). Whitney Museum of American Art, New York; purchase with funds from The Sondra and Charles Gilman Jr. Foundation Inc. and the Painting and Sculpture&nbsp;Committee&nbsp; &lt;span class=&quot;accession-number&quot;&gt;89.30a-v&lt;/span&gt;&nbsp;&nbsp;&lt;img src=&quot;/ui/on-view-pin.gif&quot; width=&quot;10&quot; height=&quot;10&quot; title=&quot;On view in the museum&quot; alt=&quot;On view&quot; align=&quot;baseline&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;artwork-caption-image-rights&quot;&gt;&#169; Jeff Koons&lt;/div&gt;" width="65" /></a>
+
+      
+
+      
+      
+    </div>
+
+
+    
+    <div class="image one-twelfth-width last">
+
+      <a href="/Collection/WorksOnViewNow"><img alt="Charles Simonds, Dwellings, 1981. Part one of a three-part sculpture. Clay, sand, sticks, stones, wood, plaster, cloth, wood, and chicken wire, 17 3/4 &#215; 39 1/2 &#215; 29 in. (45.1 &#215; 100.3 &#215; 73.7 cm). Whitney Museum of American Art, New York; purchase with funds from the Louis and Bessie Adler Foundation Inc., Seymour M. Klein,&nbsp;President&nbsp; 81.11a-c&nbsp;&nbsp;&#169; 2009 Charles Simonds / Artists Rights Society (ARS), New York" class="tooltip" height="29" id="responsive-image-92494810-39" src="/image_columns/0001/6390/81.11a-d_simonds_imageprimacy_v1_compressed_170.jpg?1367852085" title="&lt;div class=&quot;artwork-caption-basic&quot;&gt;&lt;a href=&quot;/Collection/CharlesSimonds&quot;&gt;Charles Simonds&lt;/a&gt;, &lt;i&gt;&lt;a href=&quot;/Collection/CharlesSimonds&quot;&gt;Dwellings&lt;/a&gt;&lt;/i&gt;, 1981. Part one of a three-part sculpture. Clay, sand, sticks, stones, wood, plaster, cloth, wood, and chicken wire, 17 3/4 &#215; 39 1/2 &#215; 29 in. (45.1 &#215; 100.3 &#215; 73.7 cm). Whitney Museum of American Art, New York; purchase with funds from the Louis and Bessie Adler Foundation Inc., Seymour M. Klein,&nbsp;President&nbsp; &lt;span class=&quot;accession-number&quot;&gt;81.11a-c&lt;/span&gt;&nbsp;&nbsp;&lt;img src=&quot;/ui/on-view-pin.gif&quot; width=&quot;10&quot; height=&quot;10&quot; title=&quot;On view in the museum&quot; alt=&quot;On view&quot; align=&quot;baseline&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;artwork-caption-image-rights&quot;&gt;&#169; 2009 Charles Simonds / Artists Rights Society (&lt;a href=&quot;/Collection/RightsAndReproductions&quot;&gt;&lt;span class=&quot;caps&quot;&gt;&lt;span class=&quot;caps&quot;&gt;ARS&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;), New York&lt;/div&gt;" width="65" /></a>
+
+      
+
+      
+      
+    </div>
+
+
+
+
+
+</div>
+
+    <div class="text">
+      <p>Learn more about works from the Museum&#8217;s permanent collection currently on view in the galleries.&nbsp;</p>
+    </div>
+
+    <div class="link">
+        
+        <a href="/Collection/WorksOnViewNow">Explore</a>
+    </div>
+
+
+  
+</div>
+                                            
+                          </div>
+                    
+
+                </div>
+              
+        
+        <div class="horizontal-divider-module full-width separator-line no-gutters">
+
+                        <div class="horizontal-divider-module-separator-line"></div>
+          
+                    
+                      
+            <div id="mmi_19832" class="column-module column-module-1 full-width no-gutters">
+                                                                <a name="mmi_81428"></a><div id="mmi_81428"
+    class="magic-module page-magic-module user-collections-rail-module full-width rail-module no-gutters"
+    style="" data-id="276" data-instance-id="81428">
+
+  
+  
+  <div class="wrapper">
+
+  
+
+    
+    <h2>Recent Collections By Visitors Online</h2>
+  
+
+  <div class="collections arrowable rail">
+
+    <div id="Rail81428" class="swipe rail-pages-container">
+      <div class="swipe-wrap rail-pages" id="mmi_81428-rail-pages" data-num-pages="442" data-page-num="1" data-page-to-load="1">
+        
+
+
+        <div class="rail-page" data-page-num="1" data-num-pages="442">
+                
+          <div class="collection-block">
+            
+            <div class="images">
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/RaphaelSoyer/3659"><img alt="36" class="tooltip" height="44" id="responsive-image-92494810-40" src="/image_columns/0004/5167/36.59_soyer_imageprimacy_170.jpg?1367851926" title="Raphael Soyer, &lt;i&gt;The Mission&lt;/i&gt;,&nbsp;1933&nbsp; &lt;span class=&quot;accession-number&quot;&gt;36.59&lt;/span&gt;" width="65" /></a>
+                  </div>
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/PeterBlume"><img alt="33" class="tooltip" height="56" id="responsive-image-92494810-41" src="/image_columns/0023/7121/33.5_blume_170.jpg?1369062809" title="Peter Blume, &lt;i&gt;Light of the World&lt;/i&gt;,&nbsp;1932&nbsp; &lt;span class=&quot;accession-number&quot;&gt;33.5&lt;/span&gt;" width="65" /></a>
+                  </div>
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/BereniceAbbott"><img alt="99" class="tooltip" height="81" id="responsive-image-92494810-42" src="/image_columns/0023/7377/99.4_abbott_170.jpg?1368204049" title="Berenice Abbott, &lt;i&gt;Untitled (Foyer of the Whitney Museum of American Art on 8th Street, &lt;span class=&quot;caps&quot;&gt;NYC&lt;/span&gt;)&lt;/i&gt;,&nbsp;1938&nbsp; &lt;span class=&quot;accession-number&quot;&gt;99.4&lt;/span&gt;" width="65" /></a>
+                  </div>
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/AABronson/2003268/"><img alt="2003" class="tooltip" height="32" id="responsive-image-92494810-43" src="/image_columns/0001/7613/2003.268_bronson_imageprimacy_compressed_170.jpg?1369011657" title="AA Bronson, &lt;i&gt;Felix Partz, June 5, 1994&lt;/i&gt;, 1994 and&nbsp;1999&nbsp; &lt;span class=&quot;accession-number&quot;&gt;2003.268&lt;/span&gt;" width="65" /></a>
+                  </div>
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/OscarBluemner/31115"><img alt="31" class="tooltip" height="85" id="responsive-image-92494810-44" src="/image_columns/0004/4827/31.115_bluemner_imageprimacy_158.jpg?1372283053" title="Oscar Bluemner, &lt;i&gt;Last Evening of the Year&lt;/i&gt;, c.&nbsp;1929&nbsp; &lt;span class=&quot;accession-number&quot;&gt;31.115&lt;/span&gt;" width="60" /></a>
+                  </div>
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/PeterHalley/9228aD/"><img alt="92" class="tooltip" height="32" id="responsive-image-92494810-45" src="/image_columns/0004/5399/92.28a-d_halley_imageprimacy_170.jpg?1368204219" title="Peter Halley, &lt;i&gt;The Acid Test&lt;/i&gt;,&nbsp;1991–92&nbsp; &lt;span class=&quot;accession-number&quot;&gt;92.28a-d&lt;/span&gt;" width="65" /></a>
+                  </div>
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/AgnesPelton"><img alt="96" class="tooltip" height="85" id="responsive-image-92494810-46" src="/image_columns/0023/7470/96.175_pelton_146.jpg?1372282872" title="Agnes Pelton, &lt;i&gt;Untitled&lt;/i&gt;,&nbsp;1931&nbsp; &lt;span class=&quot;accession-number&quot;&gt;96.175&lt;/span&gt;" width="56" /></a>
+                  </div>
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/GuyPNeDuBois/"><img alt="31" class="tooltip" height="85" id="responsive-image-92494810-47" src="/image_columns/0008/6097/31.184_du-bois_imageprimacy_170.jpg?1367852025" title="Guy  Pène du Bois, &lt;i&gt;Opera Box&lt;/i&gt;,&nbsp;1926&nbsp; &lt;span class=&quot;accession-number&quot;&gt;31.184&lt;/span&gt;" width="65" /></a>
+                  </div>
+                          </div>
+
+                            <div class="information">
+                  <div class="title"><a href="/UserCollection?collection=tjf2hagu3r">Inspire me</a></div>
+                  <div class="author"><a href="/UserCollection?collection=tjf2hagu3r">Bill G.</a></div>
+                </div>
+            
+          </div>
+
+                
+          <div class="collection-block">
+            
+            <div class="images">
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/RoyLichtenstein/662/"><img alt="66" class="tooltip" height="55" id="responsive-image-92494810-48" src="/image_columns/0004/5208/66.2_lichtenstein_imageprimacy_170.jpg?1367852076" title="Roy Lichtenstein, &lt;i&gt;Little Big Painting&lt;/i&gt;,&nbsp;1965&nbsp; &lt;span class=&quot;accession-number&quot;&gt;66.2&lt;/span&gt;" width="65" /></a>
+                  </div>
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/EverettShinn/"><img alt="31" class="tooltip" height="49" id="responsive-image-92494810-49" src="/image_columns/0004/5157/31.346_shinn_imageprimacy_170.jpg?1367852087" title="Everett Shinn, &lt;i&gt;Revue&lt;/i&gt;,&nbsp;1908&nbsp; &lt;span class=&quot;accession-number&quot;&gt;31.346&lt;/span&gt;" width="65" /></a>
+                  </div>
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/RoyLichtenstein/2002254/"><img alt="2002" class="tooltip" height="79" id="responsive-image-92494810-50" src="/image_columns/0004/4907/2002.254_lichtenstein_imageprimacy_170.jpg?1367852077" title="Roy Lichtenstein, &lt;i&gt;Girl in Window (Study for World&#8217;s Fair Mural)&lt;/i&gt;,&nbsp;1963&nbsp; &lt;span class=&quot;accession-number&quot;&gt;2002.254&lt;/span&gt;" width="65" /></a>
+                  </div>
+                          </div>
+
+                            <div class="information">
+                  <div class="title"><a href="/UserCollection?collection=13dw0507fty">Jumble</a></div>
+                  <div class="author"><a href="/UserCollection?collection=13dw0507fty">Marisa K.</a></div>
+                </div>
+            
+          </div>
+
+      
+                
+          <div class="new-collection-block">
+            <a class="new-collection-button" href="#" id="mmi_81428" onclick="new Ajax.Request('/ajax/magic_modules/user_collection_module/choose_collection_for_adding?before=mmi_81428&amp;create=true&amp;magic_module_instance_id=81428&amp;page_id=271528', {asynchronous:true, evalScripts:true, onComplete:function(request){make_cut_from('mmi_81428')}, onLoading:function(request){$('mmi_81428').addClassName('loading')}}); return false;">#<UserCollectionsRailModule:0x10fd8f30></a>
+
+            <div class="information">
+              <div class="title"></div>
+              <div class="description">Collect objects from the Museum&rsquo;s collection online.</div>
+            </div>
+          </div>
+      
+    </div>
+
+
+        <div class="rail-page" data-page-num="2" data-num-pages="442">
+                
+          <div class="collection-block">
+            
+            <div class="images">
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/JacobLawrence/5119"><img alt="51" class="tooltip" height="85" id="responsive-image-92494810-51" src="/image_columns/0009/4649/51.19_lawrence_imageprimacy_170.jpg?1367852114" title="Jacob Lawrence, &lt;i&gt;War Series: Victory&lt;/i&gt;,&nbsp;1947&nbsp; &lt;span class=&quot;accession-number&quot;&gt;51.19&lt;/span&gt;" width="65" /></a>
+                  </div>
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/JeanMichelBasquiat/9183"><img alt="91" class="tooltip" height="65" id="responsive-image-92494810-52" src="/image_columns/0004/4898/91.83_basquiat_imageprimacy_170.jpg?1367852020" title="Jean-Michel Basquiat, &lt;i&gt;&#8220;&lt;span class=&quot;caps&quot;&gt;LNAPRK&lt;/span&gt;&#8221;&lt;/i&gt;,&nbsp;1982&nbsp; &lt;span class=&quot;accession-number&quot;&gt;91.83&lt;/span&gt;" width="65" /></a>
+                  </div>
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/RHQuaytman/201056"><img alt="2010" class="tooltip" height="39" id="responsive-image-92494810-53" src="/image_columns/0023/7105/2010.56_quaytman_distracting_distance_chapter_16_170.jpg?1368124427" title="R. H. Quaytman, &lt;i&gt;Distracting Distance, Chapter 16&lt;/i&gt;,&nbsp;2010&nbsp; &lt;span class=&quot;accession-number&quot;&gt;2010.56&lt;/span&gt;" width="65" /></a>
+                  </div>
+                          </div>
+
+                            <div class="information">
+                  <div class="title"><a href="/UserCollection?collection=tjf28t6q4j">Sample Collection </a></div>
+                  <div class="author"><a href="/UserCollection?collection=tjf28t6q4j">Dominic G.</a></div>
+                </div>
+            
+          </div>
+
+                
+          <div class="collection-block">
+            
+            <div class="images">
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/MoiraDryer"><img alt="2006" class="tooltip" height="58" id="responsive-image-92494810-54" src="/image_columns/0032/3562/2006.39_dryer_170.jpg?1367851993" title="Moira Dryer, &lt;i&gt;Untitled&lt;/i&gt;,&nbsp;1992&nbsp; &lt;span class=&quot;accession-number&quot;&gt;2006.39&lt;/span&gt;" width="65" /></a>
+                  </div>
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/LarryClark/"><img alt="92" class="tooltip" height="85" id="responsive-image-92494810-55" src="/image_columns/0006/0916/92.111.1-10_clark_imageprimacy_p1_150.jpg?1372283202" title="Larry Clark, &lt;i&gt;Untitled&lt;/i&gt;, 1968, from &lt;i&gt;Tulsa,&nbsp;&lt;em&gt;1963–71&lt;/em&gt;&lt;/i&gt;&nbsp; &lt;span class=&quot;accession-number&quot;&gt;92.111.2&lt;/span&gt;" width="57" /></a>
+                  </div>
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/WilliamWegman/9214"><img alt="92" class="tooltip" height="66" id="responsive-image-92494810-56" src="/image_columns/0023/7560/92.14_wegman_170.jpg?1367852070" title="William Wegman, &lt;i&gt;Cotto&lt;/i&gt;,&nbsp;1970&nbsp; &lt;span class=&quot;accession-number&quot;&gt;92.14&lt;/span&gt;" width="65" /></a>
+                  </div>
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/DavidWojnarowicz/"><img alt="2002" class="tooltip" height="49" id="responsive-image-92494810-57" src="/image_columns/0001/7472/2002.183_wojnarowicz_imageprimacy_compressed_170.jpg?1367847631" title="David Wojnarowicz, &lt;i&gt;Untitled (One day this kid . . .)&lt;/i&gt;,&nbsp;1990&nbsp; &lt;span class=&quot;accession-number&quot;&gt;2002.183&lt;/span&gt;" width="65" /></a>
+                  </div>
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/DanFlavin/71214"><img alt="71" class="tooltip" height="85" id="responsive-image-92494810-58" src="/image_columns/0001/6211/71.214_flavin_imageprimacy_compressed_148.jpg?1372282085" title="Dan Flavin, &lt;i&gt;Untitled&lt;/i&gt;,&nbsp;1964&nbsp; &lt;span class=&quot;accession-number&quot;&gt;71.214&lt;/span&gt;" width="56" /></a>
+                  </div>
+                          </div>
+
+                            <div class="information">
+                  <div class="title"><a href="/UserCollection?collection=1n2tvfq0fry">antronaut</a></div>
+                  <div class="author"><a href="/UserCollection?collection=1n2tvfq0fry">Jiwon Y.</a></div>
+                </div>
+            
+          </div>
+
+                
+          <div class="collection-block">
+            
+            <div class="images">
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/MattSaunders/201082"><img alt="2010" class="tooltip" height="80" id="responsive-image-92494810-59" src="/image_columns/0032/3622/2010.82_saunders_170.jpg?1369011639" title="Matt Saunders, &lt;i&gt;Danger Man #1&lt;/i&gt;,&nbsp;2010&nbsp; &lt;span class=&quot;accession-number&quot;&gt;2010.82&lt;/span&gt;" width="65" /></a>
+                  </div>
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/AdamMcEwen/2006943"><img alt="2006" class="tooltip" height="85" id="responsive-image-92494810-60" src="/image_columns/0004/6275/2006.94.3_mcewen_imageprimacy_v1_compressed_160.jpg?1368066569" title="Adam McEwen, &lt;i&gt;Untitled (Macaulay)&lt;/i&gt;, 2004, from &lt;i&gt;&lt;em&gt;a suite of&nbsp;seven&lt;/em&gt;&lt;/i&gt;&nbsp; &lt;span class=&quot;accession-number&quot;&gt;2006.94.3&lt;/span&gt;" width="61" /></a>
+                  </div>
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/JohnBaldessari/9221/"><img alt="92" class="tooltip" height="84" id="responsive-image-92494810-61" src="/image_columns/0006/6264/92.21_baldessari_imageprimacy_170.jpg?1367848452" title="John Baldessari, &lt;i&gt;An Artist Is Not Merely the Slavish Announcer . . .&lt;/i&gt;,&nbsp;1966–68&nbsp; &lt;span class=&quot;accession-number&quot;&gt;92.21&lt;/span&gt;" width="64" /></a>
+                  </div>
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/ManRay/971402"><img alt="97" class="tooltip" height="76" id="responsive-image-92494810-62" src="/image_columns/0025/7932/97.140.2_ray_170.jpg?1367852118" title="Man Ray, &lt;i&gt;Rayograph&lt;/i&gt;,&nbsp;1924&nbsp; &lt;span class=&quot;accession-number&quot;&gt;97.140.2&lt;/span&gt;" width="65" /></a>
+                  </div>
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/LaurieSimmons/94107/"><img alt="94" class="tooltip" height="84" id="responsive-image-92494810-63" src="/image_columns/0001/6947/94.107_simmons_imageprimacy_v1_compressed_128.jpg?1372283204" title="Laurie Simmons, &lt;i&gt;Walking Camera II (Jimmy the Camera)&lt;/i&gt;,&nbsp;1987&nbsp; &lt;span class=&quot;accession-number&quot;&gt;94.107&lt;/span&gt;" width="48" /></a>
+                  </div>
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/StuartDavis/522/"><img alt="52" class="tooltip" height="81" id="responsive-image-92494810-64" src="/image_columns/0009/3455/52.2_davis_imageprimacy_170.jpg?1368500404" title="Stuart Davis, &lt;i&gt;Owh! in San Paõ&lt;/i&gt;,&nbsp;1951&nbsp; &lt;span class=&quot;accession-number&quot;&gt;52.2&lt;/span&gt;" width="65" /></a>
+                  </div>
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/RichardArtschwager/6648"><img alt="66" class="tooltip" height="49" id="responsive-image-92494810-65" src="/image_columns/0000/9474/66.48_artschwager_imageprimacy_170.jpg?1367851916" title="Richard Artschwager, &lt;i&gt;Description of Table&lt;/i&gt;,&nbsp;1964&nbsp; &lt;span class=&quot;accession-number&quot;&gt;66.48&lt;/span&gt;" width="65" /></a>
+                  </div>
+                                                  
+                  
+                  <div class="image">
+                    <a href="/Collection/PaulThek/9314/"><img alt="93" class="tooltip" height="48" id="responsive-image-92494810-66" src="/image_columns/0001/6898/93.14_thek_imageprimacy1_compressed_170.jpg?1367852920" title="Paul Thek, &lt;i&gt;Untitled&lt;/i&gt;,&nbsp;1966&nbsp; &lt;span class=&quot;accession-number&quot;&gt;93.14&lt;/span&gt;" width="65" /></a>
+                  </div>
+                          </div>
+
+                            <div class="information">
+                  <div class="title"><a href="/UserCollection?collection=13dvsmq6lqc">It's goodddd</a></div>
+                  <div class="author"><a href="/UserCollection?collection=13dvsmq6lqc">Meg F.</a></div>
+                </div>
+            
+          </div>
+
+      
+      
+    </div>
+
+
+
+
+
+
+      </div>
+    </div>
+
+            <span class="pager-arrow inactive previous rail" data-page-num-parameter="page_num" data-url="/ajax/magic_modules/user_collections_rail_module/page?id=276&amp;page_id=271528">Previous</span><span class="pager-arrow next rail" data-page-num-parameter="page_num" data-url="/ajax/magic_modules/user_collections_rail_module/page?id=276&amp;page_id=271528">Next</span>
+    
+            <a class="mobile-button large-button" href="#" id="mmi_81428" onclick="new Ajax.Request('/ajax/magic_modules/user_collection_module/choose_collection_for_adding?before=mmi_81428&amp;create=true&amp;magic_module_instance_id=81428&amp;page_id=271528', {asynchronous:true, evalScripts:true, onComplete:function(request){make_cut_from('mmi_81428')}, onLoading:function(request){$('mmi_81428').addClassName('loading')}}); return false;">Start a collection</a>
+    
+  </div>
+
+</div>
+
+  
+</div>
+                                                                                <a name="mmi_83099"></a>
+
+  
+  
+  
+
+
+    
+
+
+  
+
+                                            
+                          </div>
+                    
+
+                </div>
+                    
+
+      <div style="clear: both;"></div>
+
+      
+      
+
+      
+
+      <a name="mmi_3"></a><div id="mmi_3"
+    class="magic-module page-magic-module page-footer-module full-width no-gutters"
+    style="" data-id="23" data-instance-id="3">
+
+  
+  
+  <div class="horizontal-divider-line with-gutters one-half-space-before"></div>
+<div class="wrapper">
+    <ul class="one-third-width with-gutters inline-block regular">
+      <li><strong>Whitney Museum <br />of American Art</strong></li>
+      <li>945 Madison Avenue <br />at 75th Street</li>
+      <li>New York, NY 10021</li>
+      <li>(212) 570-3600</li>
+      <li>&nbsp;</li>
+      <li><a href="mailto:info@whitney.org">info@whitney.org</a></li>
+    </ul>
+
+    <ul class="one-third-width with-gutters inline-block regular">
+      <li><a class="page-footer-press" href="/Press">Press</a></li>
+      <li><a class="page-footer-contact" href="/Contact">Contact</a></li>
+      <li><a class="page-footer-terms" href="/TermsAndConditions">Terms &amp; Conditions</a></li>
+      <li><a class="page-footer-privacy" href="/PrivacyPolicy">Privacy Policy</a></li>
+      <li>&nbsp;</li>
+      <li class="caption">&copy; 2014<br />Whitney Museum<br />of American Art</li>
+    </ul>
+
+    </div>
+
+  
+</div>
+
+    </div>
+
+  </div>
+
+</div>
+
+
+
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=whitneykat"></script>
+<!-- Lightning Bolt Begins -->
+<script type="text/javascript">
+    var lbTrans = '[TRANSACTION ID]';
+    var lbValue = '[TRANSACTION VALUE]';
+    var lbData = '[Attribute/Value Pairs for Custom Data]';
+    var lb_rn = new String(Math.random()); var lb_rns = lb_rn.substring(2, 12);
+    var boltProtocol = ('https:' == document.location.protocol) ? 'https://' : 'http://';
+    try {
+        var newScript = document.createElement('script');
+        var scriptElement = document.getElementsByTagName('script')[0];
+        newScript.type = 'text/javascript';
+        newScript.id = 'lightning_bolt_' + lb_rns;
+        newScript.src = boltProtocol + 'network.realmedia.com/2/LB/' + lb_rns + '@x96?';
+        scriptElement.parentNode.insertBefore(newScript, scriptElement);
+        scriptElement = null; newScript = null;
+    } catch (e) { }
+</script>
+<!-- Lightning Bolt Ends -->
+
+<script src="/javascripts/bootstrap.js?1369110749" type="text/javascript"></script>
+<script src="/javascripts/paper.js?1369110749" type="text/javascript"></script><script src="/javascripts/responsive-w.js?1373474042" type="text/javascript"></script>
+<script src="/javascripts/jquery.placeholder.min.js?1372703452" type="text/javascript"></script>
+<script src="/javascripts/swipe.js?1373548148" type="text/javascript"></script>
+<script src="/javascripts/rail_module.js?1373548148" type="text/javascript"></script>
+<script src="/javascripts/navigation.js?1369110749" type="text/javascript"></script>
+
+<script src="/javascripts/layout.js?1386194917" type="text/javascript"></script>
+<script src="/javascripts/mega-slideshow-module.js?1386776163" type="text/javascript"></script><script src="/javascripts/search.js?1373647158" type="text/javascript"></script>
+<script src="/javascripts/application.js?1383324884" type="text/javascript"></script>
+</body>
+</html>

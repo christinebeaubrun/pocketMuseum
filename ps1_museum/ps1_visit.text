@@ -1,0 +1,502 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>MoMA PS1: Visit</title>
+
+<link rel="stylesheet" type="text/css" media="screen" href="/css/typography.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/style.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/css/thickbox.css" />
+
+<style type="text/css">
+  
+    #slides{display: block;}
+  
+</style>
+
+<script type="text/javascript" src="/js/jquery.1.9.1.js"></script>
+<script type="text/javascript" src="/js/thickbox.js"></script>
+<script type="text/javascript" src="/js/swfobject.js"></script>
+
+<style type="text/css" media="screen">
+      
+        /*
+          Load CSS before JavaScript
+        */
+        
+        /*
+          Slides container
+          Important:
+          Set the width of your slides container
+          Set to display none, prevents content flash
+        */
+        .slides_container {
+          width:520px;
+          display:none;
+        }
+
+        /*
+          Each slide
+          Important:
+          Set the width of your slides
+          If height not specified height will be set by the slide content
+          Set to display block
+        */
+        .slides_container div {
+          width:520px;
+      height:220px;
+          /*height:347px;*/
+          display:block;
+        }
+
+        }
+        
+    </style>
+      <script src="/js/slides.min.jquery.js"></script>
+
+    <script>
+        
+        $(function(){
+          $('#slides').slides({
+            preload: true,
+            pagination: false,
+            play: 4000,
+            generatePagination: false,
+            effect: 'fade',
+            crossfade: true,
+            randomize: true
+          });
+        });
+        
+    </script>
+
+
+
+
+
+</head>
+<body class="page">
+<div class="container">
+  
+  
+    <a class="logobar" title="Home" href="/"><img  src="/images/ps1_logo-v-103.png">
+    </a>
+  
+   
+  <!-- WRAPPER STARTS -->
+  <div id="wrapper">
+        <!-- NAV STARTS -->
+          
+
+  
+
+  <ul class="dropdown">
+    <li><a href="/exhibitions/" title="On View, Upcoming, Past, Long-term">EXHIBITIONS</a></li> 
+    <li><a href="/calendar">CALENDAR</a></li>
+    <li class="menu"><a href="javascript:void(0);" style="cursor:default;">PROGRAMS</a>
+      <ul class="sub_menu programs">
+        <li><a href="/sundaysessions">Sunday Sessions</a></li>
+        <li><a href="/yap/view/17">Young Architects Program</a></li>
+        <li><a href="/warmup/">Warm Up</a></li>
+        <li><a href="/summerschool">Summer School</a></li>
+      </ul>
+    </li>
+    <li class="menu"><a href="/about/">ABOUT</a> 
+      <ul id="about">
+         <li><a href="/about/">MoMA PS1 Profile</a></li>
+         <li><a href="/about/affiliation/">Affiliation with MoMA</a></li>
+         <li><a href="/about/funding/">Funding</a></li>
+         <li><a href="/about/board/">Board</a></li>
+         <li><a href="/support">Support</a></li>
+         <li><a target="_blank" title="MoMA Online Press Office: MoMA PS1" href="http://press.moma.org/exhibitions/ps1/">Press</a></li>
+         <li><a href="/about/contact/">Contact</a></li>
+         <li><a href="/about/internships/">Internships</a></li>
+         <li><a href="/news/view/88">Volunteer</a></li>
+         <li><a href="/about/rental/">Space Rental</a></li>
+         <li><a href="/about/bookstore/">Bookstore</a></li>
+         <li><a href="/about/mwells/">M. Wells Dinette</a></li>
+         <li><a href="/about/rooftop/">Rooftop Garden</a></li>       
+         <li><a href="/rockaway1/">Rockaway!</a></li>
+      </ul>
+    </li>
+    <li class="menu"><a href="/support/">SUPPORT</a> 
+      <ul id="about">
+        <li><a href="/support">Support</a></li>
+        <li><a href="/cc">Contemporary Circle</a></li>
+        <li><a href="/support#momaps1plus">MoMA PS1 Plus</a></li>
+      </ul>
+    </li>
+    <li class="menu"><a href="/visit/">VISIT</a> 
+      <ul class="sub_menu">
+        <li><a href="/visit/">MoMA PS1</a></li>
+        <li><a href="/groupvisits/">Group Visits</a></li>
+        <li><a href="/about/mwells/">M. Wells Dinette</a></li>
+      </ul>
+    </li>
+    <li class="menu secondlast" ><a href="/connect" title="Connect with MoMA PS1">CONNECT</a> 
+      <ul id="subscribe">
+         <li><a href="/connect">E-mail List</a></li>
+         <li><a href="http://www.facebook.com/pages/New-York-NY/MoMA-PS1/38511202495" target="_blank">Facebook</a></li>
+         <li><a href="http://twitter.com/momaps1" target="_blank">Twitter</a></li>
+         <li><a href="http://momaps1.tumblr.com/" target="_blank">Tumblr</a></li>
+         <li><a href="https://plus.google.com/u/0/116839845932661782821/posts" target="blank">Google &#43;</a></li>
+         <li><a href="http://instagram.com/momaps1/" target="_blank">Instagram</a></li>
+         <li><a href="http://www.flickr.com/people/ps1/" target="_blank">Flickr</a></li>
+         <li><a href="http://www.moma.org/explore/inside_out/category/ps1" target="_blank">Inside/Out Blog</a></li>
+         <li><a href="/studio-visit">Studio Visit</a></li>
+      </ul>
+    </li>
+    <li class="last"><a href="/search/">SEARCH</a></li>
+  </ul>
+        <!-- NAV ENDS -->
+    
+    
+    <!-- MAIN COLUMN STARTS -->
+    <div id="maincolumn">
+      <div id="maincontainer">
+
+            
+      
+      <h3 class="header">Visit</h3>
+    
+    
+              <div id="slides">
+                  <a href="/slideshow/view/47/" title="view more images">
+                  <div class="slides_container">
+                    
+                                          <div>
+                                <img src="/slideshows/visit/0001-momaps1_yap-wendy.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/0002-06_mar25_bondonblonde8.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/0003-sept11_J.Cardiff.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/0004-HTaylor_install_3.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/0005-light_asylum_LW.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/0006-momaps1_yap_WarmUp_Loren_Wohl.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/0007-todd-terry_1_LW.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/0008-yap_wendy_spray.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/001-MoMA_PS1-dome.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/002-caves.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/003-Kerstin-Bratsch_Adele-R.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/004-hand-of-dj.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/005-yap2010.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/006-PS1_052410_0573.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/007-feng-mengbo.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/008-_MG_6235.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/009-Liquid Sky_photoMarkLentz.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/010-yap2010.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/011-warmup-03.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/012-nyabf2010.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/014-PS1_060810_0273.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/015-warm-up-2010-3.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/016-april-10-sat-session.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/017-haircut.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/018-warm-up-2010-4.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/019-warm-up-2010-2.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/020-warmup-01.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/021-silver lining.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/022-warmup-02.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/023-wall-2.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/024-Christian Marclay_photo-Mark Lentz.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/025-ThePaintedWorld.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/026-DGandalfGavan.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/027-Kessler.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/028-peter-haley-cafe.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/029-Andreas-Zybach-photo-Matthew Septimus.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/030-WPS1 D.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/031-Colour-spectrum kaleidoscope_Eliasson.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/032-Take-your-time_photo-matthew Septimus.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/033-BurtBarr_RedBlue.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/034-DSG_8102.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/035-mikey.JPG" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/036-Luis Gispert_detail.JPG" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/037-bySallySilvers.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/039-sat-sesh.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/040-DayLaborYellowPurpleRoom.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/041-Anger_Install_Bremen.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/042-PS1_Thomas Struth_197879.jpg" />
+                            </div>
+                                          <div>
+                                <img src="/slideshows/visit/043-clocktower_group_shot_small.jpg" />
+                            </div>
+                                          
+                  </div>
+                </a>
+              </div>
+                        
+                                    
+                            
+
+      <blockquote><em><b>MoMA PS1</b><br /> 22-25 Jackson Ave. at the intersection of 46th Ave.<br /> Long Island City, NY 11101<br /> (718) 784-2084</em></blockquote>
+<h3>Hours</h3>
+<p><b>12&ndash;6 PM</b>, Thursday through Monday, <b>closed</b> on Tuesdays and Wednesdays.</p>
+<p><em>Please note: Limited galleries are on view during Warm Up. Christoph Schlingensief and James Lee Byars close at 3 PM. Korakrit Arunanondchai, Gavin Kenyon, GCC: Achievements in Restrospective, and Maria Lassnig close at 6 PM.</em> <br /><br /> MoMA PS1 is closed in recognition of the following holidays: Thanksgiving, Christmas and New Years Day. On Christmas Eve MoMA PS1 closes at 3 PM.<br /><br /><a href="../../../about/bookstore">ARTBOOK @ MoMA PS1</a>&nbsp;and&nbsp;<a href="../../../about/mwells/" target="_blank">M. Wells Dinette</a>&nbsp;are open during regular gallery hours. The <a href="../../../about/rooftop/" target="_blank">Rooftop Garden</a>&nbsp;is open to the public during regular gallery hours, weather permitting, excluding <a href="../../../warmup/" target="_blank"><em>Warm Up</em></a> Saturdays.</p>
+<h3 id="admission">Gallery Admission</h3>
+<p id="admission01"><b>ADULT</b><br /><b> STUDENT + SENIOR<br />CHILDREN under 16</b><b><br /></b></p>
+<p id="admission02"><b>$10* </b><br /><b> $5* </b><br /><b> FREE<br /></b></p>
+<p><em>*Gallery admission is suggested and directly supports MoMA PS1 exhibitions and programs.</em></p>
+<p>Gallery admission is free for MoMA members, MoMA Corporate Members, MoMA admission ticket holders, Long Island City Residents, NYC public school students, Members of the Press, &amp; other Museum Staff with valid ID. Certain special exhibitions and programs may require a separate admission ticket. MoMA tickets must be presented at MoMA PS1 within 14 days of the date on the ticket and are not valid during <em><a href="../../../warmup/" target="_blank">Warm Up</a></em> and some MoMA PS1 special exhibitions, events or benefits.</p>
+<h3 id="admission">Warm Up Event Admission</h3>
+<p id="admission01"><b>IN ADVANCE</b><br /><b> DAY-OF</b><b><br /></b></p>
+<p id="admission02"><b>$18 </b><br /><b> $20<br /></b></p>
+<p><em>Warm Up admission is mandatory for&nbsp;entry into MoMA PS1 on Warm Up Saturdays. </em></p>
+<p><em>Please note: Limited galleries are on view during Warm Up. Christoph Schlingensief and James Lee Byars close at 3 PM. Korakrit Arunanondchai, Gavin Kenyon, GCC: Achievements in Restrospective, and Maria Lassnig close at 6 PM. &nbsp;</em></p>
+<p>Children ages 6 and older must have a ticket for entrance. Long Island City Residents with proof of residency in ZIP codes 11101&ndash;11109 receive one free ticket on a first-come, first-served basis, pending availability. Please note that a limited number of tickets are set aside for Long Island City Residents per <em>Warm Up</em>. Guests of LIC residents must purchase tickets.</p>
+<h3 id="directions">Directions</h3>
+<blockquote>
+<h4>E and M Trains</h4>
+</blockquote>
+<p>Get off at the Court Square&ndash;23 St stop. After exiting the train walk towards the 21 Street exit (away from 7 train connection and Jackson Avenue exit). Take a left onto 21 Street and walk 3 blocks.</p>
+<blockquote>
+<h4>7 Train</h4>
+</blockquote>
+<p>Get off at the Court Square, exit onto Jackson Avenue and walk right one block to 46th Avenue.</p>
+<blockquote>
+<h4>G Train</h4>
+</blockquote>
+<p>Get off at the 21st St. stop. MoMA PS1 is the large brick building across the street to the left. Walk around the building to come to our front entrance.</p>
+<blockquote>
+<h4>L.I.R.R.</h4>
+</blockquote>
+<p>Take the L.I.R.R. to Hunterspoint Ave. and take the 7 train towards Flushing (see directions for the 7 train above).<br /> -or-<br /> Take the L.I.R.R. to the Jamaica station and take the E train towards Manhattan (see directions for the E train above).<br /> -or-<br /> Take the L.I.R.R. to Woodside and take the 7 train towards Time Square (see directions for the 7 train above).</p>
+<p><em>Please refer to <a href="http://www.mta.info/">MTA.info</a> for information about service disruptions or changes.</em></p>
+<blockquote>
+<h4>Bus</h4>
+</blockquote>
+<p>Take the <b>Q67</b> to Jackson and 46th Aves.</p>
+<p>Take the <b>B62</b> to 46th Ave</p>
+<blockquote>
+<h4>East River Ferry</h4>
+</blockquote>
+<p>Take the East River Ferry service to Hunters Point, LIC from Manhattan or Brooklyn. Visit <a href="http://www.nywaterway.com/ERF-Home.aspx" target="_blank">www.nywaterway.com</a> to plan your trip.</p>
+<blockquote>
+<h4>From Manhattan</h4>
+</blockquote>
+<p>Take the Midtown Tunnel at 34th Street. Exit at 21st St./Van Alst (first exit after the toll booths). Continue through two stoplights. MoMA PS1 will be on your right, across the street from the post office. The entrance to MoMA PS1 is on Jackson Avenue.<br /> -or-<br /> Take the Queensboro Bridge at 59th Street: use the lower roadway. When you get off the bridge, take the Queens Boulevard service lane (which is all the way to the right). Turn right onto Jackson Avenue and follow it to 46th Avenue. MoMA PS1 will be on the right side of the street.</p>
+<blockquote>
+<h4>From Queens/Long Island</h4>
+</blockquote>
+<p>Take the Long Island Expressway (495) West. Exit at Van Dam Street (last exit before the toll booths). Turn right on Van Dam and make a left onto Thomson Avenue. From Thompson Ave., make another left onto Jackson Avenue. Continue straight on Jackson for three blocks. MoMA PS1 is located at the intersection of 46th Avenue and Jackson Avenue.</p>
+<blockquote>
+<h4>From Brooklyn</h4>
+</blockquote>
+<p>Take the BQE North to the McGuinness Boulevard exit. Once you have exited, veer to the left. Follow McGuinness Boulevard over the Pulaski Bridge. At the bottom of the bridge, make a right onto Jackson Avenue. Continue on Jackson Avenue for three blocks and MoMA PS1 will appear on your left, at the intersection of Jackson Avenue and 46th Street.</p>
+<blockquote>
+<h4>From the Bronx</h4>
+</blockquote>
+<p>Take the Triborough Bridge to the Grand Central Parkway. Exit onto the BQE (278) West. Exit onto the Long Island Expressway and follow directions from Queens/Long Island (see above).</p>
+<blockquote>
+<h4>From Westchester</h4>
+</blockquote>
+<p>Take the Triborough Bridge to the first exit. Follow the exit road to the stoplight and turn right onto 31st Street. Follow 31st Street; it will become Jackson Avenue. After you pass 46th Avenue, the entrance to MoMA PS1 will appear on the right.</p>
+<blockquote>
+<h4>From New Jersey</h4>
+</blockquote>
+<p>Take the George Washington Bridge to the Major Deegan Expressway over the Triborough Bridge. Follow directions from Westchester (see above).<br /> -or-<br /> Take the Holland Tunnel to Canal Street and cut through Manhattan to the Manhattan Bridge. Exit the Bridge at the 278/BQE exit. Follow the BQE to McGuinness Boulevard going north. McGuinness leads to Jackson Avenue. The entrance to MoMA PS1 will be on the right.</p>
+<blockquote>
+<h4>Parking</h4>
+</blockquote>
+<p>There is street parking at MoMA PS1: spaces, however, are limited and towing regulations are strictly enforced. The closest parking lot is located just across the street from MoMA PS1 at 45-66 Davis Street. The lot is located between Davis and Crane Street, just one block southeast of Jackson Avenue. MoMA PS1 visitors receive a discounted rate. For details call (917) 566-7537. <br /><br /> The closest garage, Court Square Municipal Parking Garage, is located at 45-40 Court Square, between Court Square East and Court Square West, approximately 500 feet south of Jackson Avenue behind Court House Community District #2. For details call (718) 784-9877.</p>
+<h3>Tips for Visiting</h3>
+<blockquote>
+<h4>Accessibility</h4>
+</blockquote>
+<p>The public entrance on Jackson Avenue is accessible by ramp. Wheelchairs are available free of charge in the coat check on a first-come, first-served basis. The three main floors, including the bookstore and caf&eacute;, are accessible by elevator. For elevator access to the basement, please ask for assistance at the front desk in the lobby area. Wheelchair-accessible bathrooms are located on floors 1, 2, and 3. For more information, or to notify our staff of any special needs, please call the front desk during regular public hours (718) 784-2085.</p>
+<blockquote>
+<h4>Checkroom</h4>
+</blockquote>
+<p>MoMA PS1 requires visitors to check backpacks of any size, messenger bags, shopping bags, umbrellas, and all items 11 x 14 inches (28 x 35.5 cm) or larger. To avoid a lengthy wait in the checkroom line, visitors should not bring such items. The checkroom reserves the right to refuse any item and is not responsible for items held by the checkroom. More specific size requirements may apply to certain galleries.</p>
+<blockquote>
+<h4>Cameras / Photo Policy</h4>
+</blockquote>
+<p>Photography is permitted in the public spaces of the museum. Museum staff reserves the right to restrict or prohibit photography for certain exhibitions. In galleries where photography is allowed, visitors can use small cameras and cellphone cameras. Flash photography, videography, tripods, and photography for professional purposes <b>are not allowed</b>.</p>
+<blockquote>
+<h4>Cellular Phones</h4>
+</blockquote>
+<p>The use of cellular phones is not permitted in the galleries.</p>
+<blockquote>
+<h4>Sketching</h4>
+</blockquote>
+<p>Sketching is permitted in the galleries (pencil only, no ink or paint) with sketchbooks no larger than 8 1/2 x 11 inches (21.6 x 27.9 cm).</p>
+<blockquote>
+<h4>Strollers</h4>
+</blockquote>
+<p>Strollers are permitted in the museum, however when visiting certain exhibitions containing fragile sculptural elements you may be asked to check the stroller at the entrance to the exhibition.</p>
+
+            
+            <br><hr>
+      
+      
+      
+      <div class="clearfix">&nbsp;</div>
+          <div id="footer">
+  <p>&copy; 2014 MoMA PS1 | An Affiliate of <a href="http://www.moma.org" target="_blank">The Museum of Modern Art</a><br>
+  (718) 784-2084 | <a href="mailto:mail_ps1@moma.org">mail_ps1@moma.org</a> | <a href="/terms-conditions/">Terms &amp; Conditions</a> | <a href="/privacy-policy/">Privacy Policy</a><br><br>
+  Address: 22-25 Jackson Avenue, Long Island City, NY<br>
+  Hours: Thurs–Mon, Noon–6:00 PM<br><br>
+  <span style="font-size: 85%"><a href="/visit">VISITOR INFORMATION</a></span>
+  </p>
+  </div>        </div>
+    </div>
+    <!-- MAIN COLUMN ENDS -->
+    
+    <!-- SIDE COLUMN STARTS -->
+    <div id="sidecolumn">
+        <div class="sidecontainer">
+                    
+                    
+                                    <div class="box-tr" id="sidebar_99"> 
+                            <div class="box-content">
+                                                              <h5 class="title"><a href="/map"> <img src="/images/ui/map.jpg"> </a></h5>
+                                  <p>View a map that marks restaurants and other points of interest around MoMA PS1.</p>
+                                                              </div>
+                        </div>
+                                          <div class="box-tr" id="sidebar_98"> 
+                            <div class="box-content">
+                                                              <h5 class="title"> M. WELLS DINETTE</h5>
+                                  <p>Thursday&ndash;Monday 12&ndash;6 PM<br /> <br />Closed Tuesday and Wednesday</p>
+<p><a href="../../../about/mwells">more</a></p>
+                                                              </div>
+                        </div>
+                                          <div class="box-tr" id="sidebar_38"> 
+                            <div class="box-content">
+                                                              <h5 class="title">ARTBOOK @ MoMA PS1</h5>
+                                  <p>(718) 433-1088</p>
+ 
+<p><a href="mailto:artbook_ps1@moma.org">artbook_ps1@moma.org</a></p>
+ 
+<p><a href="http://www.artbook.com/artbookps1.html" target="_blank">ARTBOOK website</a></p>
+                                                              </div>
+                        </div>
+                                          <div class="box-tr" id="sidebar_88"> 
+                            <div class="box-content">
+                                                              <h5 class="title">G train terminates<br> at Nassau Ave for 5 weeks</h5>
+                                  <p><img src="../../../images/sidebar/no-G-train.png" alt="" /></p>
+<p>Starting July 26, 2014<br />Duration: 5 weeks<em><br /></em></p>
+<p>For service to MoMA PS1, utilize the bus shuttle service operating between Nassau Ave and Court Sq. Or, take the <b>7</b> train to Court Sq or the <b>E</b> train to Court Sq/23 St.</p>
+<p><a href="http://www.mta.info/" target="_blank">mta.info</a></p>
+                                                              </div>
+                        </div>
+                                          <div class="box-tr" id="sidebar_102"> 
+                            <div class="box-content">
+                                                              <h5 class="title">LIC ART BUS</h5>
+                                  <p>Free summer shuttle bus service to Long Island City's cultural institutions on Saturdays and Sundays.&nbsp;</p>
+<p><a href="http://socratessculpturepark.org/visit/bus/" target="_blank">LIC ART BUS</a></p>
+                                                              </div>
+                        </div>
+                                        
+                                       
+                    
+                               </div>  
+    </div>
+    <!-- SIDE COLUMN ENDS -->
+    
+</div>
+<!-- WRAPPER ENDS -->
+
+</div>
+<script type="text/javascript">
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5178305-1', 'ps1.org');
+  ga('send', 'pageview');
+
+</script></body>
+</html>

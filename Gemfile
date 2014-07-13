@@ -8,7 +8,7 @@ group :development do
   gem 'sqlite3', '1.3.8'
 end 
 
-gem 'pg', '0.15.1'
+gem 'pg', '~> 0.15.1'
 gem 'rails_12factor'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
@@ -43,4 +43,4 @@ gem 'better_errors', '~> 1.1.0'
 gem 'nokogiri', '~> 1.6.2.1'
 gem 'pry'
 gem 'unicorn'
-ruby "2.1.1"
+

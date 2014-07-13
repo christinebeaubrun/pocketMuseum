@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+
+
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta about="/visit" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<link rel="shortcut icon" href="http://cdn-us-ec.yottaa.net/5098039f4707e64aa6001dc0/www.frick.org/v~b.7d/sites/default/files/favicon_0.ico?yocs=_&amp;yoloc=us" type="image/vnd.microsoft.icon" />
+<meta content="Visit" about="/visit" property="dc:title" />
+<link rel="shortlink" href="/node/83" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/visit" />
+
+
+  <title>Visit | The Frick Collection</title>
+
+  <link type="text/css" rel="stylesheet" href="http://cdn-us-ec.yottaa.net/5098039f4707e64aa6001dc0/www.frick.org/v~b.7d/sites/default/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css.Y$DU.css?yocs=_&amp;yoloc=us" media="all" />
+<link type="text/css" rel="stylesheet" href="http://cdn-us-ec.yottaa.net/5098039f4707e64aa6001dc0/www.frick.org/v~b.7d/sites/default/files/css/css_l7C4-S-qrG6skrkOoAvNX7vVxx9IC_Wt0DmdETT9wOg.css.Y$DU.css?yocs=_&amp;yoloc=us" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://cdn-us-ec.yottaa.net/5098039f4707e64aa6001dc0/www.frick.org/v~b.7d/sites/default/files/css/css_7qX4wACa_xnyZ-13A7mXfweFdyofPt2Us9JkUquQTOM.css.Y$DU.css?yocs=_&amp;yoloc=us" media="all" />
+<link type="text/css" rel="stylesheet" href="http://cdn-us-ec.yottaa.net/5098039f4707e64aa6001dc0/www.frick.org/v~b.7d/sites/default/files/css/css_RLMBvJE92DCi26Il66_0Y1AF3djQE259A7rUW9bwU1E.css.Y$DU.css?yocs=_&amp;yoloc=us" media="all" />
+<link type="text/css" rel="stylesheet" href="http://cdn-us-ec.yottaa.net/5098039f4707e64aa6001dc0/www.frick.org/v~b.7d/sites/default/files/css/css_0pV-OdARo_H41UWeZAaskPHJMRRh5fWxrYM42wKyDSI.css.Y$DU.css?yocs=_&amp;yoloc=us" media="all" />
+<link type="text/css" rel="stylesheet" href="http://cdn-us-ec.yottaa.net/5098039f4707e64aa6001dc0/www.frick.org/v~b.7d/sites/default/files/css/css_Apb4JEGCdcfBDtUdcO8idiTEh_OrSWjYvnGe7QYtxcE.css.Y$DU.css?yocs=_&amp;yoloc=us" media="print" />
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="http://cdn-us-ec.yottaa.net/5098039f4707e64aa6001dc0/www.frick.org/v~b.7d/sites/all/themes/frick/css/ie6.css.Y$DU.css?n8g96p&amp;yocs=_&amp;yoloc=us" media="all" />
+<![endif]-->
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://cdn-us-ec.yottaa.net/5098039f4707e64aa6001dc0/www.frick.org/v~b.7d/sites/all/themes/frick/css/ie.css.Y$DU.css?n8g96p&amp;yocs=_&amp;yoloc=us" media="all" />
+<![endif]-->
+    
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://cdn-us-ec.yottaa.net/5098039f4707e64aa6001dc0/www.frick.org/v~b.7d/sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js?yocs=_&amp;yoloc=us"></script>
+<script type="text/javascript" src="http://cdn-us-ec.yottaa.net/5098039f4707e64aa6001dc0/www.frick.org/v~b.7d/sites/default/files/js/js_-G1uqbkyxoTACLgrNa0mCfwPVzwYXjQacQFWptUIJCI.js?yocs=_&amp;yoloc=us"></script>
+<script type="text/javascript" src="http://cdn-us-ec.yottaa.net/5098039f4707e64aa6001dc0/www.frick.org/v~b.7d/sites/default/files/js/js_HPGyhzFD1VP8hxSRGXo9WOIsUWFn7FT0jGmSG2QKcbU.js?yocs=_&amp;yoloc=us"></script>
+<script type="text/javascript" src="http://cdn-us-ec.yottaa.net/5098039f4707e64aa6001dc0/www.frick.org/v~b.7d/sites/default/files/js/js_sX8_vE6nyY89BFwyeH-hc2mBVEg7lklkAx7c6ozLDXc.js?yocs=_&amp;yoloc=us"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-1434493-1"]);_gaq.push(["_gat._anonymizeIp"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = "http://www.frick.org/sites/default/files/googleanalytics/ga.js?n8g96p";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://cdn-us-ec.yottaa.net/5098039f4707e64aa6001dc0/www.frick.org/v~b.7d/sites/default/files/js/js_l7tBLbyFvgDDqQ7I3IUcR61Sv7KOs50B-RPZztCz14M.js?yocs=_&amp;yoloc=us"></script>
+<script type="text/javascript" src="http://cdn-us-ec.yottaa.net/5098039f4707e64aa6001dc0/www.frick.org/v~b.7d/sites/default/files/js/js_viAcv79hYE988sucSUtbxah_Fi6djiMCHXud_jQe3gU.js?yocs=_&amp;yoloc=us"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"frick","theme_token":"lcNZmI8d5MZGdwk2cO-n5I0EjFn-aDuZbCOXIv-WMsc","js":{"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.8.2\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/all\/modules\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/modules\/nice_menus\/js\/nice_menus.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"misc\/form.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"sites\/all\/modules\/extlink\/extlink.js":1,"misc\/collapse.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/image_caption\/image_caption.min.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.js":1,"sites\/all\/libraries\/jquery.imagesloaded\/jquery.imagesloaded.min.js":1,"sites\/all\/modules\/field_slideshow\/field_slideshow.js":1,"sites\/all\/modules\/flexslider\/assets\/js\/flexslider.load.js":1,"sites\/all\/modules\/flexslider\/flexslider_views_slideshow\/js\/flexslider_views_slideshow.js":1,"sites\/all\/themes\/frick\/js\/activate.js":1,"sites\/all\/themes\/frick\/js\/hoverintent.js":1,"sites\/all\/themes\/frick\/..\/..\/libraries\/isotope\/jquery.isotope.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/flexslider\/assets\/css\/flexslider_img.css":1,"sites\/all\/libraries\/flexslider\/flexslider.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/extlink\/extlink.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/modules\/nice_menus\/css\/nice_menus_default.css":1,"sites\/all\/modules\/field_slideshow\/field_slideshow.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"sites\/all\/themes\/frick\/css\/colors.css":1,"sites\/all\/themes\/frick\/css\/frick.css":1,"sites\/all\/themes\/frick\/css\/frick-bgcolor.css":1,"sites\/all\/themes\/frick\/..\/..\/libraries\/isotope\/css\/mystyle.css":1,"sites\/all\/themes\/frick\/css\/print.css":1,"sites\/all\/themes\/frick\/css\/ie6.css":1,"sites\/all\/themes\/frick\/css\/ie.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"googleCSE":{"cx":"012139582862150583682:WMX-886234339","language":"","resultsWidth":950,"domain":"www.google.com"},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"nice_menus_options":{"delay":"800","speed":"fast"},"field_slideshow":{"field-slideshow-2":{"fx":"fade","speed":"1500","timeout":"4000","pause":0,"start_on_hover":0,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-3":{"fx":"fade","speed":"1500","timeout":"4000","pause":0,"start_on_hover":0,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]},"field-slideshow-4":{"fx":"fade","speed":"1500","timeout":"4000","pause":0,"start_on_hover":0,"carousel_visible":"3","carousel_scroll":"1","carousel_speed":"500","carousel_vertical":0,"carousel_circular":0,"carousel_follow":0,"carousel_skin":"","pager":"","controls":[]}},"viewsSlideshow":{"visit_banner-block":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","flexsliderViewsSlideshow","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","flexsliderViewsSlideshow","viewsSlideshowCycle"],"play":["viewsSlideshowControls","flexsliderViewsSlideshow","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","flexsliderViewsSlideshow","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"flexslider_views_slideshow":{"#flexslider_views_slideshow_main_visit_banner-block":{"num_divs":3,"id_prefix":"#flexslider_views_slideshow_main_","vss_id":"visit_banner-block","animation":"fade","animationDuration":800,"slideDirection":"horizontal","slideshow":1,"slideshowSpeed":4000,"animationLoop":1,"randomize":0,"slideToStart":0,"directionNav":0,"controlNav":0,"keyboardNav":0,"mousewheel":1,"prevText":"Previous","nextText":"Next","pausePlay":0,"pauseText":"Pause","playText":"Play","pauseOnAction":1,"controlsContainer":".flex-nav-container","manualControls":""}},"extlink":{"extTarget":"_blank","extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+</head>
+
+<body class="html not-front not-logged-in two-sidebars page-node page-node- page-node-83 node-type-visit featured footer-columns featured footer-columns" >
+
+  <div id="skip-link">
+
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+
+  </div>
+
+  
+  
+  <div id="page-wrapper"><div id="page">
+
+    <div id="header"><div class="section clearfix">
+                <a href="/" title="Home" rel="home" id="logo">
+              <img src="data:image/png;base64,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" alt="Home" />
+            </a>
+          <!-- $site_name and $site_slogan was here -->
+          <div class="region region-header">
+    <div id="block-search-form" class="block block-search">
+
+    <h2 class="element-invisible element-invisible">Search</h2>
+  
+  <div class="content">
+    <form class="google-cse" action="/visit" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-cNjK569k6RiQMli9JuEWu-oFTbjErDqUts8i0ghJGRk" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-nice-menus-1" class="block block-nice-menus">
+
+    <h2 class="element-invisible element-invisible"><span class="nice-menu-hide-title">Main menu</span></h2>
+  
+  <div class="content">
+    <ul class="nice-menu nice-menu-down nice-menu-main-menu" id="nice-menu-1"><li class="menu-480 menuparent  menu-path-node-83 active-trail first odd "><a href="/visit" class="active">Visit</a><ul><li class="menu-482  menu-path-node-85 first odd "><a href="/visit/museum">Museum</a></li>
+<li class="menu-481  menu-path-node-84  even "><a href="/visit/library" title="Frick Art Reference Library Visitor Information">Library</a></li>
+<li class="menu-1251 menu-path-node-738  odd "><a href="/visit/parking" title="Parking and Garages">Parking</a></li>
+<li class="menu-488 menu-path-node-91  even "><a href="/visit/transportation" title="Transportation">Transportation</a></li>
+<li class="menu-1633  menu-path-node-1052  odd "><a href="/visit/virtual_tour">Virtual Tour</a></li>
+<li class="menu-2028 menu-path-node-2016  even last"><a href="/visit/directors_greeting">Director&#039;s Greeting</a></li>
+</ul></li>
+<li class="menu-879 menuparent  menu-path-node-465  even "><a href="/collection">Collection</a><ul><li class="menu-880 menu-path-node-466 first odd "><a href="/collection/search-our-collections">Search the Collection</a></li>
+<li class="menu-1415  menu-path-node-836  even "><a href="/collection/areas_collection" title="Works of Art in The Frick Collection">Areas of the Collection</a></li>
+<li class="menu-881 menu-path-node-467  odd "><a href="/collection/works_on_display">Works on View</a></li>
+<li class="menu-1851  menu-path-node-1380  even "><a href="/collection/acquisitions">Acquisitions</a></li>
+<li class="menu-882  menu-path-node-468  odd "><a href="/collection/history">History</a></li>
+<li class="menu-910  menu-path-node-528  even "><a href="/collection/buildings_and_galleries">Buildings</a></li>
+<li class="menu-909  menu-path-node-527  odd "><a href="/collection/gardens">Gardens</a></li>
+<li class="menu-885  menu-path-node-471  even "><a href="/collection/conservation">Conservation</a></li>
+<li class="menu-1416 menu-path-node-837  odd "><a href="/collection/curators">Curatorial Staff</a></li>
+<li class="menu-1996 menu-path-node-1980  even "><a href="/collection/education_department">Education</a></li>
+<li class="menu-1736 menu-path-node-1243  odd "><a href="/collection/provenance" title="World War II–Era Provenance Research">Provenance</a></li>
+<li class="menu-1414 menu-path-node-835  even last"><a href="/collection/archives">Archives</a></li>
+</ul></li>
+<li class="menu-1239 menuparent  menu-path-node-731  odd "><a href="/exhibitions">Exhibitions</a><ul><li class="menu-568  menu-path-node-147 first odd "><a href="/exhibitions/current">Current Exhibitions</a></li>
+<li class="menu-1819  menu-path-node-1294  even "><a href="/exhibitions/future">Future Exhibitions</a></li>
+<li class="menu-567 menu-path-exhibitions-past  odd "><a href="/exhibitions/past" title="Past Exhibitions">Past Exhibitions</a></li>
+<li class="menu-2819 menu-path-exhibitions-loans  even last"><a href="/exhibitions/loans" title="">Special Loans</a></li>
+</ul></li>
+<li class="menu-1528 menuparent  menu-path-node-906  even "><a href="/programs">Programs</a><ul><li class="menu-1605  menu-path-node-1013 first odd "><a href="/programs/find_programs_and_events">Browse Programs</a></li>
+<li class="menu-1530  menu-path-node-907  even "><a href="/programs/concerts">Concerts</a></li>
+<li class="menu-2347 menu-path-node-2196  odd "><a href="/programs/performances">Performances</a></li>
+<li class="menu-1983  menu-path-node-1682  even "><a href="/programs/lectures/all_listings" title="">Lectures and Talks</a></li>
+<li class="menu-1607  menu-path-node-1017  odd "><a href="/programs/symposia">Symposia</a></li>
+<li class="menu-1562  menu-path-node-1695  even "><a href="/programs/all_courses_and_conversations">Courses and Conversations</a></li>
+<li class="menu-2039  menu-path-node-2036  odd "><a href="/programs/student/browse">Student Programs</a></li>
+<li class="menu-1608  menu-path-node-1019  even "><a href="/programs/groups">Group and School Visits</a></li>
+<li class="menu-1656  menu-path-node-1731  odd last"><a href="/programs/studio/all_studio_programs">Studio Programs</a></li>
+</ul></li>
+<li class="menu-1532 menuparent  menu-path-node-908  odd "><a href="/research">Research</a><ul><li class="menu-576  menu-path-node-170 first odd "><a href="/research/library" title="Information about the Frick Art Reference Library">Library</a></li>
+<li class="menu-605  menu-path-node-208  even "><a href="/research/photoarchive" title="Information about the Photoarchive collection at the Frick Art Reference Library">Photoarchive</a></li>
+<li class="menu-560  menu-path-node-141  odd "><a href="/research/archives">Archives</a></li>
+<li class="menu-500  menu-path-node-100  even "><a href="/research/center">Center for Collecting</a></li>
+<li class="menu-1533  menu-path-node-909  odd "><a href="/research/museum" title="Research program of The Frick Collection">Museum Research</a></li>
+<li class="menu-1536  menu-path-node-912  even "><a href="/research/fellowships">Fellowships</a></li>
+<li class="menu-1534 menu-path-node-910  odd "><a href="/research/profiles" title="Profiles of research projects conducted by Frick staff">Research Staff Profiles</a></li>
+<li class="menu-2149 menu-path-node-2131  even last"><a href="/research/research_tools">Research Tools</a></li>
+</ul></li>
+<li class="menu-874 menuparent  menu-path-node-438  even "><a href="/interact">Interact</a><ul><li class="menu-1938 menu-path-interact-video first odd "><a href="/interact/video" title="">Video</a></li>
+<li class="menu-2148 menu-path-interact-lectures  even "><a href="/interact/lectures" title="">Lectures</a></li>
+<li class="menu-1734 menu-path-node-1217  odd "><a href="/interact/virtual_tours">Virtual Tours</a></li>
+<li class="menu-2051 menu-path-node-2052  even "><a href="/interact/education">In the Galleries</a></li>
+<li class="menu-876 menu-path-node-445  odd "><a href="/interact/connect">Connect</a></li>
+<li class="menu-1975 menu-path-node-1847  even "><a href="/interact/blogs">Blogs</a></li>
+<li class="menu-875 menu-path-node-443  odd "><a href="/interact/audio" title="Audio podcasts, tours, and channels from The Frick Collection.">Audio</a></li>
+<li class="menu-2257 menu-path-node-2162  even last"><a href="/interact/enews">E-News</a></li>
+</ul></li>
+<li class="menu-697 menuparent  menu-path-node-276  odd "><a href="/support">Support</a><ul><li class="menu-2029  menu-path-node-2017 first odd "><a href="/support/membership">Membership</a></li>
+<li class="menu-706 menu-path-node-293  even "><a href="/support/annual_fund">Annual Fund</a></li>
+<li class="menu-707 menu-path-node-294  odd "><a href="/support/planned_giving">Planned Giving</a></li>
+<li class="menu-714 menu-path-node-306  even "><a href="/support/additional_ways_to_support_frick">Program Support</a></li>
+<li class="menu-708  menu-path-node-295  odd "><a href="/support/corporate">Corporate Support</a></li>
+<li class="menu-715  menu-path-node-312  even "><a href="/support/benefit_events">Benefit Events</a></li>
+<li class="menu-798  menu-path-node-364  odd "><a href="/support/entertaining">Corporate and Private Entertaining</a></li>
+<li class="menu-2023 menu-path-node-2014  even "><a href="/support/gifts_and_grants" title="Honor Roll of Donors">Gifts and Grants</a></li>
+<li class="menu-2027 menu-path-node-2015  odd last"><a href="/support/annual_reports">Annual Reports</a></li>
+</ul></li>
+<li class="menu-1537 menuparent  menu-path-node-913  even last"><a href="/shop">Shop</a><ul><li class="menu-1686  menu-path-node-1107 first odd "><a href="/shop/books_and_catalogues">Books and Catalogues</a></li>
+<li class="menu-1684  menu-path-node-1105  even "><a href="/shop/cards_and_stationery">Cards and Stationery</a></li>
+<li class="menu-1687  menu-path-node-1108  odd "><a href="/shop/museum_inspired_gifts">Museum Inspired Gifts</a></li>
+<li class="menu-3900 menu-path-node-3107  even "><a href="/shop/schiava_turca">Schiava Turca</a></li>
+<li class="menu-1685  menu-path-node-1106  odd "><a href="/shop/posters">Posters</a></li>
+<li class="menu-3574 menu-path-node-2981  even "><a href="/shop/banners">Exhibition Banners</a></li>
+<li class="menu-1688  menu-path-node-1109  odd "><a href="/shop/prints">Prints</a></li>
+<li class="menu-3167 menu-path-node-2921  even last"><a href="/shop/sale">Sale</a></li>
+</ul></li>
+</ul>
+  </div>
+</div>
+  </div>
+              <div id="navigation"><div class="section">
+                        <ul id="secondary-menu" class="links inline clearfix"><li class="menu-335 first"><a href="/about">About</a></li> | 
+<li class="menu-435"><a href="/calendar" title="Calendar">Calendar</a></li> | 
+<li class="menu-1227"><a href="/tickets">Tickets</a></li> | 
+<li class="menu-432"><a href="/careers" title="Careers at The Frick Collection">Careers</a></li> | 
+<li class="menu-1071"><a href="/press">Press</a></li> | 
+<li class="menu-2035 last"><a href="/support/join">Join</a></li>
+</ul>          </div></div> <!-- /.section, /#navigation -->
+            </div></div> <!-- /.section, /#header -->
+
+    <!-- #navigation was here, moved into #header -->
+    
+    
+      <!-- New section: Featured -->
+            <div id="featured">
+            <div class="region region-featured">
+    <div id="block-views-visit-banner-block" class="block block-views">
+
+    
+  <div class="content">
+    <div class="view view-visit-banner view-id-visit_banner view-display-id-block view-dom-id-b50bdade1d8af21753b06be1cfc2486a">
+        
+  
+  
+      <div class="view-content">
+      
+  <div class="skin-default">
+    
+    <div id="flexslider_views_slideshow_main_visit_banner-block" class="flexslider_views_slideshow_main views_slideshow_main"><div class="flex-nav-container">
+  <div class="flexslider">
+    <ul id="flexslider_views_slideshow_visit_banner-block" class="flexslider-views-slideshow-main-frame slides">
+        <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-1 views-row-odd">
+      
+  <div class="views-field views-field-field-banner-image">        <div class="field-content"><div id="field-slideshow-2-wrapper" class="field-slideshow-wrapper">
+
+  
+  
+  
+  <div class="field-slideshow field-slideshow-2 effect-fade timeout-4000 with-pager with-controls" style="width:960px; height:400px">
+          <div class="field-slideshow-slide field-slideshow-slide-1 even first">
+        <span class='inner-slide'><img class="field-slideshow-image field-slideshow-image-1" typeof="foaf:Image" src="http://cdn-us-ec.yottaa.net/5098039f4707e64aa6001dc0/www.frick.org/v~b.7d/sites/default/files/styles/full_page/public/banner/03.jpg?itok=0fs7tCq6&amp;yocs=_&amp;yoloc=us" width="960" height="400" alt="" /></span>              </div>
+      </div>
+
+  
+  
+</div>
+</div>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even">
+      
+  <div class="views-field views-field-field-banner-image">        <div class="field-content"><div id="field-slideshow-3-wrapper" class="field-slideshow-wrapper">
+
+  
+  
+  
+  <div class="field-slideshow field-slideshow-3 effect-fade timeout-4000 with-pager with-controls" style="width:960px; height:400px">
+          <div class="field-slideshow-slide field-slideshow-slide-1 even first">
+        <span class='inner-slide'><img class="field-slideshow-image field-slideshow-image-1" typeof="foaf:Image" src="http://cdn-us-ec.yottaa.net/5098039f4707e64aa6001dc0/www.frick.org/v~b.7d/sites/default/files/styles/full_page/public/banner/dining.jpg?itok=GuuIwr-n&amp;yocs=_&amp;yoloc=us" width="960" height="400" alt="" /></span>              </div>
+      </div>
+
+  
+  
+</div>
+</div>  </div>  </li>
+  <li class="flexslider-views-slideshow-main-frame-row flexslider_views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd">
+      
+  <div class="views-field views-field-field-banner-image">        <div class="field-content"><div id="field-slideshow-4-wrapper" class="field-slideshow-wrapper">
+
+  
+  
+  
+  <div class="field-slideshow field-slideshow-4 effect-fade timeout-4000 with-pager with-controls" style="width:960px; height:400px">
+          <div class="field-slideshow-slide field-slideshow-slide-1 even first">
+        <span class='inner-slide'><img class="field-slideshow-image field-slideshow-image-1" typeof="foaf:Image" src="http://cdn-us-ec.yottaa.net/5098039f4707e64aa6001dc0/www.frick.org/v~b.7d/sites/default/files/styles/full_page/public/banner/enamels.jpg?itok=rq_8OHmP&amp;yocs=_&amp;yoloc=us" width="960" height="400" alt="" /></span>              </div>
+      </div>
+
+  
+  
+</div>
+</div>  </div>  </li>
+    </ul>
+  </div>
+</div></div>
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+        </div> <!-- #featured -->
+      
+  <!-- $breadcrum was here, moved under #content -->
+    
+    <!-- $messages was here, moved after #header -->
+
+    <div id="main-wrapper"><div id="main" class="clearfix">
+
+      <div id="content" class="column"><div class="section">
+                <!-- highlighted was here, moved between tabs and help -->
+        <a id="main-content"></a>
+                <h1 class="title" id="page-title">Visit</h1>                <div class="tabs"></div>                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-83" class="node node-visit node-full node-full clearfix" about="/visit" typeof="sioc:Item foaf:Document">
+
+      
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <p>Welcome to The Frick Collection and the Frick Art Reference Library. Please follow the links at the left for more specific information about hours, admission policies, audiovisual information, accessibility, contact information, and general information about both The Frick Collection and the Frick Art Reference Library.</p>
+<p><a href="//www.frick.org/../../visit/museum">The Frick Collection </a></p>
+<p style="margin-left: 40px; ">1 East 70th Street<br />
+  New York, NY 10021<br />
+  Phone: 212-288-0700</p>
+<p style="margin-left: 40px; ">General e-mail: <a href="mailto:info@frick.org">info@frick.org</a></p>
+<p style="margin-left: 40px; ">For general information about visiting, see <a href="//www.frick.org/../../visit/museum">Collection</a>.</p>
+<p style="margin-left: 40px; ">For entry fees, see <a href="//www.frick.org/visit/museum/admission">Admission</a> and see <a href="//www.frick.org/visit/museum/hours">Hours and Holidays</a> for opening times.</p>
+<p><a href="//www.frick.org/research/library">Frick Art Reference Library</a></p>
+<p style="margin-left: 40px; ">10 East 71st Street<br />
+  New York, NY 10021<br />
+  Phone: 212-547-0641</p>
+<p style="margin-left: 40px; ">General e-mail: <a href="mailto:library@frick.org">library@frick.org</a></p>
+<p style="margin-left: 40px; ">If asking a research question, see <a href="//www.frick.org/research/library/ask-question" target="_blank">Ask a Question</a>.</p>
+<p style="margin-left: 40px; ">For general information about visiting, see <a href="//www.frick.org/visit/library">Visit &gt; Library.</a></p>
+<p><iframe frameborder="0" height="350" marginheight="0" marginwidth="0" scrolling="no" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=The+Frick+Collection,+1+East+70th+Street,+New+York,+NY+10021&amp;aq=0&amp;sll=35.675147,-95.712891&amp;sspn=64.321111,126.738281&amp;ie=UTF8&amp;hq=The+Frick+Collection,+1+East+70th+Street,+New+York,+NY+10021&amp;hnear=Frick+Collection,+1+E+70th+St,+New+York,+10021-4994&amp;cid=15604679315585638632&amp;ll=40.790939,-73.964767&amp;spn=0.045488,0.073128&amp;z=13&amp;iwloc=A&amp;output=embed" width="535"></iframe></p>
+ </div></div></div><span property="dc:title" content="Visit" class="rdf-meta"></span>  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+<div id="block-sharethis-sharethis-block" class="block block-sharethis clearfix">
+
+    
+  <div class="content">
+    <div class="sharethis-wrapper"><span st_url="http://www.frick.org/visit" st_title="Visit" class="st_email"></span>
+<span st_url="http://www.frick.org/visit" st_title="Visit via @frickcollection" class="st_twitter"></span>
+<span st_url="http://www.frick.org/visit" st_title="Visit" class="st_facebook"></span>
+<span st_url="http://www.frick.org/visit" st_title="Visit" class="st_googleplus"></span>
+<span st_url="http://www.frick.org/visit" st_title="Visit" class="st_pinterest"></span>
+<span st_url="http://www.frick.org/visit" st_title="Visit" class="st_sharethis"></span>
+</div>  </div>
+</div>
+  </div>
+        <!-- $feed_icons was here; removed -->
+      </div></div> <!-- /.section, /#content -->
+
+              <div id="sidebar-first" class="column sidebar"><div class="section">
+            <div class="region region-sidebar-first">
+    <div id="block-menu-block-12" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-12 menu-name-main-menu parent-mlid-480 menu-level-1">
+  <ul class="menu clearfix"><li class="first collapsed menu-mlid-482"><a href="/visit/museum">Museum</a></li>
+<li class="collapsed menu-mlid-481"><a href="/visit/library" title="Frick Art Reference Library Visitor Information">Library</a></li>
+<li class="leaf menu-mlid-1251"><a href="/visit/parking" title="Parking and Garages">Parking</a></li>
+<li class="leaf menu-mlid-488"><a href="/visit/transportation" title="Transportation">Transportation</a></li>
+<li class="collapsed menu-mlid-1633"><a href="/visit/virtual_tour">Virtual Tour</a></li>
+<li class="last leaf menu-mlid-2028"><a href="/visit/directors_greeting">Director&#039;s Greeting</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-block-26" class="block block-block enews">
+
+    
+  <div class="content">
+     <h2><a href="//www.frick.org/enews">Sign Up for E-News!</a></h2>   </div>
+</div>
+  </div>
+        </div></div> <!-- /.section, /#sidebar-first -->
+      
+              <div id="sidebar-second" class="column sidebar"><div class="section">
+            <div class="region region-sidebar-second">
+    <div id="block-views-exhibitions-current-block" class="block block-views">
+
+    <h2>Current Exhibitions</h2>
+  
+  <div class="content">
+    <div class="view view-exhibitions-current view-id-exhibitions_current view-display-id-block transparent no-header view-dom-id-67afb58aedee94cd84d706edfa801236">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+          <a href="/exhibitions/parmigianino"><img typeof="foaf:Image" src="data:image/jpeg;base64,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" width="184" height="236" /></a>    
+          <h4 class="field-content titledate"><a href='/exhibitions/parmigianino '> <em>The Poetry of Parmigianino’s “Schiava Turca”</em>
+ </a><br />
+May 13, 2014 to July 20, 2014</h4>    
+            </li>
+          <li class="views-row views-row-2 views-row-even views-row-last">  
+          <a href="/exhibitions/houdon_and_clodion"><img typeof="foaf:Image" src="data:image/jpeg;base64,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" width="184" height="238" /></a>    
+          <h4 class="field-content titledate"><a href='/exhibitions/houdon_and_clodion '> <em>Enlightenment and Beauty: Sculptures by Houdon and Clodion </em>
+ </a><br />
+April 1, 2014 to April 5, 2015</h4>    
+            </li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+        </div></div> <!-- /.section, /#sidebar-second -->
+      
+    </div></div> <!-- /#main, /#main-wrapper -->
+
+    <div id="footer-wrapper" class="section">
+              <div id="footer-columns" class="clearfix">
+              <div class="region region-footer-firstcolumn">
+    <div id="block-block-8" class="block block-block">
+
+    <h2>Museum Information</h2>
+  
+  <div class="content">
+     <p><a href="//www.frick.org/visit/collection"><strong>The Frick Collection</strong><br />
+  1 East 70th Street<br />
+  New York, NY 10021<br />
+  212-288-0700</a></p>
+<p><strong>Museum Hours</strong><br />
+  Tuesday through Saturday<br />
+  10:00 a.m. to 6:00 p.m.<br />
+  Sunday<br />
+  11:00 a.m. to 5:00 p.m.<br /><br /><strong>Closed</strong><br />
+  Mondays and holidays<br /><a href="//www.frick.org/visit/collection/hours">More information »</a></p>
+<p> </p>
+   </div>
+</div>
+  </div>
+              <div class="region region-footer-secondcolumn">
+    <div id="block-block-88" class="block block-block">
+
+    <h2>Library Information</h2>
+  
+  <div class="content">
+     <p><a href="//www.frick.org/library"><strong>Frick Art Reference Library</strong><br />
+  10 East 71st Street<br />
+  New York, NY 10021<br />
+  212-547-0641</a></p>
+<p><strong>Library Hours</strong><br />
+  Monday through Friday<br />
+  10:00 a.m. to 5:00 p.m.<br />
+  Saturday, September through May<br />
+  9:30 a.m. to 1:00 p.m.<br /><br /><strong>Closed</strong><br />
+  Sundays and holidays<br /><a href="//www.frick.org/visit/library/hours">More information »</a></p>
+   </div>
+</div>
+  </div>
+              <div class="region region-footer-thirdcolumn">
+    <div id="block-block-6" class="block block-block">
+
+    <h2>Upcoming Events</h2>
+  
+  <div class="content">
+     <ul><li><a href="//www.frick.org/support/benefit_events">Benefit Events</a></li>
+  <li><a href="//www.frick.org/exhibitions">Special Exhibitions</a></li>
+  <li><a href="//www.frick.org/programs/concerts">Concerts</a></li>
+  <li><a href="//www.frick.org/programs/lectures/all_listings">Lectures and Talks</a></li>
+  <li><a href="//www.frick.org/programs/all_courses_and_conversations">Courses and Conversations</a></li>
+  <li><a href="//www.frick.org/programs/studio/all_studio_programs">Studio Programs</a></li>
+  <li><a href="//www.frick.org/programs/student">Student Programs</a></li>
+  <li><a href="//www.frick.org/about/enews">Sign up for E-News</a></li>
+</ul>   </div>
+</div>
+  </div>
+              <div class="region region-footer-fourthcolumn">
+    <div id="block-block-5" class="block block-block">
+
+    <h2>Explore</h2>
+  
+  <div class="content">
+     <ul><li><a href="//www.frick.org/research/library">Frick Art Reference Library</a></li>
+  <li><a href="//www.frick.org/archives">Archives</a></li>
+  <li><a href="//www.frick.org/research/photoarchive">Photoarchive</a></li>
+  <li><a href="//www.frick.org/center">Center for Collecting</a></li>
+  <li><a href="//www.frick.org/collection/conservation">Collection Conservation</a></li>
+  <li><a href="//www.frick.org/research/library/conservation">Library Conservation</a></li>
+</ul>   </div>
+</div>
+  </div>
+              <div class="region region-footer-fifthcolumn">
+    <div id="block-block-4" class="block block-block">
+
+    <h2>Online Resources</h2>
+  
+  <div class="content">
+     <ul><li><a href="//www.frick.org/">www.frick.org</a></li>
+  <li><a href="http://collections.frick.org">collections.frick.org</a></li>
+  <li><a href="http://research.frick.org">research.frick.org</a></li>
+  <li><a href="http://fresco.frick.org">fresco.frick.org</a></li>
+  <li><a href="http://images.frick.org">images.frick.org</a></li>
+  <li><a href="http://nyarc.org/">NYARC</a></li>
+</ul>   </div>
+</div>
+  </div>
+          </div> <!-- /#footer-columns -->
+                        <div id="footer" class="clearfix">
+              <div class="region region-footer">
+    <div id="block-block-64" class="block block-block">
+
+    
+  <div class="content">
+     <!-- <p><a href="http://facebook.com/frickcollection"><img src="//www.frick.org/sites/all/themes/frick/images/fb-brown-icon.png" /></a> &nbsp; &nbsp; <a href="http://www.twitter.com/frickcollection"><img src="//www.frick.org/sites/all/themes/frick/images/twitter-brown-icon.png" /> &nbsp; &nbsp; </a><a href="http://www.youtube.com/frickcollection"><img src="//www.frick.org/sites/all/themes/frick/images/yt-brown-icon.png" /> &nbsp;&nbsp;&nbsp;</a>&nbsp; &nbsp; <a href="http://www.googleartproject.com/museums/frick"><img src="//www.frick.org/sites/all/themes/frick/images/google-brown-icon.png" /></a> &nbsp;&nbsp; <a href="//www.frick.org/rss.xml" title="Subscribe to webdevtfc.org RSS"><img src="//www.frick.org/sites/all/themes/frick/images/rss-brown-icon.png" /></a></p>-->
+<!--<p><a href="http://facebook.com/frickcollection"><img alt="" class="media-image" height="16" width="16" typeof="foaf:Image" src="//www.frick.org/sites/default/files/fbicon_0.png" />&nbsp;&nbsp;&nbsp;&nbsp;</a> <a href="http://www.twitter.com/frickcollection"><img alt="" class="media-image" height="16" width="16" typeof="foaf:Image" src="//www.frick.org/sites/default/files/twtico_0.png" />&nbsp;&nbsp;&nbsp;&nbsp; </a> <a href="http://www.youtube.com/frickcollection"><img alt="" class="media-image" height="16" width="16" typeof="foaf:Image" src="//www.frick.org/sites/default/files/ytico_0.png" />&nbsp;&nbsp;&nbsp; </a> <a href="http://www.artbabble.org/partner/frick-collection"><img src="//www.frick.org/sites/all/themes/frick/images/art-babble-brown-icon.png" /></a> &nbsp;&nbsp;&nbsp; <a href="http://www.googleartproject.com/museums/frick"><img alt="" class="media-image" height="16" width="16" typeof="foaf:Image" src="//www.frick.org/sites/default/files/gico_0.png" />&nbsp;&nbsp;&nbsp;&nbsp; </a> <a href="//www.frick.org/rss.xml" title="Subscribe to webdevtfc.org RSS"><img alt="" class="media-image" height="16" width="16" typeof="foaf:Image" src="//www.frick.org/sites/default/files/rssico_0.png" /></a></p>-->
+
+<p class="mediaicons"><a class="ext" href="http://facebook.com/frickcollection" target="_blank" title="Facebook"> </a> <a class="ext" href="http://www.twitter.com/frickcollection" target="_blank" title="Twitter"> </a> <a class="ext" href="http://www.youtube.com/frickcollection" target="_blank" title="Youtube"> </a> <a class="ext" href="http://fora.tv/partner/Frick_Collection" target="_blank" title="FORA.tv"> </a> <a class="ext" href="http://www.artbabble.org/partner/frick-collection" target="_blank" title="ArtBabble"> </a> <a class="ext" href="http://pinterest.com/frickcollection/" target="_blank" title="Pinterest"> </a> <a class="ext" href="http://instagram.com/frickcollection" target="_blank" title="Instagram"> </a> <a class="ext" href="http://www.googleartproject.com/museums/frick" target="_blank" title="Google Art Project"> </a></p>   </div>
+</div>
+<div id="block-block-9" class="block block-block">
+
+    
+  <div class="content">
+     <p><a href="//www.frick.org/copyright">Copyright © 1998-2014 The Frick Collection. All Rights Reserved.</a> | <a href="//www.frick.org/privacy">Privacy Policy</a> | <a href="//www.frick.org/web">About the Web Site</a> | <a href="//www.frick.org/about/copyright">Image Permissions</a> | <a href="//www.frick.org/terms">Terms of Use</a> | <a href="//www.frick.org/sitemap">Site Map</a> | <a href="//www.frick.org/">Home</a></p>
+   </div>
+</div>
+  </div>
+        </div> <!-- /#footer -->
+          
+        <a href="#" class="scrollup">Scroll</a>
+    </div><!-- #footer-wrapper -->
+
+
+  </div></div> <!-- /#page, /#page-wrapper -->
+  
+</body>
+
+</html>
